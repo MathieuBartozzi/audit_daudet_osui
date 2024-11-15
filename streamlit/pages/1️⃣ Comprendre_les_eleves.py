@@ -4,9 +4,24 @@ import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
 import plotly.subplots as sp
+import plotly.graph_objects as go
+import nltk
+import string
+import os
+import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
-import os
+from nltk.corpus import stopwords
+from wordcloud import WordCloud
+
+
+# Télécharger les ressources nécessaires au runtime si elles ne sont pas déjà présentes
+try:
+    stopwords.words('french')  # Vérifie si les stopwords en français sont disponibles
+except LookupError:
+    nltk.download('stopwords')
+
+
 
 ##### CHARGEMENT DES DONNÉES ######
 
@@ -25,54 +40,97 @@ def load_data(directory_path='data_app'):
         tuple: Contient tous les DataFrames chargés depuis les fichiers CSV.
     """
     # Liste des fichiers et leurs chemins complets
-    df_eleve = pd.read_csv(os.path.join(directory_path, "Eleve.csv"), sep=';')
+    df_eleve = pd.read_csv(os.path.join(directory_path, "df_eleve.csv"), sep=';')
     df_notes_devoir = pd.read_csv(os.path.join(directory_path, "df_notes_devoir.csv"), sep=';')
-    df_absenceseleves = pd.read_csv(os.path.join(directory_path, "Absenceseleves.csv"), sep=';')
-    df_retards = pd.read_csv(os.path.join(directory_path, "Retards.csv"), sep=';')
-    df_punition = pd.read_csv(os.path.join(directory_path, "Punition.csv"), sep=';', error_bad_lines=False, na_values=[''])
-    df_passagesinfirmerie = pd.read_csv(os.path.join(directory_path, "Passagesinfirmerie.csv"), sep=';')
-    df_sanction = pd.read_csv(os.path.join(directory_path, "Sanction.csv"), sep=';')
+    df_absenceseleves = pd.read_csv(os.path.join(directory_path, "df_absenceseleves.csv"), sep=';')
+    df_retards = pd.read_csv(os.path.join(directory_path, "df_retards.csv"), sep=';')
+    df_punition = pd.read_csv(os.path.join(directory_path, "df_punition.csv"), sep=';', error_bad_lines=False, na_values=[''])
+    df_passagesinfirmerie = pd.read_csv(os.path.join(directory_path, "df_passagesinfirmerie.csv"), sep=';')
+    df_sanction = pd.read_csv(os.path.join(directory_path, "df_sanction.csv"), sep=';')
+    df_appreciationprofesseurs = pd.read_csv(os.path.join(directory_path, "df_appreciationprofesseurs.csv"), sep=';')
 
-    return df_eleve, df_notes_devoir, df_absenceseleves, df_retards, df_punition, df_passagesinfirmerie, df_sanction
+    return df_eleve, df_notes_devoir, df_absenceseleves, df_retards, df_punition, df_passagesinfirmerie, df_sanction, df_appreciationprofesseurs
 
 # Appel de la fonction pour charger les données
-df_eleve, df_notes_devoir, df_absenceseleves, df_retards, df_punition, df_passagesinfirmerie, df_sanction = load_data(directory_path)
-
-
-############ CREATION DU DATAFRAME ELEVES ############
-
-# Listes des classes pour chaque niveau
-lycee_classes = ['1A', '1B/C', '2A', '2B', '2C', 'Terminale']
-college_classes = ['3A', '3B', '3C', '4A', '4B', '4C', '5A', '5B', '5C', '6A', '6B', '6C']
-
-# Fonction pour déterminer le niveau
-def determiner_niveau(classe):
-    if classe in lycee_classes:
-        return 'lycée'
-    elif classe in college_classes:
-        return 'collège'
-    else:
-        return 'N/A'  # Si la classe ne correspond à aucun niveau défini
-
-# Application de la fonction pour créer la colonne 'niveau'
-df_notes_devoir['niveau'] = df_notes_devoir['classes'].apply(determiner_niveau)
-
-# Renommer la colonne `ident` dans df_eleve pour correspondre à `eleve_id`
-df_eleve.rename(columns={'ident': 'eleve_id'}, inplace=True)
-
-# Calcul de la note pondérée en normalisant sur 20 et appliquant le coefficient
-df_notes_devoir['note_ponderee'] = (df_notes_devoir['note'] / df_notes_devoir['sur']) * 20 * df_notes_devoir['coeff']
+df_eleve, df_notes_devoir, df_absenceseleves, df_retards, df_punition, df_passagesinfirmerie, df_sanction, df_appreciationprofesseurs = load_data(directory_path)
 
 
 
-tab1, tab2 = st.tabs(["**RESULTATS**", "**VIE SCOLAIRE**"])
-
-
+tab1, tab2, tab3 = st.tabs(["**VIE SCOLAIRE**", "**RESULTATS**", '**BULLETINS**'])
 
 ############################## VIE SCOLAIRE  ##############################
 with tab1 :
+    st.subheader("Fréquences des absences, passages à l'infirmerie, punitions, retards")
 
-    ############ CREATION DU DATAFRAME ELEVES ############
+    # Counting occurrences by date
+    absences_by_date = df_absenceseleves['date'].value_counts().sort_index()
+    infirmerie_by_date = df_passagesinfirmerie['date'].value_counts().sort_index()
+    punition_by_date = df_punition['date'].value_counts().sort_index()
+    retards_by_date = df_retards['date'].value_counts().sort_index()
+
+    # Create subplots for each event type, displayed vertically
+    fig_freq = sp.make_subplots(rows=4, cols=1, shared_xaxes=True, subplot_titles=(
+        "Absences",
+        "Infirmerie",
+        "Punitions",
+        "Retards"
+    ))
+
+    # Absences
+    fig_freq.add_trace(go.Bar(
+        x=absences_by_date.index,
+        y=absences_by_date.values,
+        name="Absences",
+        marker_color=px.colors.qualitative.G10[4]
+    ), row=1, col=1)
+
+    # Passages à l'infirmerie
+    fig_freq.add_trace(go.Bar(
+        x=infirmerie_by_date.index,
+        y=infirmerie_by_date.values,
+        name="Passages à l'infirmerie",
+        marker_color=px.colors.qualitative.G10[5]
+    ), row=2, col=1)
+
+    # Punitions
+    fig_freq.add_trace(go.Bar(
+        x=punition_by_date.index,
+        y=punition_by_date.values,
+        name="Punitions",
+        marker_color=px.colors.qualitative.G10[6]
+    ), row=3, col=1)
+
+    # Retards
+    fig_freq.add_trace(go.Bar(
+        x=retards_by_date.index,
+        y=retards_by_date.values,
+        name="Retards",
+        marker_color=px.colors.qualitative.G10[7]
+    ), row=4, col=1)
+
+    # Update layout
+    fig_freq.update_layout(
+        height=800,
+        showlegend=False
+    )
+
+    # Set x-axis title on the last subplot only
+    fig_freq.update_xaxes(title_text="Date", row=4, col=1)
+    fig_freq.update_yaxes(title_text=None, row=1, col=1)
+    fig_freq.update_yaxes(title_text=None, row=2, col=1)
+    fig_freq.update_yaxes(title_text=None, row=3, col=1)
+    fig_freq.update_yaxes(title_text=None, row=4, col=1)
+
+    st.plotly_chart(fig_freq)
+
+    st.write("""
+        1. Les absences augmentent en fin de trimestre, avec un pic notable en fin d'année.
+        2. Les passages à l'infirmerie restent constants tout au long de l'année.
+        3. Lors des périodes 1, 2 et 3, les punitions atteignent un pic en fin de période, indiquant probablement une fatigue des élèves et des équipes. Sur la dernière période, le pic se situe plutôt au début, coïncidant avec une forte hausse des absences sur cette même période.
+    """)
+
+    ############ CREATION DU DATAFRAME indicateurs_eleves pour la vie scolaire ############
+
     # Calcul de la moyenne annuelle pondérée pour chaque élève
     notes_annuelles = df_notes_devoir.groupby('eleve_id').apply(
         lambda x: x['note_ponderee'].sum() / x['coeff'].sum()
@@ -84,12 +142,6 @@ with tab1 :
     punitions_total = df_punition.groupby('eleve_id').size().reset_index(name='total_punitions')
     infirmerie_total = df_passagesinfirmerie.groupby('eleve_id').size().reset_index(name='total_passages_infirmerie')
 
-    # Fusionner tous les indicateurs dans un DataFrame unique avec `sexe`
-    # indicateurs_eleves = notes_annuelles.merge(absences_total, on='eleve_id', how='left') \
-    #                             .merge(retards_total, on='eleve_id', how='left') \
-    #                             .merge(punitions_total, on='eleve_id', how='left') \
-    #                             .merge(infirmerie_total, on='eleve_id', how='left') \
-    #                             .merge(df_eleve[['eleve_id', 'sexe']], on='eleve_id', how='left')
 
     # Ajout de la colonne 'niveau' de df_notes_devoir à indicateurs_eleves
     indicateurs_eleves = notes_annuelles.merge(absences_total, on='eleve_id', how='left') \
@@ -105,7 +157,6 @@ with tab1 :
 
     # Remplir les valeurs manquantes par 0
     indicateurs_eleves.fillna(0, inplace=True)
-    ############ CREATION DU DATAFRAME ELEVES ✅ ############
 
     ############ PROFILAGE ############
 
@@ -142,7 +193,7 @@ with tab1 :
 
     st.subheader('Profilage des élèves')
     st.write(
-        "Ce graphique illustre la répartition des élèves en différents profils, déterminés par une analyse de clustering. Cette analyse a été réalisée en croisant la moyenne annuelle, les absences, les retards, les punitions, les passages à l'infirmerie, ainsi que le sexe des élèves. On peut identifier **cinq groupes** d’élèves présentant des caractéristiques communes.")
+        "Ce graphique illustre la répartition des élèves en différents profils, déterminés par une analyse de **clustering**. Cette analyse a été réalisée en croisant la moyenne annuelle, les absences, les retards, les punitions, les passages à l'infirmerie, ainsi que le sexe des élèves. On peut identifier **cinq groupes** d’élèves présentant des caractéristiques communes.")
 
     col1, col2,col3, col4  =st.columns(4)
 
@@ -181,46 +232,44 @@ with tab1 :
 
     # Moyenne vs Absences
     scatter1 = px.scatter(indicateurs_eleves, x='total_absences', y='moyenne_annuelle',
-                        color_discrete_sequence=[px.colors.qualitative.G10[0]])
+                        color_discrete_sequence=[px.colors.qualitative.G10[0]],trendline="ols")
     for trace in scatter1.data:
         fig_corr.add_trace(trace, row=1, col=1)
 
     # Moyenne vs Retards
     scatter2 = px.scatter(indicateurs_eleves, x='total_retards', y='moyenne_annuelle',
-                        color_discrete_sequence=[px.colors.qualitative.G10[1]])
+                        color_discrete_sequence=[px.colors.qualitative.G10[1]],trendline="ols")
     for trace in scatter2.data:
         fig_corr.add_trace(trace, row=1, col=2)
 
     # Moyenne vs Punitions
     scatter3 = px.scatter(indicateurs_eleves, x='total_punitions', y='moyenne_annuelle',
-                        color_discrete_sequence=[px.colors.qualitative.G10[2]])
+                        color_discrete_sequence=[px.colors.qualitative.G10[2]],trendline="ols")
     for trace in scatter3.data:
         fig_corr.add_trace(trace, row=1, col=3)
 
     # Absences vs Retards
     scatter4 = px.scatter(indicateurs_eleves, x='total_absences', y='total_retards',
-                        color_discrete_sequence=[px.colors.qualitative.G10[3]])
+                        color_discrete_sequence=[px.colors.qualitative.G10[3]],trendline="ols")
     for trace in scatter4.data:
         fig_corr.add_trace(trace, row=2, col=1)
 
     # Absences vs Punitions
     scatter5 = px.scatter(indicateurs_eleves, x='total_absences', y='total_punitions',
-                        color_discrete_sequence=[px.colors.qualitative.G10[4]])
+                        color_discrete_sequence=[px.colors.qualitative.G10[4]],trendline="ols")
     for trace in scatter5.data:
         fig_corr.add_trace(trace, row=2, col=2)
 
     # Retards vs Punitions
     scatter6 = px.scatter(indicateurs_eleves, x='total_retards', y='total_punitions',
-                        color_discrete_sequence=[px.colors.qualitative.G10[5]])
+                        color_discrete_sequence=[px.colors.qualitative.G10[5]], trendline="ols")
     for trace in scatter6.data:
         fig_corr.add_trace(trace, row=2, col=3)
 
-    # Mettre à jour la disposition du graphique
-    fig_corr.update_layout(height=800, width=1000)
+    # Modifier le layout pour tous les scatter plots dans fig_corr
+    fig_corr.update_layout(height=800,width=1000, template="plotly_white")
 
-    # Personnaliser l'apparence de la grille
-    fig_corr.update_xaxes(showgrid=True, gridwidth=1, gridcolor="rgba(200, 200, 200, 0.5)")
-    fig_corr.update_yaxes(showgrid=True, gridwidth=1, gridcolor="rgba(200, 200, 200, 0.5)")
+
 
     # Affichage dans Streamlit
     st.plotly_chart(fig_corr)
@@ -306,64 +355,33 @@ with tab1 :
 
 
 
+
+
 with tab2:
-    # 1. Moyenne par Élève et par Matière
-    # Calcul des moyennes des notes par élève et par matière
-    moyennes_matiere = df_notes_devoir.groupby(['eleve_id', 'matiere'])['note'].mean().reset_index()
-    moyennes_matiere.rename(columns={'note': 'moyenne_matiere'}, inplace=True)
 
-    # 2. Évolution des Résultats par Trimestre et par Genre
-    # Calcul des moyennes trimestrielles par élève, par matière et par genre
-    moyennes_trimestre = df_notes_devoir.groupby(['eleve_id', 'matiere', 'trimestre', 'sexe'])['note'].mean().reset_index()
-    moyennes_trimestre.rename(columns={'note': 'moyenne_trimestrielle'}, inplace=True)
+    st.dataframe(df_notes_devoir)
 
-    # Visualisation de l'évolution des moyennes trimestrielles par matière et par genre
-    fig_evolution = px.line(
-        moyennes_trimestre, x='trimestre', y='moyenne_trimestrielle', color='sexe',
-        facet_col='matiere', facet_col_wrap=3, markers=True,
-        labels={'moyenne_trimestrielle': 'Moyenne Trimestrielle', 'trimestre': 'Trimestre'},
-        title="Évolution des moyennes trimestrielles par matière et par genre"
+    # 2. Calcul de la moyenne des notes par niveau et par matière
+    moyennes_par_niveau_matiere = df_notes_devoir.groupby(['niveau_de_classe', 'matiere'])['note'].mean().reset_index()
+
+    # 3. Visualisation de l'évolution de la moyenne par niveau pour chaque matière
+    fig_lines = px.line(
+        moyennes_par_niveau_matiere,
+        x='niveau_de_classe',
+        y='note',
+        color='matiere',
+        markers=True,
+        labels={'note': 'Moyenne des Notes', 'niveau': 'Niveau de Classe'},
+        title="Évolution de la Moyenne par Niveau de Classe pour chaque Matière"
     )
-    fig_evolution.update_layout(height=600)
-    fig_evolution.show()
 
-    # 3. Répartition des Notes par Matière, Classe et Genre
-    # Calcul des moyennes et écarts-types des notes par matière, classe, et sexe
-    stats_matiere_classe_genre = df_notes_devoir.groupby(['matiere', 'classe', 'sexe']).agg(
-        moyenne_note=('note', 'mean'),
-        ecart_type_note=('note', 'std')
-    ).reset_index()
+    # Ordre des niveaux de classe pour un affichage cohérent
+    fig_lines.update_xaxes(categoryorder='array', categoryarray=['6e', '5e', '4e', '3e', 'Seconde', 'Première', 'Terminale'])
 
-    # Visualisation de la répartition des notes par matière, classe et genre
-    fig_distribution = px.bar(
-        stats_matiere_classe_genre, x='matiere', y='moyenne_note', color='sexe',
-        facet_col='classe', error_y='ecart_type_note', barmode='group',
-        labels={'moyenne_note': 'Moyenne des Notes', 'matiere': 'Matière'},
-        title="Répartition des moyennes par matière, classe et genre"
-    )
-    fig_distribution.update_layout(height=700)
-    fig_distribution.show()
+    # Affichage du graphique
+    st.plotly_chart(fig_lines)
 
-    # 4. Clustering par Matières
-    # Préparation des données pour le clustering : Moyenne par matière pour chaque élève
-    moyennes_par_matiere = df_notes_devoir.pivot_table(index='eleve_id', columns='matiere', values='note', aggfunc='mean').fillna(0)
 
-    # Appliquer le clustering K-means
-    kmeans = KMeans(n_clusters=4, random_state=0)
-    moyennes_par_matiere['cluster'] = kmeans.fit_predict(moyennes_par_matiere)
 
-    # Visualisation des clusters par matière (en utilisant les deux premières matières principales pour les axes)
-    matiere_x = moyennes_par_matiere.columns[0]  # Première matière
-    matiere_y = moyennes_par_matiere.columns[1]  # Deuxième matière
-
-    fig_clusters = px.scatter(
-        moyennes_par_matiere,
-        x=matiere_x,
-        y=matiere_y,
-        color='cluster',
-        title="Clusters d'élèves par matières",
-        labels={matiere_x: f"Moyenne en {matiere_x}", matiere_y: f"Moyenne en {matiere_y}", 'cluster': 'Cluster'},
-        color_continuous_scale=px.colors.qualitative.G10
-    )
-    fig_clusters.update_layout(height=600)
-    fig_clusters.show()
+with tab3:
+    st.dataframe(df_appreciationprofesseurs)

@@ -1,0 +1,1655 @@
+classes;punition;date;motif;heure;eleve_id
+6A;Mot dans le carnet;2023-09-11;Agression d'un élève;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2023-09-14;travail non fait;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Exclusion de cours;2023-09-19;Retard injustifié;15:00:00;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Exclusion de cours;2023-10-02;Attitude en classe, bavardage incessant;15:00:00;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2023-10-18;Agitation en classe;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2023-11-10;Bavardages et manque de concentration.;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Retenue;2024-01-15;comportement en classe;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2024-02-05;Agitation en classe;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Retenue;2024-02-19;insulte envers un enseignant, Manque de respect envers le professeur;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Exclusion de cours;2024-03-14;a insulté son camarade de classe;11:10:00;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Retenue;2024-03-22;il a seché l'heure de permanence et il jouait le foot au plateau sportif sans autorisation et sans surveillance;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Exclusion de cours;2024-03-25;Retard injustifié;13:50:00;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Exclusion de cours;2024-03-29;Retard injustifié, retard sans excuses;15:00:00;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Exclusion de cours;2024-04-05;Retard injustifié;12:50:00;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2024-04-15;bavardage incessant;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2024-04-15;Agitation en classe, Bavardages incessants ;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Exclusion de cours;2024-04-16;Agitation en classe, Attitude en classe;16:00:00;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Exclusion de cours;2024-04-19;Agitation en classe;08:00:00;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Retenue;2024-04-22;Devoirs non faits;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Retenue;2024-04-22;Agitation en classe;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Retenue;2024-04-22;Insulte en plein cours son camarade;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Retenue;2024-04-26;manque de respect;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Retenue;2024-05-13;Bavardages incessants ;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2024-05-17;Devoirs non faits;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2024-05-17;Agitation en classe;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2024-05-20;Bavardages incessants ;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6A;Mot dans le carnet;2024-05-20;à manque de de respect;;XsU1KdAl5QgIx_di3xx-djOl3aLVTf7t7Gj2AvygRkc
+6B;Mot dans le carnet;2023-12-11;bavardage et manque de concentration;;ww8mP6wci6pu9RRqK6lcvQQHXgUF0D3t8YtsbDWAEcQ
+6B;Retenue;2024-03-20;plus de 4 retards sans excuses;;ww8mP6wci6pu9RRqK6lcvQQHXgUF0D3t8YtsbDWAEcQ
+6B;Mot dans le carnet;2024-04-02;bavardage;;ww8mP6wci6pu9RRqK6lcvQQHXgUF0D3t8YtsbDWAEcQ
+6B;Mot dans le carnet;2024-05-24;bavardages incessants;;ww8mP6wci6pu9RRqK6lcvQQHXgUF0D3t8YtsbDWAEcQ
+6B;Mot dans le carnet;2024-06-11;a insulté son camarade de classe;;ww8mP6wci6pu9RRqK6lcvQQHXgUF0D3t8YtsbDWAEcQ
+1B/C;Exclusion de cours;2024-02-15;nan;08:00:00;WS4WDhmqO5Qcb0LibUmX64_gzrBx85uRjceQHJarop4
+4A;Mot dans le carnet;2023-09-18;Bavardages incessants ;;9aboz2vSFuXu8Y-fCFsCb5kO1x4Vtgj6PAGNqKiVG8A
+4A;Mot dans le carnet;2024-02-06;nan;;9aboz2vSFuXu8Y-fCFsCb5kO1x4Vtgj6PAGNqKiVG8A
+4A;Mot dans le carnet;2024-02-16;manque de concentration, Manque de concentration. Bavardages incessants. Défaut de carnet, manque de motivation et de travail;;9aboz2vSFuXu8Y-fCFsCb5kO1x4Vtgj6PAGNqKiVG8A
+4A;Mot dans le carnet;2024-05-17;Bavardages incessants, refus de faire son travail . Manque de concentration;;9aboz2vSFuXu8Y-fCFsCb5kO1x4Vtgj6PAGNqKiVG8A
+4A;Mot dans le carnet;2024-05-20;nan;;9aboz2vSFuXu8Y-fCFsCb5kO1x4Vtgj6PAGNqKiVG8A
+3B;Mot dans le carnet;2024-06-05;Bavardages incessants ;;YTJheOHtAHigtQ0-xd84VTg-Uw4cr38Gpl4zxEwoZF8
+5C;Mot dans le carnet;2024-03-14;Agitation en classe, bavardages incessants;;lACVxPUlyoyJlKmJHYGXlF02Gw_rtaJPWFCdlMg0QVQ
+5C;Devoir supplémentaire;2024-03-25;Bavardage incessant et manque de respect dans la classe, Comportement inacceptable en classe, Excès de bavardage, perturbations fréquentes  et un manque du respect au règlement de la classe, ce qui nous fait perdre énormément du temps pendant la séance .;;lACVxPUlyoyJlKmJHYGXlF02Gw_rtaJPWFCdlMg0QVQ
+5C;Retenue;2024-03-28;Utilisation de télèphone;;lACVxPUlyoyJlKmJHYGXlF02Gw_rtaJPWFCdlMg0QVQ
+5A;Mot dans le carnet;2023-11-24;Attitude en classe;;qFM3VKtuhvVjtKOZV821-RK_Pc5_ymt5aBeC1EBXuFQ
+5A;Retenue;2023-12-04;nan;;qFM3VKtuhvVjtKOZV821-RK_Pc5_ymt5aBeC1EBXuFQ
+5A;Mot dans le carnet;2024-01-16;dégradation du matériel;;qFM3VKtuhvVjtKOZV821-RK_Pc5_ymt5aBeC1EBXuFQ
+5A;Retenue;2024-02-13;Agitation, Agitation en classe;;qFM3VKtuhvVjtKOZV821-RK_Pc5_ymt5aBeC1EBXuFQ
+5A;Retenue;2024-04-19;Violence physique;;qFM3VKtuhvVjtKOZV821-RK_Pc5_ymt5aBeC1EBXuFQ
+5A;Retenue;2024-06-07;Insultes répétées envers des camarades et comportement inadapté en cours;;qFM3VKtuhvVjtKOZV821-RK_Pc5_ymt5aBeC1EBXuFQ
+6A;Mot dans le carnet;2023-09-11;Agitation en classe;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Retenue;2023-10-03;Agitation en classe, bavardage incessant;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Mot dans le carnet;2023-10-13;Bavardages et manque de concentration.;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Retenue;2023-11-16;nan;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Retenue;2023-11-21;Attitude inadmissible en cours, Attitude inadmissible en cours: Entrée non autorisée dans la salle de matériel sportif et utilisation du trampoline sans permission;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Mot dans le carnet;2023-11-27;attitude inacceptable, bavardage incessant;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Retenue;2023-12-04;attitude inacceptable, Bavardages incessants.Manque de concentration. Défaut de carnet;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Exclusion de cours;2023-12-08;Retard injustifié;12:50:00;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Devoir supplémentaire;2023-12-15;Retard injustifié;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Mot dans le carnet;2024-01-29;nan;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Retenue;2024-02-12;Attitude en classe;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Exclusion de cours;2024-02-13;a insulté son camarade de classe, Comportement inacceptable en classe;16:00:00;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Retenue;2024-02-13;a insulté son camarade de classe;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Devoir supplémentaire;2024-03-14;Agitation;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Exclusion de cours;2024-03-25;Retard injustifié;13:50:00;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Mot dans le carnet;2024-04-01;nan;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Mot dans le carnet;2024-04-01;Devoirs non faits;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Retenue;2024-04-01;Agitation en classe;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Mot dans le carnet;2024-04-15;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Devoir supplémentaire;2024-05-13;Agitation;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Mot dans le carnet;2024-05-20;Agitation en classe;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+6A;Devoir supplémentaire;2024-05-20;absence de matériel;;sS0xp35dB4R0oCpR6MKfzqqgvkKWgwXtYKICYYuZmWM
+3B;Mot dans le carnet;2023-11-20;Attitude en classe;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2023-12-05;bavardage;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2024-01-25;bavardages incessants;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Exclusion de cours;2024-01-25;attitude inacceptable;16:00:00;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2024-02-06;bavardage;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Retenue;2024-02-08;Devoirs non faits;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Retenue;2024-02-15;travail non fait;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Exclusion de cours;2024-04-09;nan;09:00:00;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2024-04-15;Utilisation de telephone;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2024-04-15;travail non fait;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2024-04-19;Utilisation de telephone;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Retenue;2024-04-19;bavardages incessants, Manque du respect envers un adulte, travail non fait;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Retenue;2024-04-23;Manque de respect envers le professeur;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Retenue;2024-04-23;Manque de respect envers le professeur;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Exclusion de cours;2024-04-24;bavardage et manque de concentration;09:00:00;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2024-05-13;Bavardages et manque de concentration.;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Retenue;2024-05-13;Devoirs non faits;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2024-05-16;Joue dans la classe and n'a pas fait sa tache;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Mot dans le carnet;2024-06-05;bavardages incessants;;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+3B;Exclusion de cours;2024-06-06;Bavardages incessants ;15:00:00;IE5czaM5eqGcurQ3enbVlHDxYSPxeyxdgs96uGY3kV8
+2B;Mot dans le carnet;2024-02-19;retard;;TUUcSkuuTGxNEi80ls8WXMH_DJCBsnXvjSvTQle4Yb4
+3A;Retenue;2024-04-19;Utilisation de télèphone;;OOpRCRxvrwoyfys-Yh0wxX2Tbib8y2cclwOUWTh78Rw
+4B;Retenue;2024-05-17;à manque de de respect, à manque de respect à l'animteur et il a utilisé son télèphone au foyer;;0KKBKLP8YKH8y1iOxusjfq4YYltI9NEo-1By1V3NF9E
+4B;Mot dans le carnet;2024-05-23;Attitude inadmissible en cours, bavardage incessant;;0KKBKLP8YKH8y1iOxusjfq4YYltI9NEo-1By1V3NF9E
+4B;Mot dans le carnet;2024-05-28;Bavardages incessants ;;0KKBKLP8YKH8y1iOxusjfq4YYltI9NEo-1By1V3NF9E
+4B;Mot dans le carnet;2024-05-31;bavardage incessant;;0KKBKLP8YKH8y1iOxusjfq4YYltI9NEo-1By1V3NF9E
+4B;Mot dans le carnet;2024-06-05;Bavardages et manque de concentration.;;0KKBKLP8YKH8y1iOxusjfq4YYltI9NEo-1By1V3NF9E
+4A;Mot dans le carnet;2023-09-19;Attitude en classe;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4A;Mot dans le carnet;2023-09-22;Bavardages incessants ;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4A;Retenue;2023-09-25;Agitation en classe, bavardage incessant;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4A;Mot dans le carnet;2024-01-09;nan;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4A;Retenue;2024-01-22;A agressé son camarade de classe en lui jetant une trousse au visage ;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4A;Retenue;2024-02-09;bruit et cri en entrant en permanence;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4A;Mot dans le carnet;2024-02-16;Attitude en classe;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4A;Exclusion de cours;2024-03-21;Bavardages et manque de concentration.;11:10:00;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4A;Mot dans le carnet;2024-03-22;comportement en classe;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4C;Mot dans le carnet;2024-05-27;imitation de voix;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+4C;Mot dans le carnet;2024-05-31;comportement en classe;;tPttCr4FdfOwDWhWFi2ScH154wk2iSBdx6Eqj6z2pRI
+6A;Mot dans le carnet;2023-09-11;Agitation en classe;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2023-09-14;Bavardages incessants ;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2023-10-18;Agitation en classe;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2023-11-10;Bavardages et manque de concentration.;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Exclusion de cours;2023-12-07;Retard injustifié;15:00:00;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2023-12-08;nan;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Retenue;2024-01-18;Attitude inadmissible en cours;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-01-19;nan;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-02-02;nan;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Exclusion de cours;2024-02-09;nan;12:50:00;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-02-15;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-03-15;nan;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-03-25;prendre de la parole sans permission malgré les plusieurs avertissement de prof et cela pertube le deroulement de cours.;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-04-01;Devoirs non faits;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-04-01;Bavardages incessants ;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-04-05;prendre de la parole sans permission malgré les plusieurs avertissement de prof et cela pertube le deroulement de cours.;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-04-05;nan;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-04-18;Bavardages incessants. Un grand manque de concentra;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Mot dans le carnet;2024-04-19;Devoirs non faits;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Retenue;2024-04-19;A agressé son camarade de classe en lui jetant une trousse au visage , Manque de respect envers le professeur;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6A;Retenue;2024-04-22;Devoirs non faits;;qgwfXNdiOgmo6UyG6fT7cI7fJ1wUo69HgjuIZWAqXmU
+6C;Mot dans le carnet;2024-01-16;Attitude en classe;;svgIZkFdvEA614tScOOGaJFyVxTJSfB_1vA_2B4tc5I
+6C;Retenue;2024-01-18;ils se sont bagarrées dans la cour;;svgIZkFdvEA614tScOOGaJFyVxTJSfB_1vA_2B4tc5I
+6C;Mot dans le carnet;2024-01-30;comportement inadmissible en permamnence;;svgIZkFdvEA614tScOOGaJFyVxTJSfB_1vA_2B4tc5I
+6C;Retenue;2024-04-08;Violence physique;;svgIZkFdvEA614tScOOGaJFyVxTJSfB_1vA_2B4tc5I
+6B;Obligation de présenter des excuses à l'écrit;2023-11-14;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;kpWZEFB3rSR5WcZsr20XHb1xKtRFde52qg2fgUF24yI
+6B;Mot dans le carnet;2023-12-05;Attitude en classe;;kpWZEFB3rSR5WcZsr20XHb1xKtRFde52qg2fgUF24yI
+6B;Exclusion de cours;2024-02-21;nan;09:00:00;kpWZEFB3rSR5WcZsr20XHb1xKtRFde52qg2fgUF24yI
+6B;Retenue;2024-03-20;plus de 4 retards sans excuses;;kpWZEFB3rSR5WcZsr20XHb1xKtRFde52qg2fgUF24yI
+6B;Retenue;2024-03-22;Comportement  envers une assistante d'éducation;;kpWZEFB3rSR5WcZsr20XHb1xKtRFde52qg2fgUF24yI
+6B;Mot dans le carnet;2024-03-29;oublie constant de matériel;;kpWZEFB3rSR5WcZsr20XHb1xKtRFde52qg2fgUF24yI
+6B;Mot dans le carnet;2024-05-22;nan;;kpWZEFB3rSR5WcZsr20XHb1xKtRFde52qg2fgUF24yI
+6B;Mot dans le carnet;2024-05-28;Attitude inadmissible au collège;;kpWZEFB3rSR5WcZsr20XHb1xKtRFde52qg2fgUF24yI
+4A;Mot dans le carnet;2023-10-06;bavardage;;Md0C_U3nCy4cLhtrytEfaVFMe2bwc6jneeDjEGhQeeU
+4A;Mot dans le carnet;2023-10-11;Attitude en classe;;Md0C_U3nCy4cLhtrytEfaVFMe2bwc6jneeDjEGhQeeU
+4A;Mot dans le carnet;2023-10-20;non respect du réglement intérieur, prendre de la parole sans permission malgré les plusieurs avertissement de prof et cela pertube le deroulement de cours.;;Md0C_U3nCy4cLhtrytEfaVFMe2bwc6jneeDjEGhQeeU
+4A;Mot dans le carnet;2023-11-09;bavardage et manque de concentration;;Md0C_U3nCy4cLhtrytEfaVFMe2bwc6jneeDjEGhQeeU
+4A;Mot dans le carnet;2023-12-04;Agitation en classe;;Md0C_U3nCy4cLhtrytEfaVFMe2bwc6jneeDjEGhQeeU
+4A;Retenue;2023-12-04;Agitation en classe;;Md0C_U3nCy4cLhtrytEfaVFMe2bwc6jneeDjEGhQeeU
+3B;Retenue;2023-09-15;geste deplacé;;suNdCZ3D03WYe0rNab81_oBDhE4Ds2-9AhnwrHuCb3Y
+3B;Mot dans le carnet;2023-11-27;Attitude en classe;;suNdCZ3D03WYe0rNab81_oBDhE4Ds2-9AhnwrHuCb3Y
+3B;Mot dans le carnet;2024-03-19;Comportement inacceptable en classe;;suNdCZ3D03WYe0rNab81_oBDhE4Ds2-9AhnwrHuCb3Y
+2B;Mot dans le carnet;2023-12-12;Insulte en plein cours son camarade;;vW_M2cj2HsKw75JdCYmu1dTpDXoFcfwug4d4zcOUVSw
+6A;Mot dans le carnet;2023-09-25;Agitation en classe, bavardage incessant;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6A;Retenue;2023-09-26;Agitation en classe, bavardage incessant, manque de respect;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6A;Mot dans le carnet;2023-11-10;Bavardages et manque de concentration.;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6A;Mot dans le carnet;2024-02-02;atittude inadmissible,cumul d'insultes envers ses camarades de classe;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6A;Mot dans le carnet;2024-03-29;nan;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6A;Mot dans le carnet;2024-04-01;Devoirs non faits;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6A;Mot dans le carnet;2024-04-01;bavardage incessant;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6A;Mot dans le carnet;2024-04-01;bavardage incessant;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6A;Mot dans le carnet;2024-05-27;Bavardages incessants ;;14KToI0tyl8jO9tTPSB_Nl4BnLEW_8rkNX7g0JbhtXA
+6B;Retenue;2024-03-20;plus de 4 retards sans excuses;;pnOYSPGqDnfTkQybynIme0aPiD7XUtwfGe8_Cr3RsiQ
+6B;Mot dans le carnet;2024-04-15;nan;;pnOYSPGqDnfTkQybynIme0aPiD7XUtwfGe8_Cr3RsiQ
+6B;Mot dans le carnet;2024-04-16;Attitude en classe;;pnOYSPGqDnfTkQybynIme0aPiD7XUtwfGe8_Cr3RsiQ
+5B;Mot dans le carnet;2023-09-27;Bavardages et manque de concentration.;;2Tm1cjBumw-ZdqAM4a59ijnW-1oGsIaTZGsZWfJW-DI
+5B;Mot dans le carnet;2023-10-13;Bavardages et manque de concentration.;;2Tm1cjBumw-ZdqAM4a59ijnW-1oGsIaTZGsZWfJW-DI
+5B;Mot dans le carnet;2023-10-13;bavardage;;2Tm1cjBumw-ZdqAM4a59ijnW-1oGsIaTZGsZWfJW-DI
+5B;Mot dans le carnet;2023-11-24;bavardage incessant;;2Tm1cjBumw-ZdqAM4a59ijnW-1oGsIaTZGsZWfJW-DI
+5B;Mot dans le carnet;2023-12-08;Jet d' objet en classe;;2Tm1cjBumw-ZdqAM4a59ijnW-1oGsIaTZGsZWfJW-DI
+5B;Mot dans le carnet;2023-12-18;bavardage et manque de concentration;;2Tm1cjBumw-ZdqAM4a59ijnW-1oGsIaTZGsZWfJW-DI
+5B;Mot dans le carnet;2024-02-22;Bavardages et moqueries;;2Tm1cjBumw-ZdqAM4a59ijnW-1oGsIaTZGsZWfJW-DI
+1B/C;Retenue;2023-09-26;Utilisation du téléphone portable dans la cour;;lNEJ5a05KaUVUoLSYuMlQPkOfjII_JkqOjvBm4EPRr8
+1B/C;Exclusion de cours;2023-10-03;nan;15:00:00;lNEJ5a05KaUVUoLSYuMlQPkOfjII_JkqOjvBm4EPRr8
+1B/C;Retenue;2023-10-04;BAVARDAGES, portable non éteint, Tache non effectuee, utilisation du portable;;lNEJ5a05KaUVUoLSYuMlQPkOfjII_JkqOjvBm4EPRr8
+5B;Mot dans le carnet;2023-12-01;bavardage incessant;;Uy6e4GUVxQgWxrJjiUA73GVuFtpzq7j1qtv0e8-gxXs
+5A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;EQ-frbuXUubU0pa_LkVPT8CLIaPTJQMRnbBoIOyeUI0
+5A;Mot dans le carnet;2023-09-26;Attitude en classe;;EQ-frbuXUubU0pa_LkVPT8CLIaPTJQMRnbBoIOyeUI0
+5A;Mot dans le carnet;2023-10-16;Bavardages et manque de concentration.;;EQ-frbuXUubU0pa_LkVPT8CLIaPTJQMRnbBoIOyeUI0
+5A;Mot dans le carnet;2024-02-05;Utilisation de télèphone au foyer;;EQ-frbuXUubU0pa_LkVPT8CLIaPTJQMRnbBoIOyeUI0
+5A;Retenue;2024-02-20;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;EQ-frbuXUubU0pa_LkVPT8CLIaPTJQMRnbBoIOyeUI0
+Terminale;Exclusion de cours;2023-12-05;nan;08:00:00;cgNR-1My2greON5hP6rjr3twfqcuGwyHAPntVI1wVWk
+Terminale;Exclusion de cours;2024-04-03;absence de matériel;12:50:00;cgNR-1My2greON5hP6rjr3twfqcuGwyHAPntVI1wVWk
+Terminale;Exclusion de cours;2024-04-05;telephone;10:10:00;cgNR-1My2greON5hP6rjr3twfqcuGwyHAPntVI1wVWk
+4A;Mot dans le carnet;2023-09-25;Bavardages et manque de concentration.;;NhVdB1aqNnGMlkG2_R0da8ckxxHOwY4szx4A9c-g4TQ
+4A;Devoir supplémentaire;2023-11-24;oublie constant de matériel;;NhVdB1aqNnGMlkG2_R0da8ckxxHOwY4szx4A9c-g4TQ
+4A;Mot dans le carnet;2023-12-05;bavardage incessant;;NhVdB1aqNnGMlkG2_R0da8ckxxHOwY4szx4A9c-g4TQ
+4A;Mot dans le carnet;2024-03-12;BAVARDAGES;;NhVdB1aqNnGMlkG2_R0da8ckxxHOwY4szx4A9c-g4TQ
+4A;Retenue;2024-05-24;Devoirs non faits;;NhVdB1aqNnGMlkG2_R0da8ckxxHOwY4szx4A9c-g4TQ
+2C;Exclusion de cours;2023-11-09;nan;10:10:00;2keK1kYJilcgb72YqeQNU4Xk3jAIzOpqThOyEhB-5vs
+2C;Exclusion de cours;2024-04-04;absence de matériel;10:10:00;2keK1kYJilcgb72YqeQNU4Xk3jAIzOpqThOyEhB-5vs
+2A;Devoir supplémentaire;2023-10-10;nan;;YFveXouAAW4ybJ3DHojjdzi--DbKgFGYyv3TKm7b5Y4
+6C;Mot dans le carnet;2024-01-30;comportement inadmissible en permamnence;;5mGFk-eJGXpzZ-h-HKaOKSWUFuY1Y5fAINU-B5xaBk0
+6C;Mot dans le carnet;2024-05-21;Manque du respect envers un adulte;;5mGFk-eJGXpzZ-h-HKaOKSWUFuY1Y5fAINU-B5xaBk0
+2B;Retenue;2023-10-17;utilisation du téléphone en permanence;;QoHj7t0BrPEr5cfr_rnnpjKm1k0HTw1JVHiiXB0okfw
+2B;Retenue;2023-11-30;ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT;;QoHj7t0BrPEr5cfr_rnnpjKm1k0HTw1JVHiiXB0okfw
+2B;Retenue;2023-12-12;utilisation du portable;;QoHj7t0BrPEr5cfr_rnnpjKm1k0HTw1JVHiiXB0okfw
+2B;Exclusion de cours;2024-02-14;BAVARDAGES, Prend son téléphone en cours;10:10:00;QoHj7t0BrPEr5cfr_rnnpjKm1k0HTw1JVHiiXB0okfw
+2B;Retenue;2024-03-21;ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT;;QoHj7t0BrPEr5cfr_rnnpjKm1k0HTw1JVHiiXB0okfw
+2B;Retenue;2024-04-08;Utilisation de télèphone;;QoHj7t0BrPEr5cfr_rnnpjKm1k0HTw1JVHiiXB0okfw
+2B;Exclusion de cours;2024-05-21;nan;10:10:00;QoHj7t0BrPEr5cfr_rnnpjKm1k0HTw1JVHiiXB0okfw
+5A;Mot dans le carnet;2023-09-21;travail non fait;;2AfnzR7r-O3GWRcsn0qPnFH-Hg4yK8PjDlJCVmv2OsA
+5A;Mot dans le carnet;2023-10-09;bavardage et manque de concentration;;2AfnzR7r-O3GWRcsn0qPnFH-Hg4yK8PjDlJCVmv2OsA
+5A;Mot dans le carnet;2023-11-09;bavardage et manque de concentration;;2AfnzR7r-O3GWRcsn0qPnFH-Hg4yK8PjDlJCVmv2OsA
+5A;Mot dans le carnet;2023-11-14;bavardage incessant;;2AfnzR7r-O3GWRcsn0qPnFH-Hg4yK8PjDlJCVmv2OsA
+5A;Mot dans le carnet;2023-12-01;oublie constant de matériel;;2AfnzR7r-O3GWRcsn0qPnFH-Hg4yK8PjDlJCVmv2OsA
+6B;Retenue;2023-09-15;+, Arrivent en classe trés en retard;;IcqdYEL3ahX4Stvd0FBqgannscXHWA9UZkYtBf94q8I
+6B;Retenue;2023-12-04;a frapper son cama;;IcqdYEL3ahX4Stvd0FBqgannscXHWA9UZkYtBf94q8I
+6B;Mot dans le carnet;2024-04-05;nan;;IcqdYEL3ahX4Stvd0FBqgannscXHWA9UZkYtBf94q8I
+6B;Retenue;2024-04-23;il a seché l'heure de permanence et il jouait le foot au plateau sportif sans autorisation et sans surveillance;;IcqdYEL3ahX4Stvd0FBqgannscXHWA9UZkYtBf94q8I
+6B;Mot dans le carnet;2024-05-22;Incivisme;;IcqdYEL3ahX4Stvd0FBqgannscXHWA9UZkYtBf94q8I
+6B;Mot dans le carnet;2024-05-22;nan;;IcqdYEL3ahX4Stvd0FBqgannscXHWA9UZkYtBf94q8I
+5A;Retenue;2023-10-20;Agitation en classe;;02wcrI0nZSYiwRuhkHrF4X_QtV_cZaIUaJZVyvEFF54
+3A;Mot dans le carnet;2023-10-17;nan;;f7ivCKQZ7_UW9R1nnW5Xn05qiTtpZmUC7ywgA27iy18
+3A;Exclusion de cours;2023-12-01;insolance;13:50:00;f7ivCKQZ7_UW9R1nnW5Xn05qiTtpZmUC7ywgA27iy18
+3A;Exclusion de cours;2024-06-06;retard;11:10:00;f7ivCKQZ7_UW9R1nnW5Xn05qiTtpZmUC7ywgA27iy18
+4B;Mot dans le carnet;2023-12-01;Attitude en classe;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2023-12-05;Attitude inadmissible en cours;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-01-12;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-01-18;Bavardages incessants ;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-01-19;attitude inacceptable;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-01-22;bavardage et manque de concentration;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-01-26;bavardage incessant;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-02-01;Agitation en classe, Bavardages incessants. Un grand manque de concentra;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-02-05;Bavardages incessants ;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Retenue;2024-02-06;devoir non rendu, Matériel manquant;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-02-06;Attitude en classe;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Retenue;2024-02-09;bruit et cri en entrant en permanence;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-02-13;utilisation du portable;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-02-22;Bavardage incessant et manque de respect dans la classe, Insolence et bavardages incessantes, manque de respect;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Devoir supplémentaire;2024-03-11;Agitation en classe, Attitude inadmissible en cours, Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours, Exclusion, Gêne le déroulé du cours et ne fait rien , non respect des règles de vie de classe, Perturbe le cours par d'incessants bavardages malgré les appels à l'orde répétés du professeur.;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Retenue;2024-03-14;attitude inacceptable;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Retenue;2024-03-18;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-03-18;nan;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-03-27;Bavardages incessants. Un grand manque de concentra;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-04-02;comportement inadmissible en permamnence;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Retenue;2024-04-05;Perturbe le cours de façon répétée malgrè les avertissements du professeur;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Devoir supplémentaire;2024-04-15;Bavardages incessants et perturbation du cours pendant une évaluation;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-05-15;Bavardage incessant et manque de respect dans la classe;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-05-16;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-05-21;Attitude en classe, bavardages incessants;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Retenue;2024-05-24;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+4B;Mot dans le carnet;2024-06-05;bavardages incessants;;xYXcW5K9kFaoGy8baVocvEJRJhk_HujWW_7lgzNl1f4
+5B;Retenue;2023-10-05;comportement inacceptable en cours en disant des gros mots devant tout le monde;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2023-10-12;Dissipation;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2023-10-20;Attitude en classe;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2023-11-23;Attitude en classe;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2023-11-24;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2023-11-27;Devoirs non faits;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Exclusion de cours;2023-12-06;Attitude en classe, défaut de carnet;11:10:00;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Retenue;2023-12-06;Attitude en classe, défaut de carnet;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Retenue;2023-12-08;Attitude en classe;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2023-12-11;bavardage et manque de concentration;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2024-01-23;Attitude en classe;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2024-02-09;Attitude en classe;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Retenue;2024-03-21;plus de 4 retards sans excuses;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2024-03-22;Agitation en classe;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Retenue;2024-04-16;a frapper un eleve dans la cour;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+5B;Mot dans le carnet;2024-04-19;Attitude en classe;;LlOmyhKkbVI8ZkklpJ98gfOfOJobnZZmOQcSmXUOJW4
+6B;Mot dans le carnet;2023-11-10;Attitude en classe;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Mot dans le carnet;2024-01-12;Agitation, Arrivent en classe trés en retard, attitude ;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Mot dans le carnet;2024-01-29;Bavardages et manque de concentration.;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Mot dans le carnet;2024-03-18;bavardage et manque de concentration;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Mot dans le carnet;2024-03-29;Attitude en classe;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Exclusion de cours;2024-04-09;Agitation en classe;13:50:00;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Mot dans le carnet;2024-04-16;Attitude en classe;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Mot dans le carnet;2024-04-19;attitude ;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Retenue;2024-04-23;il a seché l'heure de permanence et il jouait le foot au plateau sportif sans autorisation et sans surveillance;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Mot dans le carnet;2024-05-13;bavardage et manque de concentration;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+6B;Mot dans le carnet;2024-06-05;a frapper son camarade de classe, Agitation en classe;;xzienFJHJ_npw8jUqi9s8l6NZlMXfhQAe_BRmIgg5mQ
+5A;Mot dans le carnet;2023-09-25;Bavardages incessants ;;j2bh2ZNs7WW1MYGF0CActQsPYPopNSPPKALgLgP3KIo
+5A;Mot dans le carnet;2023-10-09;a frapper son camarade de classe, devoir non rendu;;j2bh2ZNs7WW1MYGF0CActQsPYPopNSPPKALgLgP3KIo
+4B;Mot dans le carnet;2024-02-01;Attitude en classe;;WWbZcG6MgN8SMh5rJ-mNVz1OWHJIMnV3MUqVWcQ57A0
+4B;Mot dans le carnet;2024-04-09;travail non fait;;WWbZcG6MgN8SMh5rJ-mNVz1OWHJIMnV3MUqVWcQ57A0
+5C;Mot dans le carnet;2023-10-19;Agitation en classe, Bavardage incessant et manque de respect dans la classe;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+5C;Mot dans le carnet;2023-12-14;bavardage et manque de concentration;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+5C;Mot dans le carnet;2023-12-18;bavardage et manque de concentration;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+5C;Mot dans le carnet;2023-12-19;Bavardages et manque de concentration.;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+5C;Mot dans le carnet;2023-12-21;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+5C;Mot dans le carnet;2024-02-20;Bavardages et manque de concentration.;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+5C;Mot dans le carnet;2024-03-14;Bavardages incessants. Un grand manque de concentra;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+5C;Mot dans le carnet;2024-04-16;Bavardages et manque de concentration.;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+5C;Mot dans le carnet;2024-04-18;nan;;mUyww1TFvE21gEAlCJwaf49eYKknyLcWQXva870dF8E
+3B;Retenue;2023-09-15;geste deplacé;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Retenue;2023-10-09;Bavardages et manque de concentration.;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Mot dans le carnet;2023-11-20;Bavardages incessants, refus de faire son travail . Manque de concentration;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Mot dans le carnet;2023-11-27;attitude ;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Mot dans le carnet;2024-02-06;nan;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Exclusion de cours;2024-04-04;Bavardages incessants ;15:00:00;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Mot dans le carnet;2024-04-08;BAVARDAGES;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Mot dans le carnet;2024-05-16;Agitation en classe;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Mot dans le carnet;2024-05-17;bavardage incessant;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3B;Mot dans le carnet;2024-06-05;Bavardages incessants ;;zXXmQcjcC45dpYKPlwsCtP6NtS3gTwdkmC3pZUtXaJM
+3C;Mot dans le carnet;2023-11-27;Bavardages et moqueries;;45yIPpAYnSVOhEGNDJqY2z-f86pmGkD9ubWhQJXKlyQ
+3C;Retenue;2023-11-29;est rentée dans la salle d'examans par la fenêtre;;45yIPpAYnSVOhEGNDJqY2z-f86pmGkD9ubWhQJXKlyQ
+3C;Retenue;2023-12-13;est rentée dans la salle d'examans par la fenêtre;;45yIPpAYnSVOhEGNDJqY2z-f86pmGkD9ubWhQJXKlyQ
+5A;Mot dans le carnet;2023-09-18;bavardage incessant;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Mot dans le carnet;2023-09-22;Attitude en classe;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Mot dans le carnet;2024-01-22;BAVARDAGES;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Mot dans le carnet;2024-01-22;Bavardages incessants ;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Retenue;2024-02-19;Humiliation,insultes et imitation d'un élève, oublie constant de matériel, oublis de carnet;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Mot dans le carnet;2024-03-14;bavardage incessant;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Mot dans le carnet;2024-04-22;Incivisme;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Retenue;2024-05-17;non respect des règles de vie de classe;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Mot dans le carnet;2024-05-23;bavardage incessant;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+5A;Retenue;2024-06-06;Joue dans la classe and n'a pas fait sa tache;;gr58m9Shrz7Rs7xUnCs1E9xr0ievSzDAbmFC8G3z6Y0
+6B;Mot dans le carnet;2023-10-16;bavardage et manque de concentration;;PygpTCbtBVCVCce-d33bRKh1AzQsZkuIkinf_ZoitYE
+6B;Mot dans le carnet;2024-03-18;Bavardage incessant et manque de respect dans la classe;;PygpTCbtBVCVCce-d33bRKh1AzQsZkuIkinf_ZoitYE
+6B;Exclusion de cours;2024-04-02;Attitude en classe;08:00:00;PygpTCbtBVCVCce-d33bRKh1AzQsZkuIkinf_ZoitYE
+6B;Mot dans le carnet;2024-05-13;bavardage incessant;;PygpTCbtBVCVCce-d33bRKh1AzQsZkuIkinf_ZoitYE
+6A;Mot dans le carnet;2023-09-19;Agitation en classe;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Mot dans le carnet;2023-09-22;Agitation en classe;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Exclusion de cours;2023-09-22;Agitation en classe, Bavardages incessants ;08:00:00;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Retenue;2023-10-13;Agitation en classe, bavardage incessant;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Mot dans le carnet;2023-10-18;Agitation en classe;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Devoir supplémentaire;2023-11-16;attitude inacceptable;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Exclusion de cours;2023-12-08;Retard injustifié;12:50:00;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Exclusion de cours;2024-02-14;Refus de participer, de travailler;11:10:00;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Mot dans le carnet;2024-03-27;Attitude en classe;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Mot dans le carnet;2024-04-05;nan;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Mot dans le carnet;2024-04-05;Attitude en classe;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Retenue;2024-05-13;Attitude en classe;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Mot dans le carnet;2024-05-20;attitude inacceptable, bavardage incessant;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+6A;Mot dans le carnet;2024-05-23;Agitation en classe, BAVARDAGES;;oL5SlOR074xMfGq9Idm2nX384s-kOI8f-sDCWaWcse8
+2C;Exclusion de cours;2023-09-08;nan;11:10:00;CXfor_oxj-6dL0rWhRaQMZjxi-NUALh6Xce9WNuh9Ug
+2B;Mot dans le carnet;2023-11-07;Attitude en classe;;CXfor_oxj-6dL0rWhRaQMZjxi-NUALh6Xce9WNuh9Ug
+2B;Retenue;2023-12-15;Bavardage incessant et manque de respect dans la classe;;CXfor_oxj-6dL0rWhRaQMZjxi-NUALh6Xce9WNuh9Ug
+2B;Exclusion de cours;2024-04-03;Bavardages incessants. Un grand manque de concentra;10:10:00;CXfor_oxj-6dL0rWhRaQMZjxi-NUALh6Xce9WNuh9Ug
+2B;Mot dans le carnet;2024-05-22;Bavardages incessants ;;CXfor_oxj-6dL0rWhRaQMZjxi-NUALh6Xce9WNuh9Ug
+3B;Retenue;2023-10-06;non respect du réglement intérieur;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2023-11-20;Bavardages et manque de concentration.;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2023-11-20;attitude inacceptable;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Retenue;2023-11-24;bavardage et manque de concentration;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2023-11-27;Bavardages incessants ;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2023-11-27;Bavardage incessant et manque de respect dans la classe;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2023-11-28;Attitude en classe;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Retenue;2023-11-29;Devoirs non faits;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2023-12-05;bavardages incessants;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2023-12-12;dégradation du matériel;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-01-09;Utilisation du téléphone portable dans la cour;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-01-22;nan;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-01-22;Attitude en classe;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-01-23;Bavardage incessant et manque de respect dans la classe;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Exclusion de cours;2024-01-25;BAVARDAGES;15:00:00;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-01-29;bavardage;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-02-06;nan;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-02-06;nan;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Retenue;2024-02-08;Dégradation;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Retenue;2024-02-09;utilisation du téléphone en permanence;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Retenue;2024-02-15;travail non fait;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Retenue;2024-03-11;Tricherie;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Retenue;2024-03-26;Utilisation de télèphone;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Exclusion de cours;2024-03-27;Refus des consignes;09:00:00;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-03-28;Utilisation de télèphone;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Exclusion de cours;2024-04-24;bavardage et manque de concentration;09:00:00;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-05-13;bavardage et manque de concentration;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-05-16;Comportement inacceptable en classe;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-05-16;Incivisme;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Exclusion de cours;2024-05-30;Bavardages incessants ;15:00:00;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Exclusion de cours;2024-06-03;Insolence et bavardages incessantes;12:50:00;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Retenue;2024-06-03;Attitude en classe;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-06-24;Incivisme;;-qJCG7RbFJqt8-HgOeVK_oxSorEzZGAkURf_4-r58EQ
+3B;Mot dans le carnet;2024-02-22;bavardage incessant;;uPFDilel9NGBDgJXsOioKkB0hCiAZyYy79EniaUpeC0
+5A;Retenue;2023-10-09;Agitation en classe, bavardage incessant;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Mot dans le carnet;2023-10-16;Bavardages et manque de concentration.;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Mot dans le carnet;2023-11-20;Bavardages et manque de concentration.;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Mot dans le carnet;2023-12-01;bavardages incessants;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Mot dans le carnet;2024-01-12;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Mot dans le carnet;2024-02-19;Bavardages incessants ;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Retenue;2024-02-19;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Mot dans le carnet;2024-04-02;Agitation en classe;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Retenue;2024-04-17;plus de 4 retards sans excuses;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+5A;Mot dans le carnet;2024-05-24;Bavardages incessants ;;LGsc1eEyH3qvTvADBOgd54vPVtZpjzy8gfgvLacNO8A
+6C;Mot dans le carnet;2024-03-15;nan;;DesO1lPd74V-SDIkgiJ0hvGzW36KrDEzZCkNbOymS5A
+1B/C;Exclusion de cours;2024-02-15;nan;08:00:00;YswxOZrqTGLTW_jkdfurfq6pwpppKbTzfyWlvQoHqlA
+1B/C;Exclusion de cours;2024-04-19;a désobéi au professeur;13:50:00;YswxOZrqTGLTW_jkdfurfq6pwpppKbTzfyWlvQoHqlA
+5C;Devoir supplémentaire;2023-09-25;nan;;vgktOXKdsURaj77CzFYgHnCcawC52PUHEIUqE7AJiUM
+5C;Mot dans le carnet;2023-11-29;Agitation en classe;;vgktOXKdsURaj77CzFYgHnCcawC52PUHEIUqE7AJiUM
+5C;Retenue;2023-12-05;non respect des règles de vie de classe;;vgktOXKdsURaj77CzFYgHnCcawC52PUHEIUqE7AJiUM
+5C;Mot dans le carnet;2024-02-12;attitude inacceptable;;vgktOXKdsURaj77CzFYgHnCcawC52PUHEIUqE7AJiUM
+5C;Mot dans le carnet;2024-03-25;Bavardages incessants. Un grand manque de concentration. Perturbation du cours.Manque de carnet., Matériel manquant;;vgktOXKdsURaj77CzFYgHnCcawC52PUHEIUqE7AJiUM
+5C;Devoir supplémentaire;2024-04-04;Matériel manquant;;vgktOXKdsURaj77CzFYgHnCcawC52PUHEIUqE7AJiUM
+5C;Mot dans le carnet;2024-04-19;bavardages incessants, Chante en classe et manque de concentration;;vgktOXKdsURaj77CzFYgHnCcawC52PUHEIUqE7AJiUM
+2B;Exclusion de cours;2023-11-21;bavardage et manque de concentration;10:10:00;yMQxub6_8rBd1cYXnIrCwNUkEF6ZLbeNR9Hnvs3RSbo
+2B;Retenue;2023-12-15;Bavardage incessant et manque de respect dans la classe;;yMQxub6_8rBd1cYXnIrCwNUkEF6ZLbeNR9Hnvs3RSbo
+2B;Exclusion de cours;2024-04-03;Bavardages incessants. Un grand manque de concentration. Perturbation du cours.Manque de carnet.;10:10:00;yMQxub6_8rBd1cYXnIrCwNUkEF6ZLbeNR9Hnvs3RSbo
+2B;Mot dans le carnet;2024-05-22;Bavardages incessants ;;yMQxub6_8rBd1cYXnIrCwNUkEF6ZLbeNR9Hnvs3RSbo
+4C;Mot dans le carnet;2023-09-21;Bavardages incessants ;;LzLVkICuVZYtN5tiAdf-K3-7QJ8hPe310RMRAD_YCi8
+4C;Mot dans le carnet;2023-10-02;non respect des règles de vie de classe;;LzLVkICuVZYtN5tiAdf-K3-7QJ8hPe310RMRAD_YCi8
+4C;Mot dans le carnet;2023-11-15;bavardage incessant;;LzLVkICuVZYtN5tiAdf-K3-7QJ8hPe310RMRAD_YCi8
+4C;Mot dans le carnet;2024-03-14;Attitude inadmissible en cours;;LzLVkICuVZYtN5tiAdf-K3-7QJ8hPe310RMRAD_YCi8
+4C;Mot dans le carnet;2024-05-24;bavardage incessant;;LzLVkICuVZYtN5tiAdf-K3-7QJ8hPe310RMRAD_YCi8
+5B;Mot dans le carnet;2024-02-09;Attitude en classe;;QS_maNEFyRxKfwdfxhgqrrVv-O-EH0VbO4EVm_foKu0
+5B;Retenue;2024-02-13;Absence des cahiers et des fiches., Attitude en classe;;QS_maNEFyRxKfwdfxhgqrrVv-O-EH0VbO4EVm_foKu0
+5B;Mot dans le carnet;2024-06-07;nan;;QS_maNEFyRxKfwdfxhgqrrVv-O-EH0VbO4EVm_foKu0
+3C;Mot dans le carnet;2024-01-16;Jet d' objet en classe;;QaQo-2jQS36esmOc0ShePK-Bdse5u0k9EMsJvGxxrGc
+3C;Retenue;2024-02-09;Utilisation de télèphone;;QaQo-2jQS36esmOc0ShePK-Bdse5u0k9EMsJvGxxrGc
+3C;Mot dans le carnet;2024-04-09;dégradation du matériel;;QaQo-2jQS36esmOc0ShePK-Bdse5u0k9EMsJvGxxrGc
+3C;Mot dans le carnet;2024-05-17;Agitation en classe;;QaQo-2jQS36esmOc0ShePK-Bdse5u0k9EMsJvGxxrGc
+3B;Mot dans le carnet;2023-09-21;Dissipation;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Retenue;2023-10-09;bavardage et manque de concentration;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2023-11-20;Bavardages et manque de concentration.;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2023-11-27;Bavardages et manque de concentration.;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2023-11-27;Attitude en classe;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2024-02-08;bavardages incessants;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2024-03-28;bavardage et manque de concentration;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2024-04-01;Agitation en classe;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Retenue;2024-04-17;Attitude inadmissible en cours;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2024-04-18;Agitation en classe;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2024-04-19;Bavardages incessants ;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+3B;Mot dans le carnet;2024-05-16;Incivisme;;gJkybZXpHckwjc_MvlxBAem6k7fup-29lrHTxmwOaVQ
+5B;Mot dans le carnet;2023-10-20;Attitude en classe;;C9HclZtteu565GzsH_hJmpR9pQ1qgQ1cln7cyVzzgwc
+5B;Mot dans le carnet;2024-03-22;Agitation;;C9HclZtteu565GzsH_hJmpR9pQ1qgQ1cln7cyVzzgwc
+5B;Mot dans le carnet;2024-03-25;Bavardages incessants. Un grand manque de concentra;;C9HclZtteu565GzsH_hJmpR9pQ1qgQ1cln7cyVzzgwc
+5B;Mot dans le carnet;2023-10-13;bavardage et manque de concentration;;cWkEuUy-gGUpsE3GEmbCRnY3XlIfm2CsP8k7YFzXm6I
+4B;Mot dans le carnet;2023-11-27;atittude inadmissible,cumul d'insultes envers ses camarades de classe;;dCJAwmmEVSyTZ-TIRV7p4WmdkPRDLBpZe31YURcCZIY
+4B;Mot dans le carnet;2024-01-26;Agitation en classe, bavardages incessants;;dCJAwmmEVSyTZ-TIRV7p4WmdkPRDLBpZe31YURcCZIY
+4B;Devoir supplémentaire;2024-05-27;Agitation en classe, Attitude inadmissible en cours, bavardages incessants, Changement de place sans autorisation, Exclusion;;dCJAwmmEVSyTZ-TIRV7p4WmdkPRDLBpZe31YURcCZIY
+4B;Mot dans le carnet;2024-06-05;Agitation en classe, Bavardages incessants. Un grand manque de concentra;;dCJAwmmEVSyTZ-TIRV7p4WmdkPRDLBpZe31YURcCZIY
+4B;Mot dans le carnet;2024-06-06;Agitation en classe;;dCJAwmmEVSyTZ-TIRV7p4WmdkPRDLBpZe31YURcCZIY
+4A;Mot dans le carnet;2023-09-14;Attitude en classe;;uQ9C1cp8Nih3y9VVwy8HrrAiBlbdfKCv9NF8jUvhU7o
+4A;Mot dans le carnet;2024-02-16;bavardage et manque de concentration;;uQ9C1cp8Nih3y9VVwy8HrrAiBlbdfKCv9NF8jUvhU7o
+4A;Mot dans le carnet;2024-05-20;nan;;uQ9C1cp8Nih3y9VVwy8HrrAiBlbdfKCv9NF8jUvhU7o
+4A;Mot dans le carnet;2024-05-20;bavardage incessant;;uQ9C1cp8Nih3y9VVwy8HrrAiBlbdfKCv9NF8jUvhU7o
+4A;Mot dans le carnet;2024-05-21;nan;;uQ9C1cp8Nih3y9VVwy8HrrAiBlbdfKCv9NF8jUvhU7o
+4A;Mot dans le carnet;2024-05-27;Jet d' objet en classe;;uQ9C1cp8Nih3y9VVwy8HrrAiBlbdfKCv9NF8jUvhU7o
+4A;Mot dans le carnet;2023-09-14;Attitude en classe;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Mot dans le carnet;2023-09-19;Absence des cahiers et des fiches.;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Mot dans le carnet;2023-09-22;Bavardages incessants ;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Retenue;2023-11-13;oublis de carnet;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Mot dans le carnet;2023-11-14;bavardage incessant;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Mot dans le carnet;2023-11-28;Bavardages incessants, refus de faire son travail . Manque de concentration;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Retenue;2023-12-08;Devoirs non faits;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Mot dans le carnet;2024-02-23;a insulté son camarade de classe;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Retenue;2024-04-18;A manqué de respect à l'enseignante en se déplaçant dans un autre endroit pour parler à son amie sans lui demander la permission. Elle a ensuite répondu et a crié à l'enseignant en disant qu'il n'y avait absolument rien de mal.;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Mot dans le carnet;2024-04-22;bavardages incessants;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Retenue;2024-04-24;il a seché l'heure de permanence et il jouait le foot au plateau sportif sans autorisation et sans surveillance;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+4A;Retenue;2024-05-24;Devoirs non faits;;k2yTrUGWC9RWH6rOT5RNrmoOZKAt9YLcXfq-aiCoHSs
+2C;Mot dans le carnet;2023-10-05;Agitation en classe, Attitude en classe, attitude inacceptable, bavardage et manque de concentration;;j9xqOaonfprNbn8ruOLNV2sJuoBeg6A_4TXOqcbf14s
+2B;Retenue;2023-10-17;utilisation du portable;;7AmfDkOHx7u1cJb9SxsZESG6d_qjo-qs3AU22FKvbwg
+2B;Mot dans le carnet;2023-12-11;Attitude en classe;;7AmfDkOHx7u1cJb9SxsZESG6d_qjo-qs3AU22FKvbwg
+3C;Retenue;2023-10-17;Utilisation du telephone dans les toilettes;;lVv8bL4TcVwcCKlfdiBBvWGc9pHMEpf3txF1Eml5Fwk
+5B;Mot dans le carnet;2023-12-08;Jet d' objet en classe;;2yeURp9if_vJzx86Yk4815AOw721yKxHBVEoyg-iI3I
+5B;Mot dans le carnet;2024-06-07;nan;;2yeURp9if_vJzx86Yk4815AOw721yKxHBVEoyg-iI3I
+6A;Mot dans le carnet;2024-04-01;Devoirs non faits;;JtHbPBV-Tbd9o9rYxlFWLDpw8BC8Yy8PydUVd9bAkqw
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Devoir supplémentaire;2023-11-16;Agitation;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2023-11-17;Attitude en classe;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Retenue;2023-11-30;attitude inacceptable;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2023-12-05;absence de matériel;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2023-12-18;Refus des consignes;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2024-01-19;Changement de place sans autorisation;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Retenue;2024-01-25;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Retenue;2024-01-29;bavardage incessant, cumul d'attitudes inacceptables, de retards à l'intérieur de l'école, le non port du masque et le non respect des consignes;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Retenue;2024-02-12;Agitation;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Exclusion de cours;2024-03-11;Retard injustifié;13:50:00;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2024-03-22;nan;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2024-03-27;BAVARDAGES;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2024-03-29;nan;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Retenue;2024-04-01;Bavardages incessants ;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2024-04-05;Bavardages incessants ;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2024-04-05;nan;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Mot dans le carnet;2024-04-15;Bavardages incessants ;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Retenue;2024-04-22;Devoirs non faits;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+6A;Retenue;2024-04-25;dégradation du matériel;;LaRYCt8xNsF6TpzN4Xk4VumCZ4SG3TxMQXF_qpEs9zQ
+4C;Mot dans le carnet;2023-09-11;travail non fait;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-01-15;Perturbe le cours de façon répétée malgrè les avertissements du professeur;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-01-18;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Devoir supplémentaire;2024-01-22;attitude inacceptable, bavardage et manque de concentration, non respect des règles de vie de classe;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-01-24;Utilisation de télèphone;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Mot dans le carnet;2024-01-29;Comportement inacceptable en classe;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Mot dans le carnet;2024-01-31;Agitation en classe, Bavardages incessants ;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-01-31;Bavardages et manque de concentration.;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-02-02;Devoirs non faits;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Mot dans le carnet;2024-02-05;attitude inacceptable;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-03-15;Tricherie;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-03-18;Bavardage incessant et manque de respect dans la classe, Jet d' objet en classe;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Mot dans le carnet;2024-03-26;Bavardages et manque de concentration.;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-04-15;attitude inacceptable;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Mot dans le carnet;2024-04-25;Devoirs non faits;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-05-17;attitude inacceptable;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Retenue;2024-05-24;utilisation du portable;;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+4C;Exclusion de cours;2024-06-10;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, insolence;08:00:00;qAfoydyY9Xqua0T6ynbW3tBczMyS0xXcbcLEa8s6i8E
+2C;Exclusion de cours;2023-10-11;absence de matériel;09:00:00;PZ1Lr9qfkxiZGw1pol46TtgXQhuPQY3VBAGfmXb618M
+2C;Retenue;2023-10-17;nan;;PZ1Lr9qfkxiZGw1pol46TtgXQhuPQY3VBAGfmXb618M
+2C;Exclusion de cours;2023-11-09;Attitude en classe;15:00:00;PZ1Lr9qfkxiZGw1pol46TtgXQhuPQY3VBAGfmXb618M
+2C;Retenue;2024-04-03;Utilisation de telephone;;PZ1Lr9qfkxiZGw1pol46TtgXQhuPQY3VBAGfmXb618M
+6C;Mot dans le carnet;2024-01-08;bavardage et manque de concentration;;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Mot dans le carnet;2024-01-26;nan;;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Exclusion de cours;2024-02-02;nan;08:00:00;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Retenue;2024-02-16;nan;;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Mot dans le carnet;2024-02-19;Attitude inadmissible en cours;;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Mot dans le carnet;2024-03-18;bavardage et manque de concentration;;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Mot dans le carnet;2024-03-19;Bavardages incessants ;;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Retenue;2024-04-01;utilisation de la tablette dans la cour;;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Exclusion de cours;2024-05-20;Retard injustifié;15:00:00;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+6C;Mot dans le carnet;2024-05-27;bavardage et manque de concentration;;J8SKUpngjyP4L5ZU4HpEnyTkniVE1gXeXB6HUDsvInY
+3C;Mot dans le carnet;2023-12-12;Attitude en classe;;YN0jMAG-comB0Kye5oA2857WWoeAIYWd64OYXuLOk-0
+1B/C;Mot dans le carnet;2023-12-05;Bavardage incessant et manque de respect dans la classe;;M6LucN9TRo6gtjkbeFD4CEYMQr0B0ibJ6IYf5EcMqpM
+2A;Mot dans le carnet;2023-10-09;Tricherie;;N7r49iPw-8QGenuIsY23jv0G1o-3MAIrZCuo2xhFVBg
+2A;Retenue;2023-12-14;Utilisation de télèphone;;N7r49iPw-8QGenuIsY23jv0G1o-3MAIrZCuo2xhFVBg
+2A;Retenue;2024-03-18;Comportement inacceptable en classe;;N7r49iPw-8QGenuIsY23jv0G1o-3MAIrZCuo2xhFVBg
+2A;Devoir supplémentaire;2024-03-26;travail non fait;;N7r49iPw-8QGenuIsY23jv0G1o-3MAIrZCuo2xhFVBg
+2A;Mot dans le carnet;2024-05-14;Attitude en classe;;N7r49iPw-8QGenuIsY23jv0G1o-3MAIrZCuo2xhFVBg
+4B;Mot dans le carnet;2023-11-14;bavardage et manque de concentration;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2023-12-15;Attitude en classe;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2023-12-18;Agitation en classe, bavardage et manque de concentration;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-01-12;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-01-22;bavardage et manque de concentration;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-01-29;cumul d'attitude inadmissible,manque de respect,insolence.;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-02-09;nan;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-02-16;bavardage et manque de concentration;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-03-15;ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-03-28;Comportement inacceptable en classe;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-04-19;oublie constant de matériel;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-04-26;Agitation en classe, bavardage et manque de concentration, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-05-13;BAVARDAGES;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Devoir supplémentaire;2024-05-15;Attitude inadmissible en cours, bavardage et manque de concentration, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-05-16;attitude inacceptable;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-05-17;Bavardage incessant et manque de respect dans la classe;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-05-20;Il a jeté;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Devoir supplémentaire;2024-05-22;Agitation en classe, bavardage et manque de concentration, Perturbe le cours par d'incessants bavardages malgré les appels à l'orde répétés du professeur.;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Retenue;2024-05-22;défaut de carnet;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-05-27;ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT, bavardage et manque de concentration, Utilisation du téléphone en classe, pendant le cours.;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Exclusion de cours;2024-05-31;Bavardages incessants ;13:50:00;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-06-03;Attitude en classe;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-06-05;Agitation en classe, bavardages incessants, Chante en classe et manque de concentration;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-06-06;manque de motivation et de travail;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-06-07;nan;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Exclusion de cours;2024-06-10;Comportement inacceptable en classe;11:10:00;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Exclusion de cours;2024-06-13;Absences non justifié;09:00:00;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-06-14;nan;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Exclusion de cours;2024-06-14;oublie constant de matériel;13:50:00;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+4B;Mot dans le carnet;2024-06-14;Bruit et cri en entrant en classe;;NEWlSarJFHHW66l-4010bsWqOAR4efc_rhYWFDX_ojY
+2A;Devoir supplémentaire;2023-10-10;nan;;pthtzlDHnLgzQ03agD3I-pZWJaV4f5u2XgUGRneh2vs
+2A;Mot dans le carnet;2023-12-21;insolence;;pthtzlDHnLgzQ03agD3I-pZWJaV4f5u2XgUGRneh2vs
+3A;Mot dans le carnet;2023-09-15;manque de concentration;;LEPFmmhIqZ8XHeZnmNIh0r0n8C50Mg3zfhp6g9PLgb8
+3A;Mot dans le carnet;2023-10-19;nan;;LEPFmmhIqZ8XHeZnmNIh0r0n8C50Mg3zfhp6g9PLgb8
+Terminale;Devoir supplémentaire;2024-03-13;nan;;P8aN-xiAOgza2Ov6JH-Kc28U1sF5fhsdreSp-Mq0YP4
+6A;Mot dans le carnet;2023-09-11;bavardage incessant;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Exclusion de cours;2023-10-02;Attitude en classe, bavardage et manque de concentration;15:00:00;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Retenue;2023-10-03;Agitation en classe, bavardage incessant;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2023-10-13;Attitude inadmissible en cours;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2023-10-16;Changement de place sans autorisation;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2023-11-10;Attitude en classe;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2023-11-17;Attitude en classe;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Retenue;2023-12-11;attitude inacceptable;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Retenue;2024-01-09;Rhita a proféré des insultes envers Nisrine devant le professeur et a élevé la voix de manière perturbatrice.;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-01-19;nan;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Retenue;2024-01-25;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-01-29;nan;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-02-02;nan;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Retenue;2024-02-12;bavardages incessants, Matériel manquant;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Exclusion de cours;2024-02-16;Arrive souvent en classe en retard ;15:00:00;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Exclusion de cours;2024-03-11;Retard injustifié;13:50:00;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Devoir supplémentaire;2024-03-15;Attitude en classe;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Retenue;2024-03-18;a insulté son camarade de classe, Attitude inacceptable en classe envers le professeur et les autres., bavardage incessant;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-03-27;Attitude en classe;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-03-29;nan;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-04-01;Devoirs non faits;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Retenue;2024-04-05;Agitation, Attitude en classe;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-04-05;Attitude en classe;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-04-05;attitude inacceptable;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+6A;Mot dans le carnet;2024-05-31;Attitude en classe;;U7vfpLY888o43efm7i4OCc_KfaN6AGGUxLTexQWxOws
+3B;Retenue;2023-09-15;geste deplacé;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+3B;Retenue;2023-10-09;bavardage et manque de concentration;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+3B;Mot dans le carnet;2023-11-24;Attitude en classe;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+3B;Retenue;2024-03-11;evaluation anulée;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+3B;Mot dans le carnet;2024-05-15;bavardage;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+3B;Mot dans le carnet;2024-05-16;Agitation en classe;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+3B;Retenue;2024-05-30;Insulte;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+3B;Mot dans le carnet;2024-06-03;bavardage;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+3B;Mot dans le carnet;2024-06-05;Bavardages incessants ;;UyVj9DpgwED5FqkywIkDQX5UIOsbpBYzHDNU-oeD2n4
+5A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;i1biy720AIiWqT_EBuBoDCzyPJy4FQW-2PmuaaG-USs
+5A;Mot dans le carnet;2023-11-20;Bavardage incessant et manque de respect dans la classe;;i1biy720AIiWqT_EBuBoDCzyPJy4FQW-2PmuaaG-USs
+5A;Mot dans le carnet;2024-01-29;Attitude en classe;;i1biy720AIiWqT_EBuBoDCzyPJy4FQW-2PmuaaG-USs
+5A;Mot dans le carnet;2024-03-15;Agitation;;i1biy720AIiWqT_EBuBoDCzyPJy4FQW-2PmuaaG-USs
+5A;Retenue;2024-03-18;insolance;;i1biy720AIiWqT_EBuBoDCzyPJy4FQW-2PmuaaG-USs
+5A;Mot dans le carnet;2024-04-25;atittude inadmissible,cumul d'insultes envers ses camarades de classe;;i1biy720AIiWqT_EBuBoDCzyPJy4FQW-2PmuaaG-USs
+6A;Retenue;2024-01-12;Utilisation de télèphone;;3xTRDtaxmqa7A8E93B6IP7iRFjZL0kCrnDykSNFgkko
+2A;Mot dans le carnet;2023-10-05;Attitude en classe;;rNNP2RvTA59TYD2zD9UpY_D0SJQCx-4jyAbywAkIx8g
+2A;Exclusion de cours;2023-12-14;Bavardages et manque de concentration.;12:50:00;rNNP2RvTA59TYD2zD9UpY_D0SJQCx-4jyAbywAkIx8g
+2A;Mot dans le carnet;2024-01-23;Bavardages incessants ;;rNNP2RvTA59TYD2zD9UpY_D0SJQCx-4jyAbywAkIx8g
+3B;Retenue;2023-11-21;Utilisation de télèphone;;-OkZeSv6U0rENPbrPFI-ilsq-LEByjKn6QzZLlNb2xI
+3B;Retenue;2023-12-11;travail non fait;;-OkZeSv6U0rENPbrPFI-ilsq-LEByjKn6QzZLlNb2xI
+3B;Mot dans le carnet;2024-01-22;Attitude en classe, BAVARDAGES;;-OkZeSv6U0rENPbrPFI-ilsq-LEByjKn6QzZLlNb2xI
+5A;Mot dans le carnet;2023-09-18;bavardage incessant;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2023-09-22;Attitude en classe;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2023-09-25;Attitude en classe;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2023-10-09;Devoirs non faits;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2023-10-16;bavardage incessant;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Retenue;2023-10-20;Attitude en classe;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2023-11-13;travail non fait;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2023-11-24;Attitude en classe;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2024-02-01;oublie constant de matériel;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2024-02-19;bavardage incessant, Devoirs non faits;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+5A;Mot dans le carnet;2024-03-21;oublie constant de matériel;;NyYsao1DYGPJ3wR4n1GSv4xZObLqBJx0WAgMft_KBrc
+3B;Mot dans le carnet;2024-02-06;nan;;iE-N2ESkF9Pz1KpfhbxhNjEdMg1dVX8tJL4a_eO3F6M
+3B;Mot dans le carnet;2024-02-19;bavardages incessants;;iE-N2ESkF9Pz1KpfhbxhNjEdMg1dVX8tJL4a_eO3F6M
+3B;Mot dans le carnet;2024-03-19;Bavardages incessants.Manque de concentration. Défaut de carnet;;iE-N2ESkF9Pz1KpfhbxhNjEdMg1dVX8tJL4a_eO3F6M
+3B;Mot dans le carnet;2024-05-15;bavardages incessants;;iE-N2ESkF9Pz1KpfhbxhNjEdMg1dVX8tJL4a_eO3F6M
+4B;Mot dans le carnet;2023-09-18;Attitude en classe;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2023-10-05;Attitude en classe;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2023-11-09;Bavardages et manque de concentration.;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Devoir supplémentaire;2023-11-20;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2023-11-27;Comportement inadmissible en classe, rire d'une voix forte en classe ce qui perturbe le cours.;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2023-12-07;attitude inacceptable;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Retenue;2023-12-21;insolance;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Devoir supplémentaire;2024-01-12;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-01-18;Perturbe le cours de façon répétée malgrè les avertissements du professeur;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-02-16;bavardages incessants;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-02-21;Bavardages et manque de concentration.;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Devoir supplémentaire;2024-03-14;attitude inacceptable, manque de concentration, Perturbe le cours par d'incessants bavardages malgré les appels à l'orde répétés du professeur.;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-03-28;bavardages incessants, manque de respect;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-04-05;bavardages incessants;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Retenue;2024-04-05;insolence;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-04-24;ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT, Bvardages incessants, manque de concentratiion, defaut de carnet;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-05-23;bavardage incessant;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-06-05;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+4B;Mot dans le carnet;2024-06-07;Bavardages incessants et perturbation du cours pendant une évaluation;;finLLuXIGD76WBVPIFR3icbAt6e9gLRoBxK3-MUpipc
+5B;Mot dans le carnet;2023-11-24;Agitation;;98MS2uDKlKqC7Qlh4p51d3o7svSjOCkIuihuUJFuRm0
+5B;Mot dans le carnet;2023-12-01;Bavardages et moqueries;;98MS2uDKlKqC7Qlh4p51d3o7svSjOCkIuihuUJFuRm0
+6B;Mot dans le carnet;2023-10-16;Bavardages et manque de concentration.;;eL8PGgricIsrnj7VmaenJ6RgcT56w5O2_tVY21BKjdw
+6B;Mot dans le carnet;2023-11-10;Attitude en classe;;eL8PGgricIsrnj7VmaenJ6RgcT56w5O2_tVY21BKjdw
+6B;Retenue;2023-12-08;nan;;eL8PGgricIsrnj7VmaenJ6RgcT56w5O2_tVY21BKjdw
+6B;Retenue;2024-02-15;nan;;eL8PGgricIsrnj7VmaenJ6RgcT56w5O2_tVY21BKjdw
+6B;Mot dans le carnet;2024-03-18;bavardage et manque de concentration;;eL8PGgricIsrnj7VmaenJ6RgcT56w5O2_tVY21BKjdw
+6B;Retenue;2024-03-27;plus de 4 retards sans excuses;;eL8PGgricIsrnj7VmaenJ6RgcT56w5O2_tVY21BKjdw
+6B;Retenue;2024-04-23;il a seché l'heure de permanence et il jouait le foot au plateau sportif sans autorisation et sans surveillance;;eL8PGgricIsrnj7VmaenJ6RgcT56w5O2_tVY21BKjdw
+6B;Mot dans le carnet;2024-05-14;Incivisme;;eL8PGgricIsrnj7VmaenJ6RgcT56w5O2_tVY21BKjdw
+2B;Retenue;2023-11-30;Agitation en classe;;LlrsGOdTkMJXj1oq0g4kKzk1IgvlDjgc61WtFTMuLDg
+2B;Retenue;2023-12-12;portable non éteint;;LlrsGOdTkMJXj1oq0g4kKzk1IgvlDjgc61WtFTMuLDg
+2B;Mot dans le carnet;2024-02-13;Exclusion;;LlrsGOdTkMJXj1oq0g4kKzk1IgvlDjgc61WtFTMuLDg
+2B;Exclusion de cours;2024-03-29;bavardage et manque de concentration;09:00:00;LlrsGOdTkMJXj1oq0g4kKzk1IgvlDjgc61WtFTMuLDg
+2B;Mot dans le carnet;2024-05-24;Dégradation;;LlrsGOdTkMJXj1oq0g4kKzk1IgvlDjgc61WtFTMuLDg
+3C;Retenue;2023-09-27;utilisation du téléphone en permanence;;MH3zeVBDBaJHfq21AVNxIFSFL0Tz0g93pqp55na-RLI
+3C;Mot dans le carnet;2023-11-10;Tache non effectuee;;MH3zeVBDBaJHfq21AVNxIFSFL0Tz0g93pqp55na-RLI
+3C;Mot dans le carnet;2023-11-21;bavardage et manque de concentration;;MH3zeVBDBaJHfq21AVNxIFSFL0Tz0g93pqp55na-RLI
+3C;Mot dans le carnet;2023-11-29;Ecrire ses leçons;;MH3zeVBDBaJHfq21AVNxIFSFL0Tz0g93pqp55na-RLI
+3C;Mot dans le carnet;2023-12-07;manger en classe;;MH3zeVBDBaJHfq21AVNxIFSFL0Tz0g93pqp55na-RLI
+3C;Mot dans le carnet;2024-04-19;bavardage incessant;;MH3zeVBDBaJHfq21AVNxIFSFL0Tz0g93pqp55na-RLI
+6B;Obligation de présenter des excuses à l'écrit;2023-11-14;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, Attitude inacceptable en classe envers le professeur et les autres.;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2023-11-21;Agitation en classe;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Exclusion de cours;2024-02-16;Perturbe le cours de façon répétée malgrè les avertissements du professeur;15:00:00;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-03-18;attitude inacceptable;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-04-16;Attitude en classe;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-04-19;nan;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-05-13;BAVARDAGES;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-05-22;nan;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-05-24;Attitude en classe;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-05-31;retard;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-06-03;Insulte;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+6B;Mot dans le carnet;2024-06-11;imitation de voix, Incivisme;;R3j2R9l_aD747y1FuIvTVrkcpZ4GgMGnraerUIDSdZo
+3A;Retenue;2024-03-18;donner son carnet à un autre élève afin de pouvoir sortir de l'établissement.;;OAWz1lJLO55djXcZKdDJndyC17x_CjmUGa5Y64CaB2A
+4B;Mot dans le carnet;2023-11-27;A agressé son camarade de classe en lui jetant une trousse au visage ;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Mot dans le carnet;2023-12-14;bavardage et manque de concentration;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Mot dans le carnet;2023-12-15;bavardage et manque de concentration;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Mot dans le carnet;2024-01-12;Bvardages incessants, manque de concentratiion, defaut de carnet;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Mot dans le carnet;2024-02-01;bavardage incessant;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Mot dans le carnet;2024-02-05;attitude inacceptable;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Devoir supplémentaire;2024-02-05;Attitude inadmissible en cours;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Devoir supplémentaire;2024-02-14;attitude inacceptable;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Devoir supplémentaire;2024-03-14;Agitation en classe, Attitude inadmissible en cours, Bavardages incessants. Un grand manque de concentra, Exclusion, mise en danger d'autrui, non respect des règles de vie de classe, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Devoir supplémentaire;2024-04-01;Agitation en classe, ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT, Bavardages et manque de concentration., Changement de place sans autorisation, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+4B;Mot dans le carnet;2024-06-05;Agitation en classe, Bavardages incessants ;;4UPxoXWtfxb7DXrjXdnc9Vs5X-_ukDXSs6WHrGnfcB4
+5C;Mot dans le carnet;2023-10-19;Bavardages et manque de concentration., Pas de travail en classe, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Mot dans le carnet;2023-11-13;bavardage et manque de concentration;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Devoir supplémentaire;2023-12-15;jet de papiers sur ses camarades en classe, Manque de concentration. Bavardages incessants. Défaut de carnet;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Mot dans le carnet;2023-12-18;bavardage et manque de concentration;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Mot dans le carnet;2023-12-19;bavardage et manque de concentration;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Mot dans le carnet;2023-12-21;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Retenue;2024-01-18;il a poussé son camarde dans la cour;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Mot dans le carnet;2024-01-26;Chante en classe et manque de concentration;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Mot dans le carnet;2024-02-20;Bavardages et manque de concentration.;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Mot dans le carnet;2024-04-16;Bavardages et manque de concentration.;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+5C;Mot dans le carnet;2024-04-18;nan;;E5BwnEOfj6RpUy7Bl-b0JNH1GYcGquy6VRGpiVkiI44
+4C;Retenue;2023-10-12;Attitude en classe;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2023-11-09;Attitude en classe;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2023-11-15;bavardage incessant;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Retenue;2023-11-21;manger en classe;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Retenue;2023-11-27;nan;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2023-12-14;Bavardages incessants comme d'habitude.Un grand manque de concentration. Perturbation du cours. Manque de carnet comme toujours.;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2024-01-08;Bavardages incessants. Un grand manque de concentra, Jet d' objet en classe;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2024-01-22;Bavardages incessants. Un grand manque de concentration. Perturbation du cours.Manque de carnet.;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Retenue;2024-02-02;Agitation en classe, cumul d'attitude inadmissible,manque de respect,insolence.;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2024-02-15;Attitude inadmissible en cours;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Retenue;2024-03-26;a insulte son enseignant d'arabe;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2024-04-15;Bavardages et manque de concentration.;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2024-04-22;Agitation en classe;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Mot dans le carnet;2024-04-24;manque de concentration;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4C;Retenue;2024-05-20;bavardages incessants, cumul d'attitude inadmissible,manque de respect,insolence.;;eREy8SDwW7do9sFgzYfqrph3-H3NUm-FdJvPoHZbjoo
+4B;Retenue;2023-11-09;Devoirs non faits;;as4EISZ73Vh1ieJ4hrfolvfWDviMPf0x5KMuRKNZuuc
+4B;Retenue;2024-02-06;Matériel manquant;;as4EISZ73Vh1ieJ4hrfolvfWDviMPf0x5KMuRKNZuuc
+2B;Exclusion de cours;2023-12-15;Utilisation du téléphone portable dans la cour;09:00:00;d5NYXP7DPsjaza1elpPu3p5aJy9XjDDybBSsh3Q9USY
+2B;Retenue;2024-01-24;Utilisation de télèphone;;d5NYXP7DPsjaza1elpPu3p5aJy9XjDDybBSsh3Q9USY
+2B;Mot dans le carnet;2024-03-21;Bavardage incessant et manque de respect dans la classe;;d5NYXP7DPsjaza1elpPu3p5aJy9XjDDybBSsh3Q9USY
+1B/C;Exclusion de cours;2024-02-15;nan;08:00:00;IwCZCDXW7Fp0pN_SmHLTYAXAk8kBEJ19B7myEZW6lSE
+3B;Mot dans le carnet;2024-03-19;Bavardage et pertu un comportement de non respect inadmissible vis à vis du professeur lors du commencement de l'évaluation .;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+3B;Mot dans le carnet;2024-03-22;Tricherie;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+3B;Mot dans le carnet;2024-04-04;Attitude en classe;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+3B;Mot dans le carnet;2024-04-22;Comportement inacceptable en classe, cumul d'attitude inacceptable et de retards;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+3B;Mot dans le carnet;2024-04-22;Agitation en classe;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+3B;Mot dans le carnet;2024-05-13;Bavardage incessant et manque de respect dans la classe;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+3B;Mot dans le carnet;2024-05-14;Bavardages et manque de concentration.;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+3B;Mot dans le carnet;2024-05-15;bavardage incessant;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+3B;Mot dans le carnet;2024-05-22;BAVARDAGES;;t0yGJbJk-148rq0fxxPRksi2ejaB2Mlg5Yye3do0qRs
+1B/C;TIG;2023-09-27;Dégradation;;BFb2WBb9rtnKRgR3C9B7fX5qZp2Mc5IW8EJle_6rifo
+1B/C;Mot dans le carnet;2023-12-05;bavardage incessant;;BFb2WBb9rtnKRgR3C9B7fX5qZp2Mc5IW8EJle_6rifo
+5B;Mot dans le carnet;2024-02-22;BAVARDAGES;;uQDbaIwfPFjym3uaYLE6WfuLnR2rb7TBEEcXdupkMvQ
+5B;Mot dans le carnet;2024-03-29;jet de papiers sur ses camarades en classe;;uQDbaIwfPFjym3uaYLE6WfuLnR2rb7TBEEcXdupkMvQ
+5A;Mot dans le carnet;2023-09-25;Changement de place sans autorisation;;jc_SOnXvusZltikBs27Da22nepkbd-QHMBm8n5-i0XU
+5A;Retenue;2024-02-20;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;jc_SOnXvusZltikBs27Da22nepkbd-QHMBm8n5-i0XU
+2C;Mot dans le carnet;2023-10-19;nan;;e39VVOIQSRRKJLImLubDNwbk7615wXOoKU-xTO_9gX8
+4C;Mot dans le carnet;2023-09-11;travail non fait;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2023-10-13;Incivisme, manque de concentration;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2023-11-09;Chante en classe et manque de concentration;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2023-11-15;Bavardages et manque de concentration.;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2023-12-14;Dort en classe;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-01-25;Bvardages incessants, manque de concentratiion, defaut de carnet;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-01-31;manque de concentration, oublie constant de matériel, oublis de carnet;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Retenue;2024-02-06;sortie de la permmanance sans permission;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-02-07;Matériel manquant;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-02-12;attitude inacceptable;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Retenue;2024-02-12;Bvardages incessants, manque de concentratiion, defaut de carnet;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-02-15;Changement de place sans autorisation;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Devoir supplémentaire;2024-03-13;attitude inacceptable;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-03-29;Bavardages et manque de concentration.;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Retenue;2024-04-04;Agitation en classe;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-04-08;Bavardages incessants ;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-04-15;bavardage incessant;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-04-19;Agitation en classe;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-04-22;Agitation en classe;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-04-22;Incivisme;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-04-24;attitude inacceptable;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-04-25;Devoirs non faits;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Mot dans le carnet;2024-05-15;bavardage et manque de concentration;;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+4C;Exclusion de cours;2024-05-20;Bavardage incessant et manque de respect dans la classe;11:10:00;u4-ao2ErjBrLVWQPG8on0MNPeO8AudFeabVTzpRV6pA
+2B;Mot dans le carnet;2023-09-07;attitude inacceptable;;GbMxrMfnvKDq4zzplkWr-OG1XMzA4tUUjCJOD0TE9C4
+2B;Exclusion de cours;2023-11-24;Agitation en classe;09:00:00;GbMxrMfnvKDq4zzplkWr-OG1XMzA4tUUjCJOD0TE9C4
+2B;Retenue;2023-11-27;Utilisation de télèphone;;GbMxrMfnvKDq4zzplkWr-OG1XMzA4tUUjCJOD0TE9C4
+2B;Exclusion de cours;2024-02-14;Attitude en classe;12:50:00;GbMxrMfnvKDq4zzplkWr-OG1XMzA4tUUjCJOD0TE9C4
+2B;Retenue;2024-02-19;dégradation du matériel;;GbMxrMfnvKDq4zzplkWr-OG1XMzA4tUUjCJOD0TE9C4
+4B;Mot dans le carnet;2023-09-18;Attitude en classe;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2023-10-19;cumul d'attitude inadmissible,manque de respect,insolence.;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Exclusion de cours;2023-11-14;insulte envers un enseignant;08:00:00;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2023-12-15;Attitude en classe;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2023-12-19;bavardages incessants;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-01-16;Jet d' objet en classe;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-01-26;Bavardages incessants ;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Devoir supplémentaire;2024-02-06;Matériel manquant;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-02-07;mange en classe;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-02-09;Bavardages et manque de concentration.;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Retenue;2024-04-05;Perturbe le cours de façon répétée malgrè les avertissements du professeur;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-04-09;bavardages incessants;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-04-15;bavardage et manque de concentration;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-04-24;bavardages incessants;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-04-26;Agitation en classe, bavardage incessant, Ilyass a rendu le cous impossible cette séance, et c'est pas la première fois. Je lui demande son carnet et il me dit qu'il ne l'a pas pas, à la fin de la séance je lui demande de vider son cartable, j'ai trouvé son carnet. , manque de respect;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Exclusion de cours;2024-05-15;manque de concentration;11:10:00;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-05-16;Attitude inadmissible en cours;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Retenue;2024-05-20;bavardages incessants, Continue à perturber le cours malgré les avertissements répétés du professeurs ;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-05-27;Bavardage incessant et manque de respect dans la classe;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+4B;Mot dans le carnet;2024-06-05;Agitation en classe, bavardage incessant;;dL3WloIEanh7tuQ6LeHpEDOGC9XWbmjdexqGq8Tx_fU
+3C;Mot dans le carnet;2023-11-29;Ecrire ses leçons;;5BkW-ZhQQTsnGQ8kPfOwck1X6i3toLM-hIwT1X4YASw
+6C;Mot dans le carnet;2023-11-30;Attitude en classe;;BDNUeIgeEHVXRqCoKwtTFM8rqNKKIZY7nLm3DJNg0cg
+5A;Mot dans le carnet;2024-04-16;cumul d'attitude inacceptable et de retards;;rBfeng-nhzTCO_EbzV_3Ax4YN7DxPeaRtvG5Xyt1mWM
+5C;Devoir supplémentaire;2023-09-25;nan;;83jGAidoapVMbksz8_Rs8cwXXe89Vrn5WhlSEit_z2c
+5C;Devoir supplémentaire;2023-11-10;Attitude en classe;;83jGAidoapVMbksz8_Rs8cwXXe89Vrn5WhlSEit_z2c
+5C;Mot dans le carnet;2024-03-25;bavardage et manque de concentration, Matériel manquant;;83jGAidoapVMbksz8_Rs8cwXXe89Vrn5WhlSEit_z2c
+5C;Retenue;2024-03-28;Utilisation de télèphone;;83jGAidoapVMbksz8_Rs8cwXXe89Vrn5WhlSEit_z2c
+2C;Mot dans le carnet;2023-10-05;nan;;ss5EC-xoByUyehGd9WvdcuaZfIErmIJlGy2ZM6LL40Y
+2C;Exclusion de cours;2023-10-11;absence de matériel;09:00:00;ss5EC-xoByUyehGd9WvdcuaZfIErmIJlGy2ZM6LL40Y
+2A;Exclusion de cours;2023-11-10;nan;12:50:00;oryI8VbQiiMvGqJVaPpv5tA31rRahouzJxPnw9rgtMk
+2A;Devoir supplémentaire;2024-03-26;travail non fait;;oryI8VbQiiMvGqJVaPpv5tA31rRahouzJxPnw9rgtMk
+2A;Retenue;2024-05-20;Utilisation du téléphone portable dans la cour;;oryI8VbQiiMvGqJVaPpv5tA31rRahouzJxPnw9rgtMk
+6B;Mot dans le carnet;2024-01-18;a insulté son camarade de classe, Exclusion;;SHSsPgbi5BlYrnCmuWleygH_tfqYvy_YxugirX8LGV0
+6C;Mot dans le carnet;2023-10-12;nan;;ddUtvb1xfgYQtbTgTUvKTQky3tdIeJafd6ai9zdKHlM
+6C;Mot dans le carnet;2023-10-13;Attitude en classe;;ddUtvb1xfgYQtbTgTUvKTQky3tdIeJafd6ai9zdKHlM
+6C;Mot dans le carnet;2024-01-30;comportement inadmissible en permamnence;;ddUtvb1xfgYQtbTgTUvKTQky3tdIeJafd6ai9zdKHlM
+6C;Retenue;2024-03-27;plus de 4 retards sans excuses;;ddUtvb1xfgYQtbTgTUvKTQky3tdIeJafd6ai9zdKHlM
+6C;Exclusion de cours;2024-05-20;Retard injustifié;15:00:00;ddUtvb1xfgYQtbTgTUvKTQky3tdIeJafd6ai9zdKHlM
+1B/C;Exclusion de cours;2023-09-25;bavardages incessants;16:00:00;iMXmjqQhPypEkR6MhcnigASZTqSwX3ScVWmMLRco1_I
+1B/C;Exclusion de cours;2024-02-15;nan;08:00:00;iMXmjqQhPypEkR6MhcnigASZTqSwX3ScVWmMLRco1_I
+1B/C;Exclusion de cours;2024-04-05;absence de matériel;08:00:00;iMXmjqQhPypEkR6MhcnigASZTqSwX3ScVWmMLRco1_I
+5B;Mot dans le carnet;2023-09-14;Attitude en classe;;NRbtk4OkxrpRHchnDnNUEqd8I3BbyXZR98zxvGAm2D0
+5B;Retenue;2023-09-21;Chante en classe et manque de concentration, Excès de bavardage, perturbations fréquentes  et un manque du respect au règlement de la classe, ce qui nous fait perdre énormément du temps pendant la séance .;;NRbtk4OkxrpRHchnDnNUEqd8I3BbyXZR98zxvGAm2D0
+5B;Mot dans le carnet;2023-11-27;Bavardages incessants.Manque de concentration. Défaut de carnet;;NRbtk4OkxrpRHchnDnNUEqd8I3BbyXZR98zxvGAm2D0
+5B;Mot dans le carnet;2024-02-22;Bavardages et moqueries;;NRbtk4OkxrpRHchnDnNUEqd8I3BbyXZR98zxvGAm2D0
+5B;Mot dans le carnet;2024-03-14;Attitude en classe;;NRbtk4OkxrpRHchnDnNUEqd8I3BbyXZR98zxvGAm2D0
+5B;Mot dans le carnet;2024-03-18;Attitude inacceptable en classe envers le professeur et les autres.;;NRbtk4OkxrpRHchnDnNUEqd8I3BbyXZR98zxvGAm2D0
+4C;Mot dans le carnet;2023-09-11;travail non fait;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Mot dans le carnet;2023-09-14;Agitation en classe;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Mot dans le carnet;2023-11-27;Agitation en classe, bavardage incessant, défaut de carnet;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Mot dans le carnet;2023-12-01;Agitation en classe;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Mot dans le carnet;2023-12-14;bavardage incessant;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Retenue;2024-01-17;dégradation du matériel;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Mot dans le carnet;2024-03-27;Bavardages et manque de concentration.;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Mot dans le carnet;2024-04-15;bavardage incessant;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Mot dans le carnet;2024-04-19;Agitation en classe;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Mot dans le carnet;2024-04-24;Agitation en classe;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Exclusion de cours;2024-05-20;cumul d'attitude inadmissible,manque de respect,insolence.;11:10:00;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+4C;Retenue;2024-05-20;Agitation en classe, cumul d'attitude inadmissible,manque de respect,insolence., insolence;;U65EZFjIgSPtJN--o6o8b4bHoj1JvsD6veondZKm0oA
+6B;Retenue;2024-02-01;nan;;ontjy1eKIChZn7LV1VBXQM_KJwE1-1so5Ax3GYtdezQ
+6B;Mot dans le carnet;2024-04-16;Attitude en classe;;ontjy1eKIChZn7LV1VBXQM_KJwE1-1so5Ax3GYtdezQ
+6B;Mot dans le carnet;2024-05-15;Incivisme;;ontjy1eKIChZn7LV1VBXQM_KJwE1-1so5Ax3GYtdezQ
+6B;Mot dans le carnet;2024-06-10;Incivisme;;ontjy1eKIChZn7LV1VBXQM_KJwE1-1so5Ax3GYtdezQ
+6B;Mot dans le carnet;2024-06-10;Bavardages incessants ;;ontjy1eKIChZn7LV1VBXQM_KJwE1-1so5Ax3GYtdezQ
+2C;Exclusion de cours;2023-11-09;nan;10:10:00;0nNV6WtNvyhuzZhgqJvNPZaxLN3BgsGxgwcf-1VJPdE
+6B;Retenue;2023-09-19;Utilisation de télèphone;;K94HBGlqVMzS8NTERhieU9rXW_DMotS3awCdP4eCmxM
+6B;Retenue;2024-05-22;Utilisation de télèphone;;K94HBGlqVMzS8NTERhieU9rXW_DMotS3awCdP4eCmxM
+6B;Mot dans le carnet;2024-06-03;a frapper son camarade de classe;;K94HBGlqVMzS8NTERhieU9rXW_DMotS3awCdP4eCmxM
+6B;Mot dans le carnet;2024-06-10;Incivisme;;K94HBGlqVMzS8NTERhieU9rXW_DMotS3awCdP4eCmxM
+3A;Mot dans le carnet;2023-10-17;nan;;pMLedFZKHsQztze5-270OE-lZhfiNKpunTNtaKBS0ew
+3A;Mot dans le carnet;2024-03-11;bavardage et manque de concentration;;pMLedFZKHsQztze5-270OE-lZhfiNKpunTNtaKBS0ew
+3A;Mot dans le carnet;2024-05-27;Agitation en classe;;pMLedFZKHsQztze5-270OE-lZhfiNKpunTNtaKBS0ew
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;gkcvOH6IQPR7CUN3t8dkpogfIUn7MwfogmoK_2Rx4cI
+2A;Mot dans le carnet;2023-10-19;Utilisation du téléphone portable dans la cour;;RvsKGw2WsJvQLQ07UDFk9lnpt6cTj2RFOqA9htX4OBM
+2A;Exclusion de cours;2024-04-09;bavardage et manque de concentration;12:50:00;RvsKGw2WsJvQLQ07UDFk9lnpt6cTj2RFOqA9htX4OBM
+6C;Mot dans le carnet;2024-01-30;comportement inadmissible en permamnence;;14l3CvsmnkTsjI7aOhANrFfg0yfgOR6y-OBp1w7geDE
+4A;Retenue;2024-01-24;Utilisation de télèphone;;sVdFZwC4K9wlDxCwGXq17leJNHiDxHI2qfI-CxUKgGc
+4A;Mot dans le carnet;2024-02-23;Insulte;;sVdFZwC4K9wlDxCwGXq17leJNHiDxHI2qfI-CxUKgGc
+4A;Mot dans le carnet;2024-03-12;BAVARDAGES;;sVdFZwC4K9wlDxCwGXq17leJNHiDxHI2qfI-CxUKgGc
+4A;Mot dans le carnet;2024-04-15;Insultes;;sVdFZwC4K9wlDxCwGXq17leJNHiDxHI2qfI-CxUKgGc
+4A;Mot dans le carnet;2024-04-15;travail non fait;;sVdFZwC4K9wlDxCwGXq17leJNHiDxHI2qfI-CxUKgGc
+4A;Retenue;2024-05-14;Devoirs non faits;;sVdFZwC4K9wlDxCwGXq17leJNHiDxHI2qfI-CxUKgGc
+4A;Retenue;2024-05-24;Devoirs non faits;;sVdFZwC4K9wlDxCwGXq17leJNHiDxHI2qfI-CxUKgGc
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2023-10-16;Changement de place sans autorisation;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2023-11-27;Attitude en classe;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Exclusion de cours;2023-11-27;Retard injustifié;13:50:00;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-01-17;a désobéi au professeur;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-01-19;Changement de place sans autorisation;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Retenue;2024-01-25;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-02-02;nan;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Exclusion de cours;2024-03-11;Retard injustifié;13:50:00;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-03-27;Attitude en classe;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-04-01;bavardage incessant, Incivisme;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-04-05;Bavardages incessants. Un grand manque de concentra;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-04-05;nan;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-04-05;Attitude en classe;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Devoir supplémentaire;2024-04-18;Attitude en classe;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-05-13;a insulté son camarade de classe;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-05-17;bavardages incessants;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Retenue;2024-05-31;cumul d'attitude inadmissible,manque de respect,insolence.;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+6A;Mot dans le carnet;2024-06-05;bavardage;;c8MRZT86QuztF0kxSrVvv3olL6gdD5zZ0kND3zSXuWI
+2C;Exclusion de cours;2023-11-09;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;15:00:00;f24xbMdgQjBbxNQcODLnIdHS9j-VVjsNh37UTcgJWsE
+2C;Retenue;2024-04-03;Utilisation de telephone;;f24xbMdgQjBbxNQcODLnIdHS9j-VVjsNh37UTcgJWsE
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Exclusion de cours;2023-09-22;Agitation en classe, bavardage incessant;08:00:00;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Mot dans le carnet;2023-10-09;bavardage et manque de concentration;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Mot dans le carnet;2023-10-18;Agitation en classe;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Retenue;2023-11-10;oublis de carnet;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Mot dans le carnet;2023-11-10;travail non fait;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Retenue;2023-11-17;Devoirs non faits;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Exclusion de cours;2023-11-20;Bavardages incessants comme d'habitude.Un grand manque de concentration. Perturbation du cours. Manque de carnet comme toujours., oublie constant de matériel;08:00:00;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Retenue;2023-11-23;Attitude en classe, bavardage et manque de concentration;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Retenue;2024-02-02;Agitation en classe;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Mot dans le carnet;2024-04-01;Devoirs non faits;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Exclusion de cours;2024-04-05;Retard injustifié;12:50:00;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Mot dans le carnet;2024-04-15;Bavardages incessants. Un grand manque de concentra;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Retenue;2024-04-22;Devoirs non faits;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Retenue;2024-05-16;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Mot dans le carnet;2024-05-20;Devoirs non faits, oublie constant de matériel;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+6A;Retenue;2024-05-20;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;hWmNJug_uHbjDDEW3IwJMSS9x96Iuz0og4W51_pETAY
+5C;Mot dans le carnet;2024-04-18;nan;;wfgRwUsCHNYOwJ0xWBu92tmL-3kiBEPYJOiEoFz7_k0
+4A;Retenue;2024-01-12;Utilisation de télèphone;;Edw8Jzim2N5-wBkrN5RmvQmGObeolIyqgnXQO-7tG8U
+6B;Mot dans le carnet;2023-11-30;bavardage incessant;;3gxXu8cFCDMOoZJEga90NN5EcWlloEDMH5zsLTBIYXE
+6B;Retenue;2023-12-01;telephone;;3gxXu8cFCDMOoZJEga90NN5EcWlloEDMH5zsLTBIYXE
+6B;Mot dans le carnet;2024-04-16;Attitude en classe;;3gxXu8cFCDMOoZJEga90NN5EcWlloEDMH5zsLTBIYXE
+6B;Mot dans le carnet;2024-05-14;Bavardages incessants ;;3gxXu8cFCDMOoZJEga90NN5EcWlloEDMH5zsLTBIYXE
+6B;Mot dans le carnet;2024-05-23;Agitation en classe;;3gxXu8cFCDMOoZJEga90NN5EcWlloEDMH5zsLTBIYXE
+4B;Mot dans le carnet;2023-11-27;comportement en classe;;Aiaps-fLivSMrsnufwbekCTbg0Ayju7JH10bcYmmMKw
+4B;Mot dans le carnet;2024-01-12;bavardages incessants;;Aiaps-fLivSMrsnufwbekCTbg0Ayju7JH10bcYmmMKw
+4B;Mot dans le carnet;2024-01-26;Agitation en classe, bavardages incessants;;Aiaps-fLivSMrsnufwbekCTbg0Ayju7JH10bcYmmMKw
+4C;Mot dans le carnet;2023-11-27;Bavardages et manque de concentration.;;a6jBNRAbMMFhO9e5KBrsM7Yjqh5MYb0EE4e2yB_AkRc
+4C;Mot dans le carnet;2024-04-22;bavardage incessant;;a6jBNRAbMMFhO9e5KBrsM7Yjqh5MYb0EE4e2yB_AkRc
+4C;Mot dans le carnet;2024-05-23;bavardage incessant;;a6jBNRAbMMFhO9e5KBrsM7Yjqh5MYb0EE4e2yB_AkRc
+5C;Mot dans le carnet;2023-11-21;Bavardages incessants ;;8565x7mAoYrvbsQKYvfkxaL6H1KVe63YIb5OQkB7cSU
+3C;Mot dans le carnet;2024-02-09;Attitude en classe;;KZ7t1XJ5BKqTC40hypDlcc1HAreErPJpa5T-8qq37Nw
+3C;Mot dans le carnet;2024-05-14;Attitude en classe;;KZ7t1XJ5BKqTC40hypDlcc1HAreErPJpa5T-8qq37Nw
+1A;Exclusion de cours;2024-04-22;Prend son téléphone en cours, utilisation du portable;11:10:00;UQebojALlUhQ92lbdwUPUCuwh_Pd1d5DEZ_BNMXpRAA
+1B/C;Retenue;2023-10-12;Manque de respect envers le professeur;;QoqOnH3bGj7OPAwYwhOqmLJBWiJTMLC7nPrui-Xry7U
+4A;Mot dans le carnet;2023-09-14;travail non fait;;lqfaBfqtkz6Dw1-L07gt-6oP6VukCT5gG8EIMM9J8hw
+4A;Mot dans le carnet;2024-01-29;nan;;lqfaBfqtkz6Dw1-L07gt-6oP6VukCT5gG8EIMM9J8hw
+4A;Mot dans le carnet;2024-04-08;Attitude en classe;;lqfaBfqtkz6Dw1-L07gt-6oP6VukCT5gG8EIMM9J8hw
+4A;Mot dans le carnet;2023-09-14;Attitude en classe;;guTcFwhL8KH3DYaY_JJwRiPODXNXm9jL5Oe0qOUkftw
+4A;Exclusion de cours;2023-12-12;nan;08:00:00;guTcFwhL8KH3DYaY_JJwRiPODXNXm9jL5Oe0qOUkftw
+4A;Exclusion de cours;2023-12-13;nan;11:10:00;guTcFwhL8KH3DYaY_JJwRiPODXNXm9jL5Oe0qOUkftw
+4A;Retenue;2024-01-16;devoir non rendu;;guTcFwhL8KH3DYaY_JJwRiPODXNXm9jL5Oe0qOUkftw
+4A;Retenue;2024-03-15;Attitude inadmissible en cours;;guTcFwhL8KH3DYaY_JJwRiPODXNXm9jL5Oe0qOUkftw
+4A;Mot dans le carnet;2024-05-20;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, insolence;;guTcFwhL8KH3DYaY_JJwRiPODXNXm9jL5Oe0qOUkftw
+4A;Retenue;2024-05-24;Devoirs non faits;;guTcFwhL8KH3DYaY_JJwRiPODXNXm9jL5Oe0qOUkftw
+2C;Retenue;2023-10-17;nan;;f0qIAR9jwMa7Z7m7Ddd4a2n1_zrAS7UTLa0ec5jTYGA
+2C;Exclusion de cours;2023-11-09;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;15:00:00;f0qIAR9jwMa7Z7m7Ddd4a2n1_zrAS7UTLa0ec5jTYGA
+2C;Exclusion de cours;2023-12-11;a désobéi au professeur, attitude inacceptable;11:10:00;f0qIAR9jwMa7Z7m7Ddd4a2n1_zrAS7UTLa0ec5jTYGA
+2C;Retenue;2024-02-20;Utilisation de télèphone;;f0qIAR9jwMa7Z7m7Ddd4a2n1_zrAS7UTLa0ec5jTYGA
+2C;Retenue;2024-04-03;Utilisation de telephone;;f0qIAR9jwMa7Z7m7Ddd4a2n1_zrAS7UTLa0ec5jTYGA
+4C;Mot dans le carnet;2023-09-19;Insulte un camarade;;mt0aeRSwd-7grLsQvc0nTddh9kdMbwddVo6FrtFV0n4
+2B;Mot dans le carnet;2023-11-07;Attitude en classe;;1ZCM-2DJ6rXJtJRgjT_ynhtCd230_rbyTx5PitDasxM
+2B;Exclusion de cours;2023-11-23;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;11:10:00;1ZCM-2DJ6rXJtJRgjT_ynhtCd230_rbyTx5PitDasxM
+2B;Retenue;2023-11-30;Attitude inadmissible en cours;;1ZCM-2DJ6rXJtJRgjT_ynhtCd230_rbyTx5PitDasxM
+2B;Retenue;2024-03-21;ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT;;1ZCM-2DJ6rXJtJRgjT_ynhtCd230_rbyTx5PitDasxM
+2B;Exclusion de cours;2024-05-21;nan;10:10:00;1ZCM-2DJ6rXJtJRgjT_ynhtCd230_rbyTx5PitDasxM
+2B;Mot dans le carnet;2024-05-22;bavardage;;1ZCM-2DJ6rXJtJRgjT_ynhtCd230_rbyTx5PitDasxM
+3B;Exclusion de cours;2023-12-01;insolance;15:00:00;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Exclusion de cours;2024-01-30;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;11:10:00;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Mot dans le carnet;2024-02-06;nan;;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Retenue;2024-02-08;Devoirs non faits;;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Mot dans le carnet;2024-03-22;tricherie lors d'une évaluation;;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Exclusion de cours;2024-04-24;bavardage et manque de concentration;09:00:00;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Mot dans le carnet;2024-05-14;Bavardages incessants ;;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Mot dans le carnet;2024-05-17;Agitation en classe;;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Exclusion de cours;2024-05-30;Bavardages incessants ;15:00:00;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Mot dans le carnet;2024-06-03;bavardages incessants;;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Mot dans le carnet;2024-06-03;manque de motivation et de travail;;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Mot dans le carnet;2024-06-05;Bavardages incessants ;;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+3B;Exclusion de cours;2024-06-06;Bavardages incessants ;15:00:00;I6MokE805zSKX1H58zuYodJmll01pmxMTX-XBV7mxWI
+1B/C;Retenue;2023-12-19;Utilisation de télèphone;;G8Ju-2Ifjp-GHD8sr7yFl_oW_GEedv3dVWTW2SrHKWQ
+1B/C;Exclusion de cours;2024-02-15;nan;08:00:00;G8Ju-2Ifjp-GHD8sr7yFl_oW_GEedv3dVWTW2SrHKWQ
+1B/C;Retenue;2023-10-12;Manque de respect envers le professeur;;OTbXvDcCLfSODcPT79cWA1KgEu3RaLxeDMGjlOfONb4
+4B;Mot dans le carnet;2024-02-05;BAVARDAGES;;X3XmlDo3QiZaYZkPz_QPsUrtwgcVizFnOS3easx9gjM
+4B;Mot dans le carnet;2024-02-16;bavardage et manque de concentration;;X3XmlDo3QiZaYZkPz_QPsUrtwgcVizFnOS3easx9gjM
+4B;Retenue;2024-04-18;Utilisation de télèphone;;X3XmlDo3QiZaYZkPz_QPsUrtwgcVizFnOS3easx9gjM
+4B;Devoir supplémentaire;2024-06-05;Agitation en classe, attitude inacceptable, bavardages incessants, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;X3XmlDo3QiZaYZkPz_QPsUrtwgcVizFnOS3easx9gjM
+4B;Devoir supplémentaire;2024-06-07;Comportement inadmissible en classe, rire d'une voix forte en classe ce qui perturbe le cours.;;X3XmlDo3QiZaYZkPz_QPsUrtwgcVizFnOS3easx9gjM
+4B;Mot dans le carnet;2024-06-14;nan;;X3XmlDo3QiZaYZkPz_QPsUrtwgcVizFnOS3easx9gjM
+3C;Mot dans le carnet;2024-03-18;comportement en classe;;MJdVsOMZlk3JTvt3UNBl_0v9iHhYn0BcKN5Z87Lcd0A
+6B;Mot dans le carnet;2023-11-10;Attitude en classe;;V0HWUKgQU7ynWQdI4315Cx-zDTZn21aUO0dKTZwHXvE
+6B;Mot dans le carnet;2023-12-05;Attitude en classe;;V0HWUKgQU7ynWQdI4315Cx-zDTZn21aUO0dKTZwHXvE
+6B;Mot dans le carnet;2023-12-18;Bavardages et manque de concentration.;;V0HWUKgQU7ynWQdI4315Cx-zDTZn21aUO0dKTZwHXvE
+6B;Mot dans le carnet;2024-03-18;Bavardages et manque de concentration.;;V0HWUKgQU7ynWQdI4315Cx-zDTZn21aUO0dKTZwHXvE
+6B;Retenue;2024-02-01;nan;;ZmB2fdr8PPpSJbbTcBiQblWMFWvLu0a-1j6nfK9NcvE
+6B;Retenue;2024-03-20;plus de 4 retards sans excuses;;ZmB2fdr8PPpSJbbTcBiQblWMFWvLu0a-1j6nfK9NcvE
+6B;Exclusion de cours;2024-04-02;Attitude en classe;08:00:00;ZmB2fdr8PPpSJbbTcBiQblWMFWvLu0a-1j6nfK9NcvE
+6B;Mot dans le carnet;2024-04-16;Attitude en classe;;ZmB2fdr8PPpSJbbTcBiQblWMFWvLu0a-1j6nfK9NcvE
+1B/C;Retenue;2023-10-05;Agitation en classe, Joue avec son téléphone en classe, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;_o19fHK4I8PyGnVPnXJm6Y_BopXSx7tUqwoY04cn55Y
+1B/C;Retenue;2023-10-17;utilisation du téléphone en permanence;;_o19fHK4I8PyGnVPnXJm6Y_BopXSx7tUqwoY04cn55Y
+1B/C;Mot dans le carnet;2023-12-05;Bavardages et manque de concentration.;;_o19fHK4I8PyGnVPnXJm6Y_BopXSx7tUqwoY04cn55Y
+4B;Mot dans le carnet;2024-02-01;bavardage incessant;;FzrqNKHY2-jqML6kFRSMHPbmU06yYQR-aDuuqXyIS5A
+4B;Retenue;2024-02-06;oublie constant de matériel;;FzrqNKHY2-jqML6kFRSMHPbmU06yYQR-aDuuqXyIS5A
+4B;Mot dans le carnet;2024-04-01;Bavardages incessants. Un grand manque de concentra;;FzrqNKHY2-jqML6kFRSMHPbmU06yYQR-aDuuqXyIS5A
+4B;Mot dans le carnet;2024-06-14;Agitation en classe;;FzrqNKHY2-jqML6kFRSMHPbmU06yYQR-aDuuqXyIS5A
+5C;Mot dans le carnet;2024-01-26;Chante en classe et manque de concentration;;sOQF81Fs7Ny3h4kgxtCoF68REismL-ducibBGHS2VL0
+5C;Mot dans le carnet;2024-02-09;attitude inacceptable;;sOQF81Fs7Ny3h4kgxtCoF68REismL-ducibBGHS2VL0
+3C;Retenue;2023-11-21;Devoirs non faits;;ogE2VznlkFgn_Ife3PzXfVLOVEHNk7elct2DAXM34R4
+5B;Mot dans le carnet;2023-10-13;BAVARDAGES;;yvbruqZmkyi8oTBMEl60FoaER9rksI-FgPZSSr1KwGE
+5B;Mot dans le carnet;2024-03-15;Attitude en classe;;yvbruqZmkyi8oTBMEl60FoaER9rksI-FgPZSSr1KwGE
+2B;Retenue;2024-04-08;Utilisation de télèphone;;sCbpPi7xtOUEPjx59dYqe1BkokVrqxqiqdtk_KQfFI4
+2C;Exclusion de cours;2024-04-04;absence de matériel;10:10:00;kA_yzW_hrnxp1wqFi3iApHbq9QprJJouqlIR5_t18GU
+4B;Mot dans le carnet;2023-11-09;Attitude en classe;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Devoir supplémentaire;2023-11-27;nan;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2023-12-15;Attitude en classe;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2023-12-21;bavardages incessants;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-01-22;Bavardages et manque de concentration.;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-01-22;Bavardages et manque de concentration.;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Retenue;2024-01-30;a frapper un eleve dans la cour;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-03-18;Bavardages incessants. Un grand manque de concentra;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-04-04;Changement de place sans autorisation;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-04-19;Attitude en classe;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-04-22;attitude inacceptable;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-05-13;Bavardage incessant et manque de respect dans la classe;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-05-15;Bavardages et manque de concentration.;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Retenue;2024-05-17;à manque de respect à l'animteur et il a utilisé son télèphone au foyer;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-05-23;Agitation en classe, bavardage incessant;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-05-27;nan;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4B;Mot dans le carnet;2024-06-07;Bavardages incessants et perturbation du cours pendant une évaluation;;X4uTUNhVzKHOzZeGON8lJy3uQkbEH84AksBBOojYiBg
+4C;Mot dans le carnet;2023-10-12;Attitude en classe;;c3xVW4Y2abSa5RDcCqifTDyb1sVxLZ8zv0APgEB7l2Y
+4C;Retenue;2024-03-21;Utilisation de télèphone au foyer;;c3xVW4Y2abSa5RDcCqifTDyb1sVxLZ8zv0APgEB7l2Y
+6C;Mot dans le carnet;2023-11-24;attitude inacceptable;;4qf5qCWoQo6CT1uYjDc3vDXzdakeHzd_qwU14BFs89I
+4C;Retenue;2024-03-21;Utilisation de télèphone au foyer;;83r2W_WAssx0CCXJrsOndBNRAsRKBtMx7CtvDNZcmtI
+2C;Exclusion de cours;2023-11-09;nan;10:10:00;KC8CI-9Th5bhfA1lyf5DIgjkQvqT7DV82HsmmbbUb48
+4C;Mot dans le carnet;2023-11-15;jet de papiers sur ses camarades en classe;;pR058NudH3R0DsmCCDN597YygL5k9eesVykrG3Or-VQ
+4C;Mot dans le carnet;2023-12-14;bavardages incessants;;pR058NudH3R0DsmCCDN597YygL5k9eesVykrG3Or-VQ
+4C;Devoir supplémentaire;2024-01-29;jet de papiers sur ses camarades en classe, N'a pas rendu sa punition;;pR058NudH3R0DsmCCDN597YygL5k9eesVykrG3Or-VQ
+4C;Devoir supplémentaire;2024-04-04;Bavardage incessant et manque de respect dans la classe, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;pR058NudH3R0DsmCCDN597YygL5k9eesVykrG3Or-VQ
+4C;Mot dans le carnet;2024-04-24;Agitation en classe, bavardages incessants;;pR058NudH3R0DsmCCDN597YygL5k9eesVykrG3Or-VQ
+4C;Mot dans le carnet;2024-05-23;bavardages incessants;;pR058NudH3R0DsmCCDN597YygL5k9eesVykrG3Or-VQ
+3A;Retenue;2024-04-19;Utilisation de télèphone;;OuwlkLVMjN5W9VqxPK5E70jXp59RCau48jFjVnkhbEc
+3A;Mot dans le carnet;2024-05-17;Attitude en classe;;OuwlkLVMjN5W9VqxPK5E70jXp59RCau48jFjVnkhbEc
+3A;Exclusion de cours;2024-06-06;Retard injustifié;12:50:00;OuwlkLVMjN5W9VqxPK5E70jXp59RCau48jFjVnkhbEc
+2A;Devoir supplémentaire;2023-10-10;nan;;2eX6Ptr4UVl8dUTBpqrGKzYJobgX1dd_amwPpv2oFk0
+4A;Mot dans le carnet;2023-09-18;Bavardages incessants ;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2023-09-21;bavardages incessants;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2023-09-22;Bavardages incessants ;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Retenue;2023-09-25;Agitation en classe, Bavardages incessants ;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2023-10-10;Attitude en classe;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Retenue;2023-11-17;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2023-11-20;Bavardages et manque de concentration.;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2023-12-05;nan;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2024-02-19;Attitude en classe;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2024-04-19;Bavardage incessant et manque de respect dans la classe, Bavardages et manque de concentration.;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2024-05-20;nan;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2024-05-27;Attitude en classe;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Mot dans le carnet;2024-05-28;bavardage;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+4A;Retenue;2024-05-30;Utilisation de télèphone;;sCYOzSxlOIRsCHZ2ZwGKZlPcEllwwBOQO2NenbyNecI
+2C;Exclusion de cours;2023-11-09;nan;10:10:00;vlGS65G2uTHK-S-uustlPxCruoiNealjos2mM3l5O6A
+2C;Exclusion de cours;2024-04-04;absence de matériel;10:10:00;vlGS65G2uTHK-S-uustlPxCruoiNealjos2mM3l5O6A
+1B/C;Retenue;2023-11-17;manque de respect envers un adulte;;dHztjQ5NyqTuPnEJvGpjEGUTu_Rm4guUqHK_QvYpNfo
+6B;Mot dans le carnet;2023-11-30;Attitude inadmissible en cours;;6f40NN6_onsOjdsNneeUruTeNvn2kiFwOW5zKB7gQlI
+6B;Mot dans le carnet;2024-03-18;bavardage et manque de concentration;;6f40NN6_onsOjdsNneeUruTeNvn2kiFwOW5zKB7gQlI
+6B;Mot dans le carnet;2024-05-28;Insulte un camarade;;6f40NN6_onsOjdsNneeUruTeNvn2kiFwOW5zKB7gQlI
+6B;Mot dans le carnet;2024-06-03;Insulte un camarade;;6f40NN6_onsOjdsNneeUruTeNvn2kiFwOW5zKB7gQlI
+3C;Retenue;2024-04-04;Utilisation de téléphone portable;;KFFZXli8vSvWUuMnM7wqAFCVIdLourxabZ-lHno_S4Q
+3C;Mot dans le carnet;2024-05-31;insolence;;KFFZXli8vSvWUuMnM7wqAFCVIdLourxabZ-lHno_S4Q
+5B;Devoir supplémentaire;2023-09-21;bavardage et manque de concentration;;kOVF88m42DC3sO1NghNkwLzq9R1hd27-OV-n3bm1GEw
+5B;Mot dans le carnet;2023-11-24;bavardage incessant;;kOVF88m42DC3sO1NghNkwLzq9R1hd27-OV-n3bm1GEw
+5B;Mot dans le carnet;2023-11-27;Bavardages incessants ;;kOVF88m42DC3sO1NghNkwLzq9R1hd27-OV-n3bm1GEw
+5B;Mot dans le carnet;2024-03-14;bavardage incessant;;kOVF88m42DC3sO1NghNkwLzq9R1hd27-OV-n3bm1GEw
+5B;Mot dans le carnet;2024-03-29;Jet d' objet en classe;;kOVF88m42DC3sO1NghNkwLzq9R1hd27-OV-n3bm1GEw
+5C;Mot dans le carnet;2023-09-25;nan;;ZULly18Ye8qIqxlESrMZN4R3TfPZ0Y_1jZrSn0neLq0
+5C;Devoir supplémentaire;2023-09-25;nan;;ZULly18Ye8qIqxlESrMZN4R3TfPZ0Y_1jZrSn0neLq0
+2C;Mot dans le carnet;2023-10-17;nan;;SZ5rg5IrisSLP9uUiHYDzbs6e5ZUnqGaHxMNEJ5DmTM
+2C;Retenue;2023-10-17;nan;;SZ5rg5IrisSLP9uUiHYDzbs6e5ZUnqGaHxMNEJ5DmTM
+2C;Exclusion de cours;2023-11-28;Agitation en classe;11:10:00;SZ5rg5IrisSLP9uUiHYDzbs6e5ZUnqGaHxMNEJ5DmTM
+2C;Exclusion de cours;2024-01-10;Bavardages et manque de concentration.;12:50:00;SZ5rg5IrisSLP9uUiHYDzbs6e5ZUnqGaHxMNEJ5DmTM
+2C;Retenue;2024-02-09;bavardage et manque de concentration;;SZ5rg5IrisSLP9uUiHYDzbs6e5ZUnqGaHxMNEJ5DmTM
+2C;Exclusion de cours;2024-02-14;Attitude en classe;09:00:00;SZ5rg5IrisSLP9uUiHYDzbs6e5ZUnqGaHxMNEJ5DmTM
+2C;Mot dans le carnet;2024-03-28;Attitude inadmissible en cours;;SZ5rg5IrisSLP9uUiHYDzbs6e5ZUnqGaHxMNEJ5DmTM
+2C;Exclusion de cours;2024-04-08;atittude inadmissible,cumul d'insultes envers ses camarades de classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;11:10:00;SZ5rg5IrisSLP9uUiHYDzbs6e5ZUnqGaHxMNEJ5DmTM
+5A;Mot dans le carnet;2023-09-15;BAVARDAGES;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2023-09-21;Agitation en classe;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2023-10-09;bavardage et manque de concentration;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Retenue;2023-10-09;Agitation en classe, Bavardages incessants ;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Exclusion de cours;2023-10-12;a frapper son camarade de classe;13:50:00;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2023-10-16;bavardage et manque de concentration;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2023-10-16;bavardage incessant;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Retenue;2023-11-20;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, bavardages incessants;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2024-02-05;Devoirs non faits, oublie constant de matériel;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2024-02-16;Agitation en classe;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2024-02-19;bavardages incessants;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Exclusion de cours;2024-02-22;Agitation en classe, manque de respect;08:00:00;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2024-03-14;jet de papiers sur ses camarades en classe;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Retenue;2024-04-05;Bavardages incessants, refus de faire son travail . Manque de concentration;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2024-05-24;Bavardages incessants ;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2024-06-03;oublie constant de matériel;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5A;Mot dans le carnet;2024-06-06;nan;;qrHVYcMjskoFpEVsQFCjYsiDI5zQDDQEDnQHhEjoPCk
+5B;Mot dans le carnet;2023-10-06;bavardages incessants;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2023-11-10;Dort en classe;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2023-11-24;Bavardages et manque de concentration.;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2023-12-01;Bavardages incessants ;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2023-12-08;nan;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2024-01-15;Bavardage incessant et manque de respect dans la classe;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Retenue;2024-01-30;Il bavarde sans cesse, sans respecter le déroulement du cours ni ses camarades de classe.;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Retenue;2024-02-13;a insulté son camarade de classe;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2024-02-20;Attitude en classe;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2024-04-02;Attitude en classe;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2024-04-19;manque de motivation et de travail;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Retenue;2024-06-05;nan;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Exclusion de cours;2024-06-05;Agitation en classe;10:10:00;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2024-06-07;nan;;2ELG_7LO4fkMxVurqy0qzYk-faXSbnB2RCmSLFoOICw
+5B;Mot dans le carnet;2023-11-24;Bavardages incessants ;;EBOvxm1RNuPgwDjVuZAPXRCnUS5xXABqILDF2XhzNg8
+1B/C;Retenue;2023-10-12;Manque de respect envers le professeur;;isDwkg3qpzKsYY2tNCnBVk3eqC5huMqRulGsxLeWlEs
+1B/C;Retenue;2023-12-07;insulte envers un enseignant;;isDwkg3qpzKsYY2tNCnBVk3eqC5huMqRulGsxLeWlEs
+5B;Retenue;2023-09-26;Insulte un camarade;;wZ-b-Nnv1Zgm1eMTkZ59dMThSUg1armkAN80Ia4xkxk
+5B;Mot dans le carnet;2023-11-24;Bavardages incessants. Un grand manque de concentra;;wZ-b-Nnv1Zgm1eMTkZ59dMThSUg1armkAN80Ia4xkxk
+1B/C;Retenue;2023-10-04;Dessin de la table;;-NQ-j5jGc8q7NqwTdoI9rWLETxUtt0QrM4OMvL0yWFg
+2C;Retenue;2023-10-04;Utilisation de télèphone, utilisation du téléphone en permanence;;6y1mx4tCsMbx2tJDL4CSYzWEVgR_7bssZO8AuBVFY5Q
+2C;Exclusion de cours;2023-11-09;nan;10:10:00;6y1mx4tCsMbx2tJDL4CSYzWEVgR_7bssZO8AuBVFY5Q
+2C;Retenue;2024-01-30;utilisation du portable;;6y1mx4tCsMbx2tJDL4CSYzWEVgR_7bssZO8AuBVFY5Q
+2C;Exclusion de cours;2024-02-15;nan;10:10:00;6y1mx4tCsMbx2tJDL4CSYzWEVgR_7bssZO8AuBVFY5Q
+2C;Retenue;2024-04-03;Utilisation de télèphone;;6y1mx4tCsMbx2tJDL4CSYzWEVgR_7bssZO8AuBVFY5Q
+4B;Mot dans le carnet;2023-11-09;Bruit prémidité en classe et non reconnaissance de son erreur;;c5oDRXJbzGGC6V2p0gTkCmFYLQl1JwqlaQ7wRQkX5G8
+4B;Mot dans le carnet;2023-12-01;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;c5oDRXJbzGGC6V2p0gTkCmFYLQl1JwqlaQ7wRQkX5G8
+4B;Retenue;2024-05-23;Devoirs non faits;;c5oDRXJbzGGC6V2p0gTkCmFYLQl1JwqlaQ7wRQkX5G8
+4B;Devoir supplémentaire;2024-05-27;Agitation en classe, bavardages incessants, Manque de respect envers le professeur;;c5oDRXJbzGGC6V2p0gTkCmFYLQl1JwqlaQ7wRQkX5G8
+4B;Devoir supplémentaire;2024-05-31;Agitation en classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, Bavardage et pertu un comportement de non respect inadmissible vis à vis du professeur lors du commencement de l'évaluation .;;c5oDRXJbzGGC6V2p0gTkCmFYLQl1JwqlaQ7wRQkX5G8
+4B;Mot dans le carnet;2024-06-07;Agitation en classe, Attitude inadmissible en cours, Bavardages et moqueries;;c5oDRXJbzGGC6V2p0gTkCmFYLQl1JwqlaQ7wRQkX5G8
+4B;Retenue;2023-09-21;Agitation en classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Mot dans le carnet;2023-10-05;Agitation en classe;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Exclusion de cours;2023-10-06;Agitation en classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;15:00:00;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Mot dans le carnet;2023-12-05;Attitude inadmissible en cours;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Mot dans le carnet;2024-01-12;bavardage et manque de concentration;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Retenue;2024-02-06;Matériel manquant;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Mot dans le carnet;2024-02-14;attitude inacceptable;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Retenue;2024-02-21;nan;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Mot dans le carnet;2024-04-24;Bavardages incessants ;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Mot dans le carnet;2024-04-26;Bavardages incessants , manque de respect;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Mot dans le carnet;2024-05-15;Bavardages incessants. Un grand manque de concentration. Perturbation du cours.Manque de carnet.;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Devoir supplémentaire;2024-05-22;Agitation en classe, Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours, Utilisation du téléphone en classe, pendant le cours.;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Devoir supplémentaire;2024-05-27;mange en cours, non concentrer en classe, non respect les réglement intérieur de l'école, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Devoir supplémentaire;2024-06-05;ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT, Bavardage incessant et manque de respect dans la classe;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Devoir supplémentaire;2024-06-05;a frapper son camarade de classe, Agitation en classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, bavardage et manque de concentration;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Devoir supplémentaire;2024-06-07;Agitation en classe, ATTITUDE INACCEPTABLE ENVERS L'ENSEIGNANT ET MANQUE DE RESPECT;;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4B;Exclusion de cours;2024-06-14;nan;08:00:00;vvEYSPZIRBhsU-aIoQbrBiTblqPWtG4GEOwIrVwJPY8
+4A;Mot dans le carnet;2023-12-07;bavardage;;n5N9nCNvwq1X_JmWzDuQq4B7zhadASmZy_96EuiTti8
+4B;Mot dans le carnet;2024-06-05;Agitation en classe, bavardage incessant;;njv6L7PjTPiiL8E3C3NE1q_V5SoNvREco2oOfRydpc0
+2A;Devoir supplémentaire;2023-10-10;nan;;Hvzmr5ssE3NzMtrxHphQdwQFkT9tg2sH_rfMDp1eHD0
+2A;Mot dans le carnet;2024-05-13;Dissipation;;Hvzmr5ssE3NzMtrxHphQdwQFkT9tg2sH_rfMDp1eHD0
+6A;Mot dans le carnet;2024-03-27;Attitude en classe;;6Ju8_BuXENXSQ8W5aBANAw55NMhQL_GlyyGwasCgras
+3A;Retenue;2023-11-21;utilisation du téléphone en permanence;;oyP5-Y2fcIfSi40vQSjCqU8gsIYP1m8VY3xCP3VgXWs
+6B;Mot dans le carnet;2024-02-15;nan;;F7jvfA1sfJRS4hoeBAckWXKtmijLJ1-N826fAJ-Mcu4
+6B;Mot dans le carnet;2024-04-15;nan;;F7jvfA1sfJRS4hoeBAckWXKtmijLJ1-N826fAJ-Mcu4
+6B;Mot dans le carnet;2024-04-16;Attitude en classe;;F7jvfA1sfJRS4hoeBAckWXKtmijLJ1-N826fAJ-Mcu4
+6B;Mot dans le carnet;2024-05-28;bavardage incessant;;F7jvfA1sfJRS4hoeBAckWXKtmijLJ1-N826fAJ-Mcu4
+6A;Mot dans le carnet;2024-02-02;nan;;1dWENieZ42-ji5mFhv3t4euQvEt0W1BrwMj5O-vsMKg
+6A;Mot dans le carnet;2024-04-01;nan;;1dWENieZ42-ji5mFhv3t4euQvEt0W1BrwMj5O-vsMKg
+6A;Mot dans le carnet;2024-04-05;bavardage incessant;;1dWENieZ42-ji5mFhv3t4euQvEt0W1BrwMj5O-vsMKg
+6A;Mot dans le carnet;2024-04-15;bavardage incessant;;1dWENieZ42-ji5mFhv3t4euQvEt0W1BrwMj5O-vsMKg
+6A;Mot dans le carnet;2024-05-31;Attitude en classe;;1dWENieZ42-ji5mFhv3t4euQvEt0W1BrwMj5O-vsMKg
+3B;Mot dans le carnet;2024-04-19;Attitude en classe;;5F2sila9LKzglFUiXxyxsn53xpJ3EVER4ccFw3Nsyfo
+3B;Mot dans le carnet;2024-05-17;bavardage incessant;;5F2sila9LKzglFUiXxyxsn53xpJ3EVER4ccFw3Nsyfo
+3B;Exclusion de cours;2024-06-06;Bavardages incessants ;15:00:00;5F2sila9LKzglFUiXxyxsn53xpJ3EVER4ccFw3Nsyfo
+3B;Mot dans le carnet;2023-09-21;Bavardages incessants ;;BskYKiPp0xIMHrlbWWJWcJWdl_thT7Xyx5gbYpS3Ln4
+3B;Retenue;2023-12-11;travail non fait;;BskYKiPp0xIMHrlbWWJWcJWdl_thT7Xyx5gbYpS3Ln4
+3B;Mot dans le carnet;2024-04-15;travail non fait;;BskYKiPp0xIMHrlbWWJWcJWdl_thT7Xyx5gbYpS3Ln4
+2B;Mot dans le carnet;2024-02-13;Exclusion;;zfNU0dkyiDnPz_lAFT9sy03U1vM81d8M-lUjQZs7gig
+2B;Mot dans le carnet;2024-05-15;Utilisation de téléphone portable;;zfNU0dkyiDnPz_lAFT9sy03U1vM81d8M-lUjQZs7gig
+5C;Mot dans le carnet;2023-11-29;bavardages incessants;;26h7fJ37R3KmyV9wgTBh8bLMVL0QNPkV-_Hwe682yhs
+5C;Mot dans le carnet;2023-12-14;bavardage et manque de concentration;;26h7fJ37R3KmyV9wgTBh8bLMVL0QNPkV-_Hwe682yhs
+5C;Mot dans le carnet;2023-12-21;a mis la veste de sa camarade par terre derrière la batterie avant de sortire., absence de matériel, Agitation en classe, AGUINAN Rayan , a déclaré qu'il se foute des cours d'éducation musicale en pleine classe d'une manière grossière !après l'avoir averti pour l'absence récurrente de son cahier de classe   ,et ce depuis la fin du premier trimestre  , + il ne sort jamais son carnet de correspondance ., arrive en retard à l'intercours , atittude inadmissible,cumul d'insultes envers ses camarades de classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, Baraa a lance un papier à un autre éléve trés loin de lui en classe., BAVARDAGES, Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;26h7fJ37R3KmyV9wgTBh8bLMVL0QNPkV-_Hwe682yhs
+3A;Mot dans le carnet;2023-09-15;manque de concentration;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Retenue;2023-10-06;+, attitude inacceptable;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Mot dans le carnet;2023-10-17;nan;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Mot dans le carnet;2023-11-27;Bavardages et manque de concentration.;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Mot dans le carnet;2023-11-30;bavardage incessant;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Mot dans le carnet;2024-01-15;Attitude en classe;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Mot dans le carnet;2024-01-30;Bavardages et manque de concentration.;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Mot dans le carnet;2024-04-04;Perturbe le cours de façon répétée malgrè les avertissements du professeur;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Mot dans le carnet;2024-04-22;Jet de papiers toilettes;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+3A;Mot dans le carnet;2024-05-16;Attitude inadmissible en cours;;4NDtG4Bgwsa_zyvVNoaBD_bOn-19Hu0jGjZc5UFk5UA
+4A;Mot dans le carnet;2024-01-17;attitude ;;4ZUPLqVm6yVn_jE_XhilRHDNPffW1QlYgZXaaBk47_c
+4A;Mot dans le carnet;2024-03-12;BAVARDAGES;;4ZUPLqVm6yVn_jE_XhilRHDNPffW1QlYgZXaaBk47_c
+4A;Mot dans le carnet;2024-04-19;Refus des consignes;;4ZUPLqVm6yVn_jE_XhilRHDNPffW1QlYgZXaaBk47_c
+6A;Mot dans le carnet;2024-02-02;Bavardage incessant et manque de respect dans la classe, cumul d'attitude inadmissible,manque de respect,insolence.;;jPMRrNKroE3aDCFmnFArPKej-L_t_9rIJlE_61y6oj0
+6A;Retenue;2024-02-02;Agitation en classe;;jPMRrNKroE3aDCFmnFArPKej-L_t_9rIJlE_61y6oj0
+6A;Mot dans le carnet;2024-02-15;Attitude inadmissible en cours;;jPMRrNKroE3aDCFmnFArPKej-L_t_9rIJlE_61y6oj0
+6A;Mot dans le carnet;2024-03-25;prendre de la parole sans permission malgré les plusieurs avertissement de prof et cela pertube le deroulement de cours.;;jPMRrNKroE3aDCFmnFArPKej-L_t_9rIJlE_61y6oj0
+6A;Mot dans le carnet;2024-06-03;Incivisme;;jPMRrNKroE3aDCFmnFArPKej-L_t_9rIJlE_61y6oj0
+Terminale;Mot dans le carnet;2024-02-01;Comportement inacceptable en classe;;I2KmtjeMQLPGFw2WOuJwjnM8I6knZ1F1tnMOD0weOq4
+2A;Mot dans le carnet;2023-10-06;Attitude en classe;;lnBDyHr0Zh-SQqFikz-BsTuCUYzreZJSqbqIFmbCmm0
+2A;Devoir supplémentaire;2023-10-10;nan;;lnBDyHr0Zh-SQqFikz-BsTuCUYzreZJSqbqIFmbCmm0
+2A;Mot dans le carnet;2023-11-30;Attitude en classe;;lnBDyHr0Zh-SQqFikz-BsTuCUYzreZJSqbqIFmbCmm0
+2A;Mot dans le carnet;2023-12-14;attitude inacceptable;;lnBDyHr0Zh-SQqFikz-BsTuCUYzreZJSqbqIFmbCmm0
+2A;Retenue;2023-12-14;attitude inacceptable;;lnBDyHr0Zh-SQqFikz-BsTuCUYzreZJSqbqIFmbCmm0
+6A;Mot dans le carnet;2023-09-22;Bavardages incessants ;;m1clfb37wTY8-an9M4MouKKh69FZRSa6NcXX_jcZ9VE
+6A;Mot dans le carnet;2024-01-19;Changement de place sans autorisation;;m1clfb37wTY8-an9M4MouKKh69FZRSa6NcXX_jcZ9VE
+6A;Mot dans le carnet;2024-03-18;Bavardages incessants ;;m1clfb37wTY8-an9M4MouKKh69FZRSa6NcXX_jcZ9VE
+6A;Mot dans le carnet;2024-04-15;bavardage incessant;;m1clfb37wTY8-an9M4MouKKh69FZRSa6NcXX_jcZ9VE
+6A;Mot dans le carnet;2024-05-31;Attitude en classe;;m1clfb37wTY8-an9M4MouKKh69FZRSa6NcXX_jcZ9VE
+2A;Mot dans le carnet;2023-12-14;Attitude en classe;;lqHV3fJ1ADTENx6RAem9RS-W70N4OPFrDG8f8Zyvz2o
+2A;Mot dans le carnet;2024-05-23;Attitude en classe;;lqHV3fJ1ADTENx6RAem9RS-W70N4OPFrDG8f8Zyvz2o
+2A;Mot dans le carnet;2024-05-27;manque de motivation et de travail;;lqHV3fJ1ADTENx6RAem9RS-W70N4OPFrDG8f8Zyvz2o
+Terminale;Exclusion de cours;2024-04-03;absence de matériel;12:50:00;OBvrrUC-OG8Rgbit2mVYSkI3R9HWBUYfQbWlPOTvFfk
+2A;Mot dans le carnet;2023-10-09;Attitude en classe;;_K8Qy5HT8_u948Z6ForrEnFtdpm2RS1ngI0_18vrIgA
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Retenue;2023-11-10;oublis de carnet;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Mot dans le carnet;2023-12-07;bavardage incessant;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Mot dans le carnet;2023-12-08;nan;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Mot dans le carnet;2024-01-12;devoir non rendu;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Retenue;2024-01-18;Attitude inadmissible en cours;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Mot dans le carnet;2024-01-29;Dégradation;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Mot dans le carnet;2024-02-15;Attitude inadmissible en cours;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Retenue;2024-03-22;il a seché l'heure de permanence et il jouait le foot au plateau sportif sans autorisation et sans surveillance;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Exclusion de cours;2024-04-05;Attitude en classe;08:00:00;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Retenue;2024-05-20;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+6A;Mot dans le carnet;2024-06-05;a frapper son camarade de classe;;hR-GW2zQZZltTNpqS3nmpXZZrGgGks8gWGYRHDMI3-Q
+2A;Devoir supplémentaire;2023-10-10;nan;;cVU7GseiHMC-TWyq2kaAIhRcIiWPsk_5L5usOVadFXY
+2A;Mot dans le carnet;2023-10-19;Attitude en classe;;cVU7GseiHMC-TWyq2kaAIhRcIiWPsk_5L5usOVadFXY
+2A;Mot dans le carnet;2023-12-14;Attitude en classe;;cVU7GseiHMC-TWyq2kaAIhRcIiWPsk_5L5usOVadFXY
+2A;Mot dans le carnet;2024-05-13;Dissipation;;cVU7GseiHMC-TWyq2kaAIhRcIiWPsk_5L5usOVadFXY
+2B;Mot dans le carnet;2023-09-07;attitude inacceptable;;D126CQs_qdRdmumGvHlEj-o915Lir5QU-yjYBqjrcrM
+2B;Exclusion de cours;2023-11-24;Agitation en classe;09:00:00;D126CQs_qdRdmumGvHlEj-o915Lir5QU-yjYBqjrcrM
+2B;Retenue;2023-11-30;Agitation en classe;;D126CQs_qdRdmumGvHlEj-o915Lir5QU-yjYBqjrcrM
+2B;Retenue;2023-12-12;utilisation du portable;;D126CQs_qdRdmumGvHlEj-o915Lir5QU-yjYBqjrcrM
+2B;Exclusion de cours;2024-03-29;bavardage et manque de concentration;09:00:00;D126CQs_qdRdmumGvHlEj-o915Lir5QU-yjYBqjrcrM
+3A;Mot dans le carnet;2023-09-15;manque de concentration;;YtuJxkutFaNfFHc_xKn5PdIY1DrbbyBB9EEvcKIaRz8
+5C;Devoir supplémentaire;2023-09-25;nan;;aqY7fEhKVm_10N6XdS74Wb5jXrDYuOSdKGovnyC7Si8
+5C;Mot dans le carnet;2024-02-09;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;aqY7fEhKVm_10N6XdS74Wb5jXrDYuOSdKGovnyC7Si8
+5C;Mot dans le carnet;2024-04-16;Bavardages et manque de concentration.;;aqY7fEhKVm_10N6XdS74Wb5jXrDYuOSdKGovnyC7Si8
+5C;Mot dans le carnet;2024-04-18;nan;;aqY7fEhKVm_10N6XdS74Wb5jXrDYuOSdKGovnyC7Si8
+5C;Exclusion de cours;2024-04-18;nan;09:00:00;aqY7fEhKVm_10N6XdS74Wb5jXrDYuOSdKGovnyC7Si8
+3A;Mot dans le carnet;2023-09-15;manque de concentration;;1cSJAlnIlvPr6IuRL9sK5lV5sXikHn8UXtF8cDcNKzQ
+3A;Mot dans le carnet;2023-10-19;nan;;1cSJAlnIlvPr6IuRL9sK5lV5sXikHn8UXtF8cDcNKzQ
+3B;Mot dans le carnet;2024-01-22;Attitude en classe;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Retenue;2024-01-25;Utilisation de télèphone;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Exclusion de cours;2024-01-25;BAVARDAGES;15:00:00;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Retenue;2024-02-08;Devoirs non faits;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Retenue;2024-02-15;travail non fait;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Retenue;2024-03-28;Utilisation du téléphone portable dans la cour;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Mot dans le carnet;2024-04-02;Utilisation de téléphone portable;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Retenue;2024-04-05;Attitude en classe;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Mot dans le carnet;2024-04-17;travail non fait;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+3B;Mot dans le carnet;2024-04-19;Utilisation de telephone;;IoWYVKZn2CGNx-VZ5dL0YckjmAdY7TE-cVdnI4dPvjc
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+6A;Mot dans le carnet;2023-11-20;Devoirs non faits, oublie constant de matériel;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+6A;Mot dans le carnet;2024-02-02;nan;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+6A;Retenue;2024-02-02;Agitation en classe;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+6A;Mot dans le carnet;2024-02-15;Attitude inadmissible en cours;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+6A;Mot dans le carnet;2024-03-27;Attitude en classe;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+6A;Retenue;2024-05-13;Attitude en classe;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+6A;Mot dans le carnet;2024-05-28;Refus des consignes;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+6A;Mot dans le carnet;2024-05-28;Insulte un camarade;;NkINpUUkv8Yn3mBLdIWseVXy9EdGH4IPFEXTNl3Szbw
+Terminale;Devoir supplémentaire;2024-03-13;nan;;MOk-pJQ0AqHpckv25vMnXp3hj97P7oCKeQ7gQoJhpVE
+6A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2023-09-22;Bavardages incessants ;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2023-10-10;bavardages incessants;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2023-11-14;manque de concentration;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Devoir supplémentaire;2023-11-16;Bavardages incessants. Un grand manque de concentra;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2023-11-27;Attitude en classe;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Exclusion de cours;2023-11-27;Retard injustifié;13:50:00;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Retenue;2023-11-28;cumul d'attitude inadmissible,manque de respect,insolence.;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Exclusion de cours;2023-11-28;cumul d'attitude inacceptable et de retards, cumul d'attitude inadmissible,manque de respect,insolence., cumul d'attitudes inacceptables, de retards à l'intérieur de l'école, le non port du masque et le non respect des consignes;15:00:00;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2023-12-05;dégradation du matériel;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2023-12-08;nan;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2024-01-17;a désobéi au professeur;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Retenue;2024-01-25;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Retenue;2024-01-29;nan;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2024-03-27;Attitude en classe;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2024-04-01;nan;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2024-04-05;bavardages incessants;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2024-04-05;nan;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2024-05-31;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+6A;Mot dans le carnet;2024-06-06;Bavardages incessants ;;K0Wt6oEfvrIJdGXMuYaWbMMDlS6lz0tZPy6AQILeAzM
+4C;Mot dans le carnet;2023-11-15;bavardage incessant;;zbBEU9kOpzAVh4UEJe73lGM3vKVsrUnxQpYITrgQYRE
+5A;Mot dans le carnet;2023-09-25;Bavardages incessants ;;Phtk45yjLwcVWQ4ai7m4JXim5KEWfgPxeQ34eNLsW4Q
+5A;Mot dans le carnet;2023-10-16;bavardage et manque de concentration;;Phtk45yjLwcVWQ4ai7m4JXim5KEWfgPxeQ34eNLsW4Q
+5A;Retenue;2024-02-20;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;Phtk45yjLwcVWQ4ai7m4JXim5KEWfgPxeQ34eNLsW4Q
+5A;Mot dans le carnet;2024-03-29;bavardages incessants;;Phtk45yjLwcVWQ4ai7m4JXim5KEWfgPxeQ34eNLsW4Q
+5A;Mot dans le carnet;2024-04-04;a insulté son camarade de classe;;Phtk45yjLwcVWQ4ai7m4JXim5KEWfgPxeQ34eNLsW4Q
+5A;Mot dans le carnet;2024-05-23;Bavardages incessants ;;Phtk45yjLwcVWQ4ai7m4JXim5KEWfgPxeQ34eNLsW4Q
+5A;Retenue;2024-06-06;Joue dans la classe and n'a pas fait sa tache;;Phtk45yjLwcVWQ4ai7m4JXim5KEWfgPxeQ34eNLsW4Q
+5A;Retenue;2024-06-07;cumul d'attitude inadmissible,manque de respect,insolence.;;Phtk45yjLwcVWQ4ai7m4JXim5KEWfgPxeQ34eNLsW4Q
+3A;Mot dans le carnet;2023-10-12;nan;;NuFLagPf86o9xiqsuRBO64qL-brsuVC_jWWPetbpvW8
+3A;Exclusion de cours;2024-02-01;Attitude inadmissible en cours;13:50:00;NuFLagPf86o9xiqsuRBO64qL-brsuVC_jWWPetbpvW8
+5A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2023-10-05;Attitude en classe;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2023-10-16;bavardage et manque de concentration;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2023-11-17;nan;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2023-12-18;insolence;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2024-01-24;Bavardage incessant et manque de respect dans la classe;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2024-02-19;Agitation en classe;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Retenue;2024-02-20;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2024-04-01;Agitation en classe;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2024-04-16;Attitude en classe;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2024-05-23;Agitation en classe;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Exclusion de cours;2024-06-03;à manque de de respect;10:10:00;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2024-06-07;Bavardages incessants et perturbation du cours pendant une évaluation;;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Exclusion de cours;2024-06-27;Manque de respect envers le professeur;13:50:00;dfDIl-cfO5wYW1djNXWRh6Lqp5wVNvpYRKv7-bL-Ie0
+5A;Mot dans le carnet;2023-10-16;bavardage et manque de concentration;;gwmFQf-IyLAWOTxNb5wz1hdFEMIb2miZRl75bMTdgSU
+5A;Mot dans le carnet;2024-02-05;Utilisation de télèphone au foyer;;gwmFQf-IyLAWOTxNb5wz1hdFEMIb2miZRl75bMTdgSU
+5A;Retenue;2024-02-20;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;gwmFQf-IyLAWOTxNb5wz1hdFEMIb2miZRl75bMTdgSU
+3B;Retenue;2023-11-24;bavardage et manque de concentration;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-03-22;tricherie lors d'une évaluation;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-03-28;telephone;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-04-19;mange en cours;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-04-22;attitude inacceptable;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Exclusion de cours;2024-04-24;Bavardages et manque de concentration.;09:00:00;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-05-13;bavardage et manque de concentration;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-05-15;Agitation en classe;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-05-16;bavardage incessant;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-05-16;utilisation du portable;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-05-17;Agitation;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-05-21;nan;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-05-22;bavardage;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-05-30;Insolence et bavardages incessantes;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-06-03;Manque de concentration. Bavardages incessants. Défaut de carnet;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+3B;Mot dans le carnet;2024-06-05;Bavardages incessants ;;HRK_WEqKGMIIFzQ3kx_tUUx1RtIo4PY0g-b9a4Uqf4Y
+2A;Mot dans le carnet;2024-02-20;Attitude en classe;;gq67y99eXJ52BwTQZ4GYpnYltf7tifuQ-yZvRuqrSHc
+2A;Mot dans le carnet;2024-03-18;bavardage et manque de concentration;;gq67y99eXJ52BwTQZ4GYpnYltf7tifuQ-yZvRuqrSHc
+2A;Devoir supplémentaire;2024-03-26;travail non fait;;gq67y99eXJ52BwTQZ4GYpnYltf7tifuQ-yZvRuqrSHc
+5C;Mot dans le carnet;2023-12-15;jet de papiers sur ses camarades en classe;;Faxe6QNFNzK7I_32yNMyef132__nXnCodwo1cb6lKDo
+5C;Mot dans le carnet;2024-03-28;bavardages incessants, manque de respect;;Faxe6QNFNzK7I_32yNMyef132__nXnCodwo1cb6lKDo
+5C;Mot dans le carnet;2024-04-18;nan;;Faxe6QNFNzK7I_32yNMyef132__nXnCodwo1cb6lKDo
+5C;Mot dans le carnet;2024-05-27;Agitation en classe;;Faxe6QNFNzK7I_32yNMyef132__nXnCodwo1cb6lKDo
+3B;Mot dans le carnet;2023-09-21;Bavardages incessants ;;ZSINIKE6X21M0xQ7KQ7ylow7zihMmJx60TO1w4gF02w
+3B;Retenue;2024-02-08;travail non fait;;ZSINIKE6X21M0xQ7KQ7ylow7zihMmJx60TO1w4gF02w
+2A;Mot dans le carnet;2023-10-09;Prend son téléphone en cours;;58oF_H9LN8xn6ot80d57Fy7OYJFTvbdtfPzWBLvapZA
+2A;Mot dans le carnet;2023-11-21;Bavardages incessants ;;58oF_H9LN8xn6ot80d57Fy7OYJFTvbdtfPzWBLvapZA
+2A;Mot dans le carnet;2024-02-01;attitude inacceptable, bavardage incessant;;58oF_H9LN8xn6ot80d57Fy7OYJFTvbdtfPzWBLvapZA
+2A;Mot dans le carnet;2024-02-20;Attitude en classe;;58oF_H9LN8xn6ot80d57Fy7OYJFTvbdtfPzWBLvapZA
+3B;Mot dans le carnet;2023-11-20;Attitude en classe;;g0QBXRijENnlhpRK2R-N5gIWVRDbIicaztDGgIyM9Bk
+3B;Mot dans le carnet;2024-01-22;BAVARDAGES;;g0QBXRijENnlhpRK2R-N5gIWVRDbIicaztDGgIyM9Bk
+3B;Mot dans le carnet;2024-01-25;Bavardages incessants ;;g0QBXRijENnlhpRK2R-N5gIWVRDbIicaztDGgIyM9Bk
+3B;Retenue;2024-03-11;evaluation anulée;;g0QBXRijENnlhpRK2R-N5gIWVRDbIicaztDGgIyM9Bk
+3B;Mot dans le carnet;2024-04-17;travail non fait;;g0QBXRijENnlhpRK2R-N5gIWVRDbIicaztDGgIyM9Bk
+3B;Mot dans le carnet;2024-05-30;bavardages incessants;;g0QBXRijENnlhpRK2R-N5gIWVRDbIicaztDGgIyM9Bk
+3B;Mot dans le carnet;2024-05-31;Prend son téléphone en cours;;g0QBXRijENnlhpRK2R-N5gIWVRDbIicaztDGgIyM9Bk
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Mot dans le carnet;2023-10-13;Attitude en classe;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Mot dans le carnet;2023-10-18;Agitation en classe;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Mot dans le carnet;2023-11-30;nan;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Exclusion de cours;2023-12-08;Retard injustifié;12:50:00;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Retenue;2024-01-29;bavardages incessants, cumul d'attitude inacceptable et de retards;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Exclusion de cours;2024-02-05;mange en classe;15:00:00;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Exclusion de cours;2024-02-14;Refus de participer, de travailler;16:00:00;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Retenue;2024-03-15;bavardage incessant;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Exclusion de cours;2024-04-05;Retard injustifié;12:50:00;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Mot dans le carnet;2024-04-05;Attitude en classe;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Retenue;2024-05-16;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+6A;Mot dans le carnet;2024-05-31;Attitude en classe;;qEBetcMrPuKHIloYY8JBB-Ob7AHI-htN64SA5shteBw
+3A;Mot dans le carnet;2023-10-19;nan;;-l37j9LGszZM4s0hqkhpGizyx6yXGIDC7sc9_gHieC0
+3A;Mot dans le carnet;2023-11-27;Bavardages incessants. Un grand manque de concentration. Perturbation du cours.Manque de carnet.;;-l37j9LGszZM4s0hqkhpGizyx6yXGIDC7sc9_gHieC0
+3A;Exclusion de cours;2024-06-06;retard;11:10:00;-l37j9LGszZM4s0hqkhpGizyx6yXGIDC7sc9_gHieC0
+6B;Retenue;2024-02-15;nan;;0DfSEwZh4Y8ECT3qsHm4OD2S7658Uwj2fqX3OurVAV0
+6B;Mot dans le carnet;2024-03-18;bavardage et manque de concentration;;0DfSEwZh4Y8ECT3qsHm4OD2S7658Uwj2fqX3OurVAV0
+6B;Retenue;2024-04-23;il a seché l'heure de permanence et il jouait le foot au plateau sportif sans autorisation et sans surveillance;;0DfSEwZh4Y8ECT3qsHm4OD2S7658Uwj2fqX3OurVAV0
+6B;Mot dans le carnet;2024-05-27;Bavardages incessants ;;0DfSEwZh4Y8ECT3qsHm4OD2S7658Uwj2fqX3OurVAV0
+6B;Mot dans le carnet;2024-05-28;Agitation en classe;;0DfSEwZh4Y8ECT3qsHm4OD2S7658Uwj2fqX3OurVAV0
+4C;Mot dans le carnet;2023-09-11;travail non fait;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Mot dans le carnet;2023-12-14;Dort en classe;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Retenue;2024-01-15;Chante en classe et manque de concentration;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Retenue;2024-02-09;bruit et cri en entrant en permanence;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Retenue;2024-02-16;Utilisation du téléphone en classe, pendant le cours.;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Mot dans le carnet;2024-04-24;attitude inacceptable;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Mot dans le carnet;2024-04-25;Devoirs non faits;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Exclusion de cours;2024-05-13;Refus des consignes;10:10:00;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Devoir supplémentaire;2024-05-27;bavardages incessants, Continue à perturber le cours malgré les avertissements répétés du professeurs , Manque de respect envers le professeur;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+4C;Mot dans le carnet;2024-05-31;comportement en classe;;dr6zGAdn0urYbkhbHyWiBGyhnl8HSNuDltdl6XaUGr4
+3B;Mot dans le carnet;2023-11-13;travail non fait;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Retenue;2023-11-16;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Mot dans le carnet;2024-01-22;Bavardages incessants ;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Mot dans le carnet;2024-02-05;Attitude en classe;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Mot dans le carnet;2024-03-28;bavardage et manque de concentration;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Mot dans le carnet;2024-04-01;Bavardages incessants ;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Retenue;2024-04-04;Attitude inadmissible en cours;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Retenue;2024-04-19;bavardage incessant;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Retenue;2024-05-30;Insulte;;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+3B;Exclusion de cours;2024-05-30;Bavardages incessants ;15:00:00;OBqWXID_6gXCg-qkqRd-KPCuuuh7La5TdolkHvp2F70
+2B;Mot dans le carnet;2023-12-11;Attitude en classe;;FBN6EGeamcjv7wFNtJht0qWIIzmX-hnV2QgBVnGVhPE
+2B;Mot dans le carnet;2024-02-19;Insultes;;FBN6EGeamcjv7wFNtJht0qWIIzmX-hnV2QgBVnGVhPE
+1B/C;Exclusion de cours;2024-02-15;nan;08:00:00;kQVzmIHaf9fDXWA5-PbHytpoapRKuM6UOzdXNsgZfSo
+2B;Mot dans le carnet;2024-02-13;Exclusion;;Fu7w5M2QEnVsYdcOTqF99dPmRo-YGVwJDOekKtW_BAc
+2B;Exclusion de cours;2024-04-05;nan;13:50:00;Fu7w5M2QEnVsYdcOTqF99dPmRo-YGVwJDOekKtW_BAc
+5C;Mot dans le carnet;2023-11-09;Bvardages incessants, manque de concentratiion, defaut de carnet;;Xff1jqDliDAxc7fsjz4a9RPIJ92j8O2JTXcZml4kmEU
+2C;Mot dans le carnet;2023-10-05;nan;;DYJJjbzBTxMK1bv7nsHZeYYop_kkIucL2x-BDbF_ntk
+2C;Exclusion de cours;2023-11-09;nan;10:10:00;DYJJjbzBTxMK1bv7nsHZeYYop_kkIucL2x-BDbF_ntk
+2C;Retenue;2023-12-07;ils se sont bagarrées dans la cour;;DYJJjbzBTxMK1bv7nsHZeYYop_kkIucL2x-BDbF_ntk
+2C;Mot dans le carnet;2024-03-28;Comportement inacceptable en classe;;DYJJjbzBTxMK1bv7nsHZeYYop_kkIucL2x-BDbF_ntk
+2A;Devoir supplémentaire;2023-10-10;nan;;cvhwwrJ7YNyWd6vVTa886ZGHPeadd72aotGUxO3P-0I
+2A;Exclusion de cours;2023-11-10;nan;12:50:00;cvhwwrJ7YNyWd6vVTa886ZGHPeadd72aotGUxO3P-0I
+2A;Mot dans le carnet;2023-11-21;Perturbe le cours de façon répétée malgrè les avertissements du professeur;;cvhwwrJ7YNyWd6vVTa886ZGHPeadd72aotGUxO3P-0I
+2A;Retenue;2023-12-07;ils se sont bagarrées dans la cour;;cvhwwrJ7YNyWd6vVTa886ZGHPeadd72aotGUxO3P-0I
+2A;Exclusion de cours;2023-12-08;bavardage incessant;12:50:00;cvhwwrJ7YNyWd6vVTa886ZGHPeadd72aotGUxO3P-0I
+2A;Retenue;2024-02-06;Utilisation de télèphone;;cvhwwrJ7YNyWd6vVTa886ZGHPeadd72aotGUxO3P-0I
+2A;Exclusion de cours;2024-02-14;a insulté son camarade de classe;15:00:00;cvhwwrJ7YNyWd6vVTa886ZGHPeadd72aotGUxO3P-0I
+6A;Mot dans le carnet;2023-09-22;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, Bavardage et pertu un comportement de non respect inadmissible vis à vis du professeur lors du commencement de l'évaluation ., Devoirs non faits;;I0g9FsiZISAZogVFz7k2h4WvmG2_tNNshWd2GdR-iQs
+6A;Exclusion de cours;2023-12-07;Retard injustifié;15:00:00;I0g9FsiZISAZogVFz7k2h4WvmG2_tNNshWd2GdR-iQs
+6A;Mot dans le carnet;2024-02-02;Bavardage incessant et manque de respect dans la classe;;I0g9FsiZISAZogVFz7k2h4WvmG2_tNNshWd2GdR-iQs
+6A;Mot dans le carnet;2024-05-13;bavardage;;I0g9FsiZISAZogVFz7k2h4WvmG2_tNNshWd2GdR-iQs
+6A;Mot dans le carnet;2024-05-17;Devoirs non faits;;I0g9FsiZISAZogVFz7k2h4WvmG2_tNNshWd2GdR-iQs
+4B;Retenue;2023-09-21;Agitation en classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;DBhZzjjKoAHCYqkYhYxx72oXkJ3IHKUhagBJnREviiM
+4B;Exclusion de cours;2023-10-06;Agitation en classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, Perturbe le cours de façon répétée malgrè les avertissements du professeur;15:00:00;DBhZzjjKoAHCYqkYhYxx72oXkJ3IHKUhagBJnREviiM
+4B;Mot dans le carnet;2023-11-09;Attitude inadmissible en cours;;DBhZzjjKoAHCYqkYhYxx72oXkJ3IHKUhagBJnREviiM
+4B;Mot dans le carnet;2023-12-05;Attitude inadmissible en cours;;DBhZzjjKoAHCYqkYhYxx72oXkJ3IHKUhagBJnREviiM
+4B;Exclusion de cours;2024-06-21;Quitte le cours sans permission et en laissant le matériel utilisé sans rien ranger;13:50:00;DBhZzjjKoAHCYqkYhYxx72oXkJ3IHKUhagBJnREviiM
+5A;Mot dans le carnet;2023-09-15;BAVARDAGES;;EW9Wk4B8_I8AeK-b02GJMcnGyRWMoXOxJpZh_EOOmkI
+5A;Mot dans le carnet;2023-09-25;Changement de place sans autorisation;;EW9Wk4B8_I8AeK-b02GJMcnGyRWMoXOxJpZh_EOOmkI
+5A;Mot dans le carnet;2023-10-05;Attitude en classe;;EW9Wk4B8_I8AeK-b02GJMcnGyRWMoXOxJpZh_EOOmkI
+5A;Mot dans le carnet;2023-10-09;devoir non rendu;;EW9Wk4B8_I8AeK-b02GJMcnGyRWMoXOxJpZh_EOOmkI
+5A;Retenue;2023-10-16;Bavardages incessants ;;EW9Wk4B8_I8AeK-b02GJMcnGyRWMoXOxJpZh_EOOmkI
+5A;Mot dans le carnet;2024-02-05;Devoirs non faits;;EW9Wk4B8_I8AeK-b02GJMcnGyRWMoXOxJpZh_EOOmkI
+3C;Mot dans le carnet;2023-10-04;Agitation, Attitude inadmissible en cours;;-76Ox6E3QPlYEeZC1FlqXjfy-inRpcssGvmJOrjq3pk
+3C;Mot dans le carnet;2023-10-09;Agitation en classe, bavardage incessant;;-76Ox6E3QPlYEeZC1FlqXjfy-inRpcssGvmJOrjq3pk
+3C;Retenue;2023-11-22;Utilisation de télèphone;;-76Ox6E3QPlYEeZC1FlqXjfy-inRpcssGvmJOrjq3pk
+2A;Retenue;2023-10-04;Utilisation de télèphone;;dS99cEPZdJ7rs3J805lUZq8nYZXS6adUa-UDZnVw3XM
+4B;Mot dans le carnet;2023-09-18;Attitude en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2023-09-26;bavardages incessants;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Retenue;2023-11-09;Devoirs non faits;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2023-11-20;bavardage incessant;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2023-11-24;cumul d'attitude inacceptable et de retards;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2023-11-27;Agitation en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2023-11-27;Excès de bavardage durant la séance ce qui a perturbé le déroulement  de l'activité  et du cours, à la fin ils étaient incapable d'interpréter l'œuvre ou réexpliquer l'élément étudié.  ;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2023-12-01;Attitude en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Retenue;2023-12-04;Agitation en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-01-12;bavardage incessant;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-01-18;Attitude en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Retenue;2024-01-18;Attitude en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-01-26;nan;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-01-26;attitude inacceptable;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-01-29;cumul d'attitude inadmissible,manque de respect,insolence.;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-02-09;Perturbe le cours par d'incessants bavardages malgré les appels à l'orde répétés du professeur.;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Exclusion de cours;2024-02-09;nan;08:00:00;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-02-16;Bavardage incessant et manque de respect dans la classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-03-25;Bruit et cri en entrant en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-04-19;Attitude en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-05-27;Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours, Comportement inacceptable en classe, Continue à perturber le cours malgré les avertissements répétés du professeurs , insolence;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-05-30;Agitation en classe, Changement de place sans autorisation, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-05-31;oublie constant de matériel;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-06-05;Agitation en classe, Bavardages et manque de concentration., geste deplacé;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-06-06;Agitation en classe;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+4B;Mot dans le carnet;2024-06-14;nan;;SDrata6mhqk9Qgak470L6AWgU6MJ4KDLZVk_6NEJwYg
+1A;Retenue;2024-03-18;Bavardages et manque de concentration.;;ZzZvoyMYwrVbciTPVkzMLv0vxPOEcR5cgsfowxSs3WQ
+1A;Retenue;2024-04-17;bavardages incessants;;ZzZvoyMYwrVbciTPVkzMLv0vxPOEcR5cgsfowxSs3WQ
+3A;Mot dans le carnet;2023-10-19;nan;;utPLMde5vIIS-xggFM1YKXPNkpEZZMfBEXvlbgpv0j0
+3C;Mot dans le carnet;2023-09-14;Agitation en classe;;jcP3ELktQ3nl90WgfmK-XgFHjsGUsXfVYA4S2NHJ1Xc
+3C;Mot dans le carnet;2023-12-12;Attitude en classe;;jcP3ELktQ3nl90WgfmK-XgFHjsGUsXfVYA4S2NHJ1Xc
+3C;Retenue;2024-04-09;dégradation du matériel;;jcP3ELktQ3nl90WgfmK-XgFHjsGUsXfVYA4S2NHJ1Xc
+3C;Mot dans le carnet;2024-05-20;Agitation en classe, bavardage incessant;;jcP3ELktQ3nl90WgfmK-XgFHjsGUsXfVYA4S2NHJ1Xc
+1B/C;Retenue;2023-10-04;nan;;taNEk7CDt32WpfZuusIPgAO04GXEJ8IznYh28B8mAVY
+1B/C;Exclusion de cours;2024-02-15;nan;08:00:00;taNEk7CDt32WpfZuusIPgAO04GXEJ8IznYh28B8mAVY
+4A;Mot dans le carnet;2023-09-21;Bavardages incessants ;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+4A;Mot dans le carnet;2023-12-04;Bavardages incessants ;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+4A;Mot dans le carnet;2023-12-11;dégradation du matériel;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+4A;Mot dans le carnet;2024-01-22;BAVARDAGES;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+4A;Mot dans le carnet;2024-02-16;bavardage;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+4A;Mot dans le carnet;2024-03-12;BAVARDAGES;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+4A;Mot dans le carnet;2024-04-19;Bavardage incessant et manque de respect dans la classe;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+4A;Mot dans le carnet;2024-05-20;Agitation en classe;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+4A;Mot dans le carnet;2024-05-28;Bavardages incessants ;;DRvJbEBKMlb7iveF4U0UOwmW8mX6XbciE5MBwR-gKW4
+2B;Retenue;2024-01-24;Utilisation de télèphone;;u5aqcItw1tIc_vFh2J_j3y3ogg5X_enSky9OALFL5Dg
+2A;Devoir supplémentaire;2023-10-10;nan;;77cHeE_kylTwAOgWVO7M9LXssQdOVaaiFfSvYf58Q7U
+2A;Mot dans le carnet;2024-02-20;Attitude en classe;;77cHeE_kylTwAOgWVO7M9LXssQdOVaaiFfSvYf58Q7U
+2A;Devoir supplémentaire;2024-03-26;travail non fait;;77cHeE_kylTwAOgWVO7M9LXssQdOVaaiFfSvYf58Q7U
+5C;Mot dans le carnet;2024-03-14;comportement inadmissible en permamnence;;SKWADw3ZDTt4N95AgyJS7u-dgb1gC6xks0a0IXLtAWM
+2A;Mot dans le carnet;2023-10-19;Attitude en classe;;ssFjGMOs5BDsWgqcv__KlRt68Bk0e0IovRqCzCQI_bM
+2A;Exclusion de cours;2024-02-14;a insulté son camarade de classe;15:00:00;ssFjGMOs5BDsWgqcv__KlRt68Bk0e0IovRqCzCQI_bM
+2A;Retenue;2024-02-21;Utilisation de téléphone portable;;ssFjGMOs5BDsWgqcv__KlRt68Bk0e0IovRqCzCQI_bM
+2A;Devoir supplémentaire;2024-03-26;travail non fait;;ssFjGMOs5BDsWgqcv__KlRt68Bk0e0IovRqCzCQI_bM
+2A;Retenue;2024-04-17;Bavardages incessants ;;ssFjGMOs5BDsWgqcv__KlRt68Bk0e0IovRqCzCQI_bM
+2A;Retenue;2024-05-16;non respect du réglement intérieur;;ssFjGMOs5BDsWgqcv__KlRt68Bk0e0IovRqCzCQI_bM
+2A;Mot dans le carnet;2024-05-28;tricherie lors d'une évaluation;;ssFjGMOs5BDsWgqcv__KlRt68Bk0e0IovRqCzCQI_bM
+6A;Mot dans le carnet;2023-10-13;bavardage et manque de concentration;;3eq1lZCw1T_-HiV3qx5HiDzFS_jvnETvMjaDF7QpMR8
+6A;Mot dans le carnet;2023-11-07;bavardage incessant, devoir non rendu;;3eq1lZCw1T_-HiV3qx5HiDzFS_jvnETvMjaDF7QpMR8
+6A;Mot dans le carnet;2023-11-10;Bavardages et manque de concentration.;;3eq1lZCw1T_-HiV3qx5HiDzFS_jvnETvMjaDF7QpMR8
+6A;Mot dans le carnet;2024-04-01;Devoirs non faits;;3eq1lZCw1T_-HiV3qx5HiDzFS_jvnETvMjaDF7QpMR8
+2B;Retenue;2023-11-30;Bavardages incessants. Un grand manque de concentra;;x-RhaHXRY6LN0RDu09Zumac75P85fYGy7jMF9s4UwoA
+2B;Mot dans le carnet;2023-12-14;Attitude inadmissible en cours;;x-RhaHXRY6LN0RDu09Zumac75P85fYGy7jMF9s4UwoA
+2B;Retenue;2023-12-15;Bavardage incessant et manque de respect dans la classe;;x-RhaHXRY6LN0RDu09Zumac75P85fYGy7jMF9s4UwoA
+2B;Mot dans le carnet;2024-03-21;bavardage et manque de concentration;;x-RhaHXRY6LN0RDu09Zumac75P85fYGy7jMF9s4UwoA
+2B;Mot dans le carnet;2024-03-25;attitude inacceptable;;x-RhaHXRY6LN0RDu09Zumac75P85fYGy7jMF9s4UwoA
+2B;Mot dans le carnet;2024-05-15;Utilisation de téléphone portable;;x-RhaHXRY6LN0RDu09Zumac75P85fYGy7jMF9s4UwoA
+2B;Mot dans le carnet;2024-05-22;Attitude en classe;;x-RhaHXRY6LN0RDu09Zumac75P85fYGy7jMF9s4UwoA
+4B;Mot dans le carnet;2023-09-14;BAVARDAGES;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2023-10-05;Bavardages incessants ;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2023-11-14;Attitude en classe;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2023-11-20;bavardages incessants;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2023-12-15;bavardage;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2024-01-22;bavardage et manque de concentration;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Retenue;2024-01-26;Agitation en classe, Bavardages incessants comme d'habitude. Un grand manque de concentration. manque de carnet. Perturbation du cours, Excès de bavardage, perturbations fréquentes  et un manque du respect au règlement de la classe, ce qui nous fait perdre énormément du temps pendant la séance .;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2024-02-06;Attitude en classe;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2024-04-01;Agitation en classe, bavardages incessants, manque de concentration;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Retenue;2024-04-19;Utilisation de téléphone portable;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Exclusion de cours;2024-05-13;Attitude en classe;11:10:00;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2024-05-16;bavardage et manque de concentration;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2024-05-30;Agitation en classe, bavardage incessant;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2024-06-05;Agitation en classe, Il bavarde sans cesse, sans respecter le déroulement du cours ni ses camarades de classe.;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Mot dans le carnet;2024-06-06;Agitation en classe;;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+4B;Exclusion de cours;2024-06-14;nan;08:00:00;0LzJSRzLAkgcwFlxIoBdjAVypUO5_iMEzB_0GFdVdMY
+5C;Mot dans le carnet;2024-05-27;Agitation en classe;;o66K6wuT0VS81ZX8_oFlhLedz_qIsTHViwkjj0SPS3s
+6A;Mot dans le carnet;2023-09-14;Bavardage incessant et manque de respect dans la classe;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2023-09-22;Devoirs non faits;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2023-09-26;Bavardages incessants. Un grand manque de concentration. Perturbation du cours.Manque de carnet., Matériel manquant;16:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2023-10-09;Agitation en classe, Bavardage incessant et manque de respect dans la classe, Bavardages et manque de concentration.;08:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2023-10-09;Attitude inadmissible en cours;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2023-10-13;Bavardages et manque de concentration.;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2023-10-20;bavardage;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2023-11-07;devoir non rendu;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Devoir supplémentaire;2023-11-09;absence de matériel;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2023-11-10;bavardage et manque de concentration;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2023-11-16;manque de respect;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2023-11-20;Bavardages incessants. Un grand manque de concentration. Perturbation du cours.Manque de carnet., oublie constant de matériel;08:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2023-11-23;nan;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2023-11-23;Attitude en classe, bavardage et manque de concentration;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2023-12-07;Retard injustifié;15:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2023-12-08;nan;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-01-12;Devoirs non faits;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-01-19;nan;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-01-19;Attitude inadmissible en cours;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2024-01-29;nan;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-01-29;a insulté son camarade de classe;15:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-02-05;Exclusion;11:10:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-02-14;attitude inacceptable;11:10:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2024-02-15;Insultes répétées envers des camarades et comportement inadapté en cours;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2024-02-23;nan;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Devoir supplémentaire;2024-03-14;Agitation;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-03-15;nan;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-03-29;nan;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-04-02;Agitation en classe, Attitude en classe;16:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2024-04-05;Attitude en classe;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-04-05;Agitation en classe;12:50:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-04-23;bavardage et manque de concentration, comportement en classe;13:50:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2024-05-13;bavardage incessant;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2024-05-13;Attitude inacceptable en classe envers le professeur et les autres.;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-13;bavardage;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-14;bavardage incessant;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-05-14;Attitude en classe;09:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-16;Insulte un camarade;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-17;oublie constant de matériel;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-17;Devoirs non faits;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-17;bavardage;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-20;Devoirs non faits;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Retenue;2024-05-20;a insulté son camarade de classe;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-05-24;Agression d'un élève, Bavardages incessants et perturbation du cours pendant une évaluation, Exclusion;15:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-27;Incivisme;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-05-27;Propos racistes et répétés envers un camarade;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-05-28;Attitude en classe;09:00:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-06-03;Insulte un camarade;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Mot dans le carnet;2024-06-06;Bavardages incessants ;;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+6A;Exclusion de cours;2024-06-10;Changement de place sans autorisation;11:10:00;KT4b7Uzob5pJEYNnqCvfeCRic4rEPEPTWFrb0kpwKw0
+3B;Mot dans le carnet;2023-11-13;Refus de participer, de travailler;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+3B;Retenue;2023-11-29;Devoirs non faits;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+3B;Retenue;2024-02-08;Devoirs non faits;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+3B;Mot dans le carnet;2024-02-22;Agitation en classe;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+3B;Mot dans le carnet;2024-04-08;travail non fait;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+3B;Mot dans le carnet;2024-04-15;travail non fait;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+3B;Mot dans le carnet;2024-04-17;travail non fait;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+3B;Retenue;2024-05-13;Devoirs non faits;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+3B;Mot dans le carnet;2024-06-03;Manque de concentration. Bavardages incessants. Défaut de carnet;;xsUkU3fltc1MdHExPJosXu1zUIQcyDEwZ7mN6RZ_BoM
+4C;Mot dans le carnet;2023-09-21;Bavardages incessants ;;0s3jSuf4b9jpiyEiahxcP7axNjzh0Y1X86OD-OqpXPA
+4C;Devoir supplémentaire;2024-04-17;Bavardages incessants et perturbation du cours pendant une évaluation;;0s3jSuf4b9jpiyEiahxcP7axNjzh0Y1X86OD-OqpXPA
+4C;Mot dans le carnet;2024-04-24;Agitation en classe, Bavardages incessants ;;0s3jSuf4b9jpiyEiahxcP7axNjzh0Y1X86OD-OqpXPA
+4C;Mot dans le carnet;2024-05-28;nan;;0s3jSuf4b9jpiyEiahxcP7axNjzh0Y1X86OD-OqpXPA
+3A;Mot dans le carnet;2023-10-17;nan;;6jEoT3pv-1HDslRgN2WVReag0gIH7DwUosAUbY7_QO0
+3A;Obligation de présenter des excuses à l'écrit;2024-02-06;nan;;6jEoT3pv-1HDslRgN2WVReag0gIH7DwUosAUbY7_QO0
+3A;Mot dans le carnet;2024-05-27;Bvardages incessants, manque de concentratiion, defaut de carnet;;6jEoT3pv-1HDslRgN2WVReag0gIH7DwUosAUbY7_QO0
+4A;Exclusion de cours;2023-11-17;Agitation en classe, ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;08:00:00;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Mot dans le carnet;2023-12-01;bavardage et manque de concentration;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Mot dans le carnet;2023-12-01;bavardage incessant;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Mot dans le carnet;2023-12-04;Attitude inadmissible en cours;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Mot dans le carnet;2024-01-22;nan;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Mot dans le carnet;2024-04-05;attitude inacceptable, bavardage incessant;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Mot dans le carnet;2024-04-08;Attitude en classe;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Mot dans le carnet;2024-04-22;bavardage incessant;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Mot dans le carnet;2024-05-20;nan;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+4A;Retenue;2024-05-31;Insulte un camarade, Se moque de sa camarade;;9OJQdDVF08zIKyazCUDDCPSx6mFKDc1A5Mmy0ARqtyw
+6A;Mot dans le carnet;2023-09-14;Bavardage incessant et manque de respect dans la classe;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Mot dans le carnet;2024-01-22;Agitation en classe;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Exclusion de cours;2024-02-09;nan;12:50:00;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Exclusion de cours;2024-02-16;Arrive souvent en classe en retard ;15:00:00;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Devoir supplémentaire;2024-03-14;bavardages incessants;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Retenue;2024-03-22;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Exclusion de cours;2024-03-25;Manque de respect envers le professeur;08:00:00;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Mot dans le carnet;2024-03-29;nan;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Mot dans le carnet;2024-04-05;Bavardages incessants ;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Mot dans le carnet;2024-04-05;nan;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Mot dans le carnet;2024-04-15;bavardage incessant;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6A;Retenue;2024-04-19;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+6B;Mot dans le carnet;2024-05-28;bavardage incessant;;2GOQP4QBOXhn-w8FY3MBtM-PpwfhzPWKKc46TFacXWw
+5A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2023-12-01;oublie constant de matériel;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-01-12;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-02-16;Agitation en classe;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-02-19;Agitation en classe;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Retenue;2024-02-20;Il a seché l'heure de permanence et il est  resté au toilettes en cachette;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-03-14;nan;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-03-15;Agitation;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-03-20;Agitation en classe;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-03-28;Comportement inacceptable en classe;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-03-29;Attitude en classe;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-04-02;Agitation en classe;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Retenue;2024-04-05;insolence;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+5A;Mot dans le carnet;2024-04-17;Bavardages et manque de concentration.;;V2GiFCul42pl0PmgZgikbf-os7aUUX7UI9H-zLHs-Vc
+4A;Mot dans le carnet;2023-09-14;Attitude en classe;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-09-18;bavardage incessant;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-09-22;Bavardages incessants ;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-09-25;Bavardages et manque de concentration.;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Retenue;2023-09-25;Agitation en classe, bavardages incessants, travail non fait;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-10-06;Attitude en classe;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-10-09;bavardage et manque de concentration;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-11-07;Utilisation du téléphone en classe, pendant le cours.;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-11-09;Bavardage incessant et manque de respect dans la classe;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Devoir supplémentaire;2023-11-20;Bavardage incessant et manque de respect dans la classe;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-11-27;Bavardages incessants comme d'habitude.Un grand manque de concentration. Perturbation du cours. Manque de carnet comme toujours.;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-11-30;Attitude en classe;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Exclusion de cours;2023-12-01;Agitation en classe;09:00:00;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-12-05;nan;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2023-12-05;Bavardages incessants ;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Exclusion de cours;2023-12-19;nan;08:00:00;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Retenue;2024-01-09;nan;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Retenue;2024-01-12;Utilisation de télèphone;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-01-23;Bavardages et manque de concentration.;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-01-29;nan;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-02-09;portable non éteint, utilisation du portable;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Retenue;2024-02-09;bruit et cri en entrant en permanence;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-02-16;Devoirs non faits;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Retenue;2024-02-16;Agitation en classe;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-03-12;BAVARDAGES;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Exclusion de cours;2024-03-21;a désobéi au professeur;11:10:00;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Retenue;2024-03-25;cumul d'attitude inacceptable et de retards;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-04-15;bavardage incessant;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-04-19;oublie constant de matériel;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Retenue;2024-04-24;il a seché l'heure de permanence et il jouait le foot au plateau sportif sans autorisation et sans surveillance;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Retenue;2024-05-17;à manque de respect à l'animteur et il a utilisé son télèphone au foyer;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-05-17;Agitation en classe;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-05-21;nan;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+4A;Mot dans le carnet;2024-05-27;insulte envers un enseignant;;wSyw5s6KdM4ay7kp44Gd-sswqn72jMHnYT19xwiEvp0
+6B;Mot dans le carnet;2023-12-05;Attitude en classe;;Le-08H1cTc1iW9jCS0wNnVpfaUiq1JVaFPkuu-0vbPA
+6B;Mot dans le carnet;2024-01-26;nan;;Le-08H1cTc1iW9jCS0wNnVpfaUiq1JVaFPkuu-0vbPA
+6B;Retenue;2024-03-20;plus de 4 retards sans excuses;;Le-08H1cTc1iW9jCS0wNnVpfaUiq1JVaFPkuu-0vbPA
+6B;Mot dans le carnet;2024-05-14;Incivisme;;Le-08H1cTc1iW9jCS0wNnVpfaUiq1JVaFPkuu-0vbPA
+6B;Mot dans le carnet;2024-05-22;nan;;Le-08H1cTc1iW9jCS0wNnVpfaUiq1JVaFPkuu-0vbPA
+6B;Mot dans le carnet;2024-05-23;Attitude en classe;;Le-08H1cTc1iW9jCS0wNnVpfaUiq1JVaFPkuu-0vbPA
+6B;Mot dans le carnet;2024-05-28;Insulte un camarade;;Le-08H1cTc1iW9jCS0wNnVpfaUiq1JVaFPkuu-0vbPA
+3A;Retenue;2024-03-18;utilisation d'un carnet de correspondance d'un autre élève pour sortir de l'établissement;;16YEqNkBiNkFAEWl7nNojK2nqAvn0YKJZw4kN2QlSuI
+3A;Mot dans le carnet;2024-05-27;Bavardage incessant et manque de respect dans la classe;;16YEqNkBiNkFAEWl7nNojK2nqAvn0YKJZw4kN2QlSuI
+5A;Mot dans le carnet;2023-09-19;Bavardages incessants ;;D-HnWq73AlwlZQL3gNvj_gF6dNzvlOwjdqgbuHLF1Ww
+5A;Mot dans le carnet;2023-09-22;Attitude en classe;;D-HnWq73AlwlZQL3gNvj_gF6dNzvlOwjdqgbuHLF1Ww
+5A;Mot dans le carnet;2023-09-25;Attitude en classe;;D-HnWq73AlwlZQL3gNvj_gF6dNzvlOwjdqgbuHLF1Ww
+5A;Mot dans le carnet;2023-10-09;Bavardages et manque de concentration.;;D-HnWq73AlwlZQL3gNvj_gF6dNzvlOwjdqgbuHLF1Ww
+5A;Retenue;2023-11-20;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR, bavardage incessant;;D-HnWq73AlwlZQL3gNvj_gF6dNzvlOwjdqgbuHLF1Ww
+5A;Mot dans le carnet;2024-03-25;Insulte un camarade;;D-HnWq73AlwlZQL3gNvj_gF6dNzvlOwjdqgbuHLF1Ww
+5A;Mot dans le carnet;2024-05-23;bavardage incessant;;D-HnWq73AlwlZQL3gNvj_gF6dNzvlOwjdqgbuHLF1Ww
+5A;Retenue;2024-05-23;Manque de concentration. Bavardages incessants. Défaut de carnet;;D-HnWq73AlwlZQL3gNvj_gF6dNzvlOwjdqgbuHLF1Ww
+3C;Mot dans le carnet;2023-10-13;Insulte un camarade;;53h5czvm_eRrOsyHhynUg0si2FOz9m3MIylFqYi1PO4
+3C;Mot dans le carnet;2023-11-27;bavardage incessant;;53h5czvm_eRrOsyHhynUg0si2FOz9m3MIylFqYi1PO4
+3C;Retenue;2023-11-29;est rentrée dans la salle d'examans par la fenêtre;;53h5czvm_eRrOsyHhynUg0si2FOz9m3MIylFqYi1PO4
+3C;Retenue;2024-04-01;Utilisation de téléphone portable;;53h5czvm_eRrOsyHhynUg0si2FOz9m3MIylFqYi1PO4
+3C;Mot dans le carnet;2024-04-18;Devoirs non faits;;53h5czvm_eRrOsyHhynUg0si2FOz9m3MIylFqYi1PO4
+2C;Retenue;2024-02-09;bavardage et manque de concentration;;piTjDzFhdq7TF3uc8GFpc0l7HGWEp9Cw1STqtUAdy4c
+5A;Mot dans le carnet;2023-10-16;Bavardages et manque de concentration.;;cuISFgmg4GZvz368mzW2OlRi9wPLxtQxzBk8PYYF4rc
+5A;Mot dans le carnet;2024-01-08;mange en classe, mange en cours;;cuISFgmg4GZvz368mzW2OlRi9wPLxtQxzBk8PYYF4rc
+5A;Mot dans le carnet;2024-02-05;Devoirs non faits, oublie constant de matériel;;cuISFgmg4GZvz368mzW2OlRi9wPLxtQxzBk8PYYF4rc
+5A;Mot dans le carnet;2024-03-14;bavardage incessant;;cuISFgmg4GZvz368mzW2OlRi9wPLxtQxzBk8PYYF4rc
+5A;Mot dans le carnet;2024-04-01;insolence;;cuISFgmg4GZvz368mzW2OlRi9wPLxtQxzBk8PYYF4rc
+5A;Mot dans le carnet;2024-05-23;bavardage incessant;;cuISFgmg4GZvz368mzW2OlRi9wPLxtQxzBk8PYYF4rc
+5A;Retenue;2024-06-06;Joue dans la classe and n'a pas fait sa tache;;cuISFgmg4GZvz368mzW2OlRi9wPLxtQxzBk8PYYF4rc
+1B/C;Retenue;2023-10-12;Manque de respect envers le professeur;;VIWlqyKKg-Kt6Li3O1OOBi4VIr0hKvZSFYJs9dZfXXM
+4C;Mot dans le carnet;2023-09-14;Agitation en classe;;xA896d0e-bL8Jd9jWmmom8KaYtGJIoDNCAO4C-gFlfU
+4C;Mot dans le carnet;2023-11-15;bavardage incessant;;xA896d0e-bL8Jd9jWmmom8KaYtGJIoDNCAO4C-gFlfU
+4C;Mot dans le carnet;2023-11-15;bavardage et manque de concentration;;xA896d0e-bL8Jd9jWmmom8KaYtGJIoDNCAO4C-gFlfU
+4C;Retenue;2024-03-15;Tricherie;;xA896d0e-bL8Jd9jWmmom8KaYtGJIoDNCAO4C-gFlfU
+4C;Retenue;2024-05-17;Tricherie;;xA896d0e-bL8Jd9jWmmom8KaYtGJIoDNCAO4C-gFlfU
+6C;Mot dans le carnet;2024-02-19;Attitude en classe;;uVu5Jv-y2anDkjh-kTm6d9VivmuTVOnpfK5xTr0GQSQ
+4B;Retenue;2023-11-23;oublie constant de matériel;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Exclusion de cours;2023-12-01;insolance;16:00:00;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Mot dans le carnet;2023-12-04;Bavardages et manque de concentration.;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Retenue;2024-01-19;Attitude inadmissible en cours;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Mot dans le carnet;2024-01-23;Attitude en classe;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Mot dans le carnet;2024-02-01;Bavardage incessant et manque de respect dans la classe;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Mot dans le carnet;2024-02-05;Bavardages incessants. Un grand manque de concentration. Perturbation du cours.Manque de carnet.;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Mot dans le carnet;2024-02-09;nan;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Mot dans le carnet;2024-04-18;a insulté son camarade de classe;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Mot dans le carnet;2024-05-31;oublie constant de matériel;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4B;Mot dans le carnet;2024-06-05;Bavardages incessants , Gêne le déroulé du cours et ne fait rien ;;YmmMsIgLkgh7QaB8nYAn8okf83868cMDGDp6rWz2nzc
+4C;Mot dans le carnet;2023-09-19;Bavardages incessants.Manque de concentration. Défaut de carnet;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2023-11-15;Bavardages et manque de concentration.;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2023-11-27;Agitation en classe, bavardage incessant, défaut de carnet, manque de concentration;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Retenue;2024-01-15;Agitation en classe;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-01-25;Bavardages et manque de concentration.;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-01-31;Agitation en classe, Bvardages incessants, manque de concentratiion, defaut de carnet;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-02-05;attitude inacceptable;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Devoir supplémentaire;2024-03-14;Agitation en classe, Attitude inadmissible en cours, Bavardage incessant et manque de respect dans la classe, conteste la parole du professeur, Excès de bavardage, perturbations fréquentes et un manque du, Perturbe le cours de façon répétée malgrè les avertissements du professeur;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Retenue;2024-03-26;ATTITUDE INACCEPTABLE EN CLASSE ENVERS LE PROFESSEUR;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-04-15;bavardage et manque de concentration;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-04-22;Agitation en classe;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-05-13;BAVARDAGES;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Retenue;2024-05-20;cumul d'attitude inadmissible,manque de respect,insolence.;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-05-23;bavardage incessant;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-05-28;nan;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Retenue;2024-05-30;Refus des consignes insolences Absence de matériel . Attitude inadmissible en classe de manière fréquente.;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Mot dans le carnet;2024-05-31;Changement de place sans autorisation;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+4C;Retenue;2024-06-03;Agitation en classe, manque de respect;;P2_67ZQgGTKJkUF1ie-4F2dklYxngRCLrrLBXY5xps4
+6B;Retenue;2024-02-01;nan;;-YFmqgZVsV2oUpgKhxn0cE4yjWFy3gbRBTnDCuWC4Yg
+6B;Retenue;2024-02-15;nan;;-YFmqgZVsV2oUpgKhxn0cE4yjWFy3gbRBTnDCuWC4Yg
+6B;Mot dans le carnet;2024-04-02;Attitude en classe;;-YFmqgZVsV2oUpgKhxn0cE4yjWFy3gbRBTnDCuWC4Yg
+6B;Mot dans le carnet;2024-04-08;bavardage incessant;;-YFmqgZVsV2oUpgKhxn0cE4yjWFy3gbRBTnDCuWC4Yg
+6B;Exclusion de cours;2024-05-24;Attitude en classe;15:00:00;-YFmqgZVsV2oUpgKhxn0cE4yjWFy3gbRBTnDCuWC4Yg
+5B;Mot dans le carnet;2024-02-09;Attitude en classe;;Snyv0ZAjku28cOyPqfMpSqd2me5RfHlcW4dIOtbbHDk
+5B;Mot dans le carnet;2024-04-05;Comportement inacceptable en classe;;Snyv0ZAjku28cOyPqfMpSqd2me5RfHlcW4dIOtbbHDk
+5B;Retenue;2024-04-15;insulte une camarade;;Snyv0ZAjku28cOyPqfMpSqd2me5RfHlcW4dIOtbbHDk
+5B;Retenue;2024-04-15;a frapper un eleve dans la cour;;Snyv0ZAjku28cOyPqfMpSqd2me5RfHlcW4dIOtbbHDk
